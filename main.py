@@ -480,11 +480,6 @@ class Newcon:
         df_newcon_info = criar_df_atravas_lista_info(self.list_table)
         return df_newcon_info, df_newcon_conf, df_newcon_desc, df_newcon_apur
 
-
- 
-
-
-
 ##################### TRATAR E JUNTAR DE TABELAS #############################
 
 
