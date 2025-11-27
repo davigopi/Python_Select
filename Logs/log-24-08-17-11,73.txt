@@ -1,0 +1,14 @@
+
+11:44:50   0
+ERRO TAREFA: Tb nao atualizar = tb anterio 5 vezes: 75% LIGHT - TX. 15% / GM / TRACKER TURBO - 142.990,00
+ERRO TEMPO: 00:03:09 tempo de execução, passou: 0:32 -> /75% LIGHT - TX. 15%/GM/TRACKER TURBO - 142.990,00
+ERRO TAREFA: Tb nao atualizar = tb anterio 5 vezes: 75% LIGHT - TX. 15% / VOLKSWAGEN / NOVO POLO 1.0 84HP - 93.490,00
+ERRO TEMPO: 00:05:04 tempo de execução, passou: 0:31 -> /75% LIGHT - TX. 15%/VOLKSWAGEN/NOVO POLO 1.0 84HP - 93.490,00
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+ERRO TEMPO: 00:06:25 tempo de execução, passou: 0:20 -> /75% LIGHT - TX. 15%/VOLKSWAGEN/VIRTUS HIGHLINE 200 TSI AT - 142.990,00
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="divPasso1"]/div/div[2]/div/div[5]/div[3]/div/input'])
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="divPasso1"]/div/div[2]/div/div[5]/div[3]/div/input'])
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="divPasso1"]/div/div[2]/div/div[5]/div[3]/div/input'])
+ERRO TEMPO: 00:13:25 tempo de execução, passou: 0:20 -> /75% LIGHT - TX. 20%/VOLKSWAGEN/SAVEIRO TRENDLINE CS - 104.990,00
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="divPasso1"]/div/div[2]/div/div[5]/div[3]/div/input'])
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="divPasso1"]/div/div[2]/div/div[5]/div[3]/div/input'])

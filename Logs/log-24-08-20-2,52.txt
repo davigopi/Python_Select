@@ -1,0 +1,13 @@
+
+02:31:48   0
+ERRO TAREFA: Tb não atualizar = tb anterio 4 vezes: 75% LIGHT - TX. 15% /VOLKSWAGEN / NIVUS HIGHLINE 200 TSI AT - 152.990,00
+FUNCOES OBS: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+FUNCOES OBS: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+FUNCOES OBS: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+FUNCOES OBS: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+FUNCOES OBS: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+FUNCOES OBS: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+FUNCOES OBS: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+FUNCOES OBS: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="divPasso1"]/div/div[2]/div/div[5]/div[3]/div/input'])
+FUNCOES OBS: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="divPasso1"]/div/div[2]/div/div[5]/div[3]/div/input'])
+ERRO TAREFA: Tb não atualizar = tb anterio 4 vezes: 75% LIGHT - TX. 24% /VOLKSWAGEN / 60% SAVEIRO TRENDLINE CS 104HP - 62.994,00

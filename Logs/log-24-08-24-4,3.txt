@@ -1,0 +1,1010 @@
+
+04:18:35   0
+FUNCOES OBS: Grupo: 2622 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCOES OBS: Grupo: 2626 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2626 / None / None
+FUNCOES OBS: Grupo: 2628 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2628 / None / None
+FUNCOES OBS: Grupo: 2630 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2630 / None / None
+FUNCOES OBS: Grupo: 2632 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2632 / None / None
+FUNCOES OBS: Grupo: 2633 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2633 / None / None
+FUNCOES OBS: Grupo: 2634 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2634 / None / None
+FUNCOES OBS: Grupo: 2636 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2636 / None / None
+FUNCOES OBS: Grupo: 2637 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2637 / None / None
+FUNCOES OBS: Grupo: 2638 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2638 / None / None
+FUNCOES OBS: Grupo: 2639 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2639 / None / None
+FUNCOES OBS: Grupo: 2641 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2641 / None / None
+FUNCOES OBS: Grupo: 2642 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2642 / None / None
+FUNCOES OBS: Grupo: 2643 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2643 / None / None
+FUNCOES OBS: Grupo: 2645 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2645 / None / None
+FUNCOES OBS: Grupo: 2646 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2646 / None / None
+FUNCOES OBS: Grupo: 2648 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2648 / None / None
+FUNCOES OBS: Grupo: 2649 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2649 / None / None
+FUNCOES OBS: Grupo: 2650 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2650 / None / None
+FUNCOES OBS: Grupo: 2651 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2651 / None / None
+FUNCOES OBS: Grupo: 2653 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2653 / None / None
+FUNCOES OBS: Grupo: 2655 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2655 / None / None
+FUNCOES OBS: Grupo: 2656 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2656 / None / None
+FUNCOES OBS: Grupo: 2658 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2658 / None / None
+FUNCOES OBS: Grupo: 2659 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2659 / None / None
+FUNCOES OBS: Grupo: 2661 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2661 / None / None
+FUNCOES OBS: Grupo: 2662 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2662 / None / None
+FUNCOES OBS: Grupo: 2664 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2664 / None / None
+FUNCOES OBS: Grupo: 2666 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2666 / None / None
+FUNCOES OBS: Grupo: 2668 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2668 / None / None
+FUNCOES OBS: Grupo: 2669 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2669 / None / None
+FUNCOES OBS: Grupo: 2671 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2671 / None / None
+FUNCOES OBS: Grupo: 2673 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2673 / None / None
+FUNCOES OBS: Grupo: 2674 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2674 / None / None
+FUNCOES OBS: Grupo: 2676 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2676 / None / None
+FUNCOES OBS: Grupo: 2678 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2678 / None / None
+FUNCOES OBS: Grupo: 2679 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2679 / None / None
+FUNCOES OBS: Grupo: 2682 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2682 / None / None
+FUNCOES OBS: Grupo: 2683 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2683 / None / None
+FUNCOES OBS: Grupo: 2684 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2684 / None / None
+FUNCOES OBS: Grupo: 2685 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2685 / None / None
+FUNCOES OBS: Grupo: 2686 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2686 / None / None
+FUNCOES OBS: Grupo: 2687 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2687 / None / None
+FUNCOES OBS: Grupo: 2688 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2688 / None / None
+FUNCOES OBS: Grupo: 2689 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2689 / None / None
+FUNCOES OBS: Grupo: 2690 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2690 / None / None
+FUNCOES OBS: Grupo: 2691 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2691 / None / None
+FUNCOES OBS: Grupo: 2692 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2692 / None / None
+FUNCOES OBS: Grupo: 2693 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2693 / None / None
+FUNCOES OBS: Grupo: 2694 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2694 / None / None
+FUNCOES OBS: Grupo: 2695 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2695 / None / None
+FUNCOES OBS: Grupo: 2696 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2696 / None / None
+FUNCOES OBS: Grupo: 2697 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2697 / None / None
+FUNCOES OBS: Grupo: 2698 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2698 / None / None
+FUNCOES OBS: Grupo: 2699 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2699 / None / None
+FUNCOES OBS: Grupo: 2700 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2700 / None / None
+FUNCOES OBS: Grupo: 2701 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2701 / None / None
+FUNCOES OBS: Grupo: 2702 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2702 / None / None
+FUNCOES OBS: Grupo: 2703 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2703 / None / None
+FUNCOES OBS: Grupo: 2704 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2704 / None / None
+FUNCOES OBS: Grupo: 2705 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2705 / None / None
+FUNCOES OBS: Grupo: 2706 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2706 / None / None
+FUNCOES OBS: Grupo: 2707 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2707 / None / None
+FUNCOES OBS: Grupo: 2708 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2708 / None / None
+FUNCOES OBS: Grupo: 2709 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2709 / None / None
+FUNCOES OBS: Grupo: 2710 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2710 / None / None
+FUNCOES OBS: Grupo: 2711 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2711 / None / None
+FUNCOES OBS: Grupo: 2712 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2712 / None / None
+FUNCOES OBS: Grupo: 2713 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2713 / None / None
+FUNCOES OBS: Grupo: 2714 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2714 / None / None
+FUNCOES OBS: Grupo: 2715 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2715 / None / None
+FUNCOES OBS: Grupo: 2717 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2717 / None / None
+FUNCOES OBS: Grupo: 2718 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2718 / None / None
+FUNCOES OBS: Grupo: 2719 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2719 / None / None
+FUNCOES OBS: Grupo: 2720 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2720 / None / None
+FUNCOES OBS: Grupo: 2721 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2721 / None / None
+FUNCOES OBS: Grupo: 2722 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2722 / None / None
+FUNCOES OBS: Grupo: 2723 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2723 / None / None
+FUNCOES OBS: Grupo: 2724 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2724 / None / None
+FUNCOES OBS: Grupo: 2725 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2725 / None / None
+FUNCOES OBS: Grupo: 2726 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2726 / None / None
+FUNCOES OBS: Grupo: 2727 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2727 / None / None
+FUNCOES OBS: Grupo: 2728 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2728 / None / None
+FUNCOES OBS: Grupo: 2729 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2729 / None / None
+FUNCOES OBS: Grupo: 2730 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2730 / None / None
+FUNCOES OBS: Grupo: 2731 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2731 / None / None
+FUNCOES OBS: Grupo: 2732 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2732 / None / None
+FUNCOES OBS: Grupo: 2733 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2733 / None / None
+FUNCOES OBS: Grupo: 2734 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2734 / None / None
+FUNCOES OBS: Grupo: 2735 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2735 / None / None
+FUNCOES OBS: Grupo: 2736 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2736 / None / None
+FUNCOES OBS: Grupo: 2737 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2737 / None / None
+FUNCOES OBS: Grupo: 2738 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2738 / None / None
+FUNCOES OBS: Grupo: 2739 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2739 / None / None
+FUNCOES OBS: Grupo: 2740 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2740 / None / None
+FUNCOES OBS: Grupo: 2741 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2741 / None / None
+FUNCOES OBS: Grupo: 2742 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2742 / None / None
+FUNCOES OBS: Grupo: 2743 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2743 / None / None
+FUNCOES OBS: Grupo: 2744 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2744 / None / None
+FUNCOES OBS: Grupo: 2745 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2745 / None / None
+FUNCOES OBS: Grupo: 2746 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2746 / None / None
+FUNCOES OBS: Grupo: 2747 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2747 / None / None
+FUNCOES OBS: Grupo: 2748 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2748 / None / None
+FUNCOES OBS: Grupo: 2749 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2749 / None / None
+FUNCOES OBS: Grupo: 2750 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2750 / None / None
+FUNCOES OBS: Grupo: 2751 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2751 / None / None
+FUNCOES OBS: Grupo: 2752 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2752 / None / None
+FUNCOES OBS: Grupo: 2753 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2753 / None / None
+FUNCOES OBS: Grupo: 2754 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2754 / None / None
+FUNCOES OBS: Grupo: 2755 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2755 / None / None
+FUNCOES OBS: Grupo: 2756 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2756 / None / None
+FUNCOES OBS: Grupo: 2757 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2757 / None / None
+FUNCOES OBS: Grupo: 2758 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2758 / None / None
+FUNCOES OBS: Grupo: 2759 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2759 / None / None
+FUNCOES OBS: Grupo: 2760 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2760 / None / None
+FUNCOES OBS: Grupo: 2761 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2761 / None / None
+FUNCOES OBS: Grupo: 2762 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2762 / None / None
+FUNCOES OBS: Grupo: 2763 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2763 / None / None
+FUNCOES OBS: Grupo: 2764 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2764 / None / None
+FUNCOES OBS: Grupo: 2765 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2765 / None / None
+FUNCOES OBS: Grupo: 2766 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2766 / None / None
+FUNCOES OBS: Grupo: 2767 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2767 / None / None
+FUNCOES OBS: Grupo: 2768 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2768 / None / None
+FUNCOES OBS: Grupo: 2769 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2769 / None / None
+FUNCOES OBS: Grupo: 2770 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2770 / None / None
+FUNCOES OBS: Grupo: 2771 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2771 / None / None
+FUNCOES OBS: Grupo: 2772 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2772 / None / None
+FUNCOES OBS: Grupo: 2773 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2773 / None / None
+FUNCOES OBS: Grupo: 2774 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2774 / None / None
+FUNCOES OBS: Grupo: 2775 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2775 / None / None
+FUNCOES OBS: Grupo: 2776 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2776 / None / None
+FUNCOES OBS: Grupo: 2777 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2777 / None / None
+FUNCOES OBS: Grupo: 2778 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2778 / None / None
+FUNCOES OBS: Grupo: 2779 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2779 / None / None
+FUNCOES OBS: Grupo: 2780 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2780 / None / None
+FUNCOES OBS: Grupo: 2781 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2781 / None / None
+FUNCOES OBS: Grupo: 2782 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2782 / None / None
+FUNCOES OBS: Grupo: 2783 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2783 / None / None
+FUNCOES OBS: Grupo: 2784 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2784 / None / None
+FUNCOES OBS: Grupo: 2785 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2785 / None / None
+FUNCOES OBS: Grupo: 2786 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2786 / None / None
+FUNCOES OBS: Grupo: 2787 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2787 / None / None
+FUNCOES OBS: Grupo: 2788 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2788 / None / None
+FUNCOES OBS: Grupo: 2789 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2789 / None / None
+FUNCOES OBS: Grupo: 2790 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2790 / None / None
+FUNCOES OBS: Grupo: 2791 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2791 / None / None
+FUNCOES OBS: Grupo: 2792 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2792 / None / None
+FUNCOES OBS: Grupo: 2793 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2793 / None / None
+FUNCOES OBS: Grupo: 2794 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2794 / None / None
+FUNCOES OBS: Grupo: 2795 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2795 / None / None
+FUNCOES OBS: Grupo: 2796 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2796 / None / None
+FUNCOES OBS: Grupo: 2797 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2797 / None / None
+FUNCOES OBS: Grupo: 2798 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2798 / None / None
+FUNCOES OBS: Grupo: 2799 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2799 / None / None
+FUNCOES OBS: Grupo: 2800 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2800 / None / None
+FUNCOES OBS: Grupo: 2801 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2801 / None / None
+FUNCOES OBS: Grupo: 2802 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2802 / None / None
+FUNCOES OBS: Grupo: 2803 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2803 / None / None
+FUNCOES OBS: Grupo: 2804 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2804 / None / None
+FUNCOES OBS: Grupo: 2805 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2805 / None / None
+FUNCOES OBS: Grupo: 2806 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2806 / None / None
+FUNCOES OBS: Grupo: 2807 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2807 / None / None
+FUNCOES OBS: Grupo: 2808 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2808 / None / None
+FUNCOES OBS: Grupo: 2809 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2809 / None / None
+FUNCOES OBS: Grupo: 2810 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2810 / None / None
+FUNCOES OBS: Grupo: 2811 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2811 / None / None
+FUNCOES OBS: Grupo: 2812 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2812 / None / None
+FUNCOES OBS: Grupo: 2813 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2813 / None / None
+FUNCOES OBS: Grupo: 2814 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2814 / None / None
+FUNCOES OBS: Grupo: 2815 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2815 / None / None
+FUNCOES OBS: Grupo: 2816 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2816 / None / None
+FUNCOES OBS: Grupo: 2817 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2817 / None / None
+FUNCOES OBS: Grupo: 2818 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2818 / None / None
+FUNCOES OBS: Grupo: 2819 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2819 / None / None
+FUNCOES OBS: Grupo: 2820 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2820 / None / None
+FUNCOES OBS: Grupo: 2821 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2821 / None / None
+FUNCOES OBS: Grupo: 2822 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2822 / None / None
+FUNCOES OBS: Grupo: 2823 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2823 / None / None
+FUNCOES OBS: Grupo: 2824 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2824 / None / None
+FUNCOES OBS: Grupo: 2826 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2826 / None / None
+FUNCOES OBS: Grupo: 2827 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2827 / None / None
+FUNCOES OBS: Grupo: 2828 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2828 / None / None
+FUNCOES OBS: Grupo: 2829 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2829 / None / None
+FUNCOES OBS: Grupo: 2831 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2831 / None / None
+FUNCOES OBS: Grupo: 2833 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2833 / None / None
+FUNCOES OBS: Grupo: 2834 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2834 / None / None
+FUNCOES OBS: Grupo: 2835 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2835 / None / None
+FUNCOES OBS: Grupo: 2836 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2836 / None / None
+FUNCOES OBS: Grupo: 2837 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2837 / None / None
+FUNCOES OBS: Grupo: 2838 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2838 / None / None
+FUNCOES OBS: Grupo: 2839 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2839 / None / None
+FUNCOES OBS: Grupo: 2840 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2840 / None / None
+FUNCOES OBS: Grupo: 2841 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2841 / None / None
+FUNCOES OBS: Grupo: 2842 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2842 / None / None
+FUNCOES OBS: Grupo: 2843 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2843 / None / None
+FUNCOES OBS: Grupo: 2844 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2844 / None / None
+FUNCOES OBS: Grupo: 2845 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2845 / None / None
+FUNCOES OBS: Grupo: 2846 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2846 / None / None
+FUNCOES OBS: Grupo: 2847 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2847 / None / None
+FUNCOES OBS: Grupo: 2848 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2848 / None / None
+FUNCOES OBS: Grupo: 2849 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2849 / None / None
+FUNCOES OBS: Grupo: 2850 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2850 / None / None
+FUNCOES OBS: Grupo: 2851 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2851 / None / None
+FUNCOES OBS: Grupo: 2852 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2852 / None / None
+FUNCOES OBS: Grupo: 2853 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2853 / None / None
+FUNCOES OBS: Grupo: 2854 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2854 / None / None
+FUNCOES OBS: Grupo: 2855 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2855 / None / None
+FUNCOES OBS: Grupo: 2856 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2856 / None / None
+FUNCOES OBS: Grupo: 2857 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2857 / None / None
+FUNCOES OBS: Grupo: 2858 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2858 / None / None
+FUNCOES OBS: Grupo: 2859 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2859 / None / None
+FUNCOES OBS: Grupo: 2860 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2860 / None / None
+FUNCOES OBS: Grupo: 2861 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2861 / None / None
+FUNCOES OBS: Grupo: 2862 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2862 / None / None
+FUNCOES OBS: Grupo: 2863 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2863 / None / None
+FUNCOES OBS: Grupo: 2864 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2864 / None / None
+FUNCOES OBS: Grupo: 2865 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2865 / None / None
+FUNCOES OBS: Grupo: 2866 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2866 / None / None
+FUNCOES OBS: Grupo: 2867 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2867 / None / None
+FUNCOES OBS: Grupo: 2868 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2868 / None / None
+FUNCOES OBS: Grupo: 2869 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2869 / None / None
+FUNCOES OBS: Grupo: 2870 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2870 / None / None
+FUNCOES OBS: Grupo: 2871 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2871 / None / None
+FUNCOES OBS: Grupo: 2872 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2872 / None / None
+FUNCOES OBS: Grupo: 2873 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2873 / None / None
+FUNCOES OBS: Grupo: 2874 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2874 / None / None
+FUNCOES OBS: Grupo: 2875 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2875 / None / None
+FUNCOES OBS: Grupo: 2876 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2876 / None / None
+FUNCOES OBS: Grupo: 2877 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2877 / None / None
+FUNCOES OBS: Grupo: 2878 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2878 / None / None
+FUNCOES OBS: Grupo: 2879 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2879 / None / None
+FUNCOES OBS: Grupo: 2881 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2881 / None / None
+FUNCOES OBS: Grupo: 2882 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2882 / None / None
+FUNCOES OBS: Grupo: 2883 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2883 / None / None
+FUNCOES OBS: Grupo: 2885 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2885 / None / None
+FUNCOES OBS: Grupo: 2886 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2886 / None / None
+FUNCOES OBS: Grupo: 2887 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2887 / None / None
+FUNCOES OBS: Grupo: 2888 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2888 / None / None
+FUNCOES OBS: Grupo: 2889 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2889 / None / None
+FUNCOES OBS: Grupo: 2890 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2890 / None / None
+FUNCOES OBS: Grupo: 2894 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2894 / None / None
+FUNCOES OBS: Grupo: 2895 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2895 / None / None
+FUNCOES OBS: Grupo: 2896 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2896 / None / None
+FUNCOES OBS: Grupo: 2898 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2898 / None / None
+FUNCOES OBS: Grupo: 2900 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2900 / None / None
+FUNCOES OBS: Grupo: 2902 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2902 / None / None
+FUNCOES OBS: Grupo: 2903 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2903 / None / None
+FUNCOES OBS: Grupo: 2905 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2905 / None / None
+FUNCOES OBS: Grupo: 2906 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2906 / None / None
+FUNCOES OBS: Grupo: 2907 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2907 / None / None
+FUNCOES OBS: Grupo: 2908 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2908 / None / None
+FUNCOES OBS: Grupo: 2909 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2909 / None / None
+FUNCOES OBS: Grupo: 2910 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2910 / None / None
+FUNCOES OBS: Grupo: 2911 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2911 / None / None
+FUNCOES OBS: Grupo: 2913 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2913 / None / None
+FUNCOES OBS: Grupo: 2914 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2914 / None / None
+FUNCOES OBS: Grupo: 2915 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2915 / None / None
+FUNCOES OBS: Grupo: 2916 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2916 / None / None
+FUNCOES OBS: Grupo: 2918 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2918 / None / None
+FUNCOES OBS: Grupo: 2920 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2920 / None / None
+FUNCOES OBS: Grupo: 2921 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2921 / None / None
+FUNCOES OBS: Grupo: 2922 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2922 / None / None
+FUNCOES OBS: Grupo: 2926 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2926 / None / None
+FUNCOES OBS: Grupo: 2928 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2928 / None / None
+FUNCOES OBS: Grupo: 2929 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2929 / None / None
+FUNCOES OBS: Grupo: 2931 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2931 / None / None
+FUNCOES OBS: Grupo: 2933 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2933 / None / None
+FUNCOES OBS: Grupo: 2934 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2934 / None / None
+FUNCOES OBS: Grupo: 2935 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2935 / None / None
+FUNCOES OBS: Grupo: 2936 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2936 / None / None
+FUNCOES OBS: Grupo: 2937 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2937 / None / None
+FUNCOES OBS: Grupo: 2938 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2938 / None / None
+FUNCOES OBS: Grupo: 2939 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2939 / None / None
+FUNCOES OBS: Grupo: 2941 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2941 / None / None
+FUNCOES OBS: Grupo: 2942 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2942 / None / None
+FUNCOES OBS: Grupo: 2944 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2944 / None / None
+FUNCOES OBS: Grupo: 2945 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2945 / None / None
+FUNCOES OBS: Grupo: 2946 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2946 / None / None
+FUNCOES OBS: Grupo: 2947 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2947 / None / None
+FUNCOES OBS: Grupo: 2948 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2948 / None / None
+FUNCOES OBS: Grupo: 2949 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2949 / None / None
+FUNCOES OBS: Grupo: 2950 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2950 / None / None
+FUNCOES OBS: Grupo: 2951 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2951 / None / None
+FUNCOES OBS: Grupo: 2952 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2952 / None / None
+FUNCOES OBS: Grupo: 2953 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2953 / None / None
+FUNCOES OBS: Grupo: 2954 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2954 / None / None
+FUNCOES OBS: Grupo: 2955 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2955 / None / None
+FUNCOES OBS: Grupo: 2956 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2956 / None / None
+FUNCOES OBS: Grupo: 2957 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2957 / None / None
+FUNCOES OBS: Grupo: 2958 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2958 / None / None
+FUNCOES OBS: Grupo: 2960 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2960 / None / None
+FUNCOES OBS: Grupo: 2961 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2961 / None / None
+FUNCOES OBS: Grupo: 2963 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2963 / None / None
+FUNCOES OBS: Grupo: 2964 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2964 / None / None
+FUNCOES OBS: Grupo: 2965 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2965 / None / None
+FUNCOES OBS: Grupo: 2966 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2966 / None / None
+FUNCOES OBS: Grupo: 2968 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2968 / None / None
+FUNCOES OBS: Grupo: 2969 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2969 / None / None
+FUNCOES OBS: Grupo: 2970 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2970 / None / None
+FUNCOES OBS: Grupo: 2971 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2971 / None / None
+FUNCOES OBS: Grupo: 2972 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2972 / None / None
+FUNCOES OBS: Grupo: 2973 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2973 / None / None
+FUNCOES OBS: Grupo: 2974 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2974 / None / None
+FUNCOES OBS: Grupo: 2979 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2979 / None / None
+FUNCOES OBS: Grupo: 2980 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2980 / None / None
+FUNCOES OBS: Grupo: 2981 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2981 / None / None
+FUNCOES OBS: Grupo: 2984 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2984 / None / None
+FUNCOES OBS: Grupo: 2986 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2986 / None / None
+FUNCOES OBS: Grupo: 2988 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2988 / None / None
+FUNCOES OBS: Grupo: 2989 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2989 / None / None
+FUNCOES OBS: Grupo: 2992 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2992 / None / None
+FUNCOES OBS: Grupo: 2999 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2999 / None / None
+FUNCOES OBS: Grupo: 3047 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3047 / None / None
+FUNCOES OBS: Grupo: 3048 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3048 / None / None
+FUNCOES OBS: Grupo: 3051 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3051 / None / None
+FUNCOES OBS: Grupo: 3055 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3055 / None / None
+FUNCOES OBS: Grupo: 3061 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3061 / None / None
+FUNCOES OBS: Grupo: 3067 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3067 / None / None
+FUNCOES OBS: Grupo: 3069 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3069 / None / None
+FUNCOES OBS: Grupo: 3084 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3084 / None / None
+FUNCOES OBS: Grupo: 3085 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3085 / None / None
+FUNCOES OBS: Grupo: 3086 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3086 / None / None
+FUNCOES OBS: Grupo: 3089 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3089 / None / None
+FUNCOES OBS: Grupo: 3096 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3096 / None / None
+FUNCOES OBS: Grupo: 3110 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3110 / None / None
+FUNCOES OBS: Grupo: 3118 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3118 / None / None
+FUNCOES OBS: Grupo: 3123 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3123 / None / None
+FUNCOES OBS: Grupo: 3182 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3182 / None / None
+FUNCOES OBS: Grupo: 3191 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3191 / None / None
+FUNCOES OBS: Grupo: 3218 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3218 / None / None
+FUNCOES OBS: Grupo: 3219 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3219 / None / None
+FUNCOES OBS: Grupo: 3226 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3226 / None / None
+FUNCOES OBS: Grupo: 3235 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3235 / None / None
+FUNCOES OBS: Grupo: 3236 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3236 / None / None
+FUNCOES OBS: Grupo: 3240 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3240 / None / None
+FUNCOES OBS: Grupo: 3241 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3241 / None / None

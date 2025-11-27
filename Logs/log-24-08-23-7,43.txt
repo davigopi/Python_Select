@@ -1,0 +1,5 @@
+
+07:26:13   0
+FUNCOES OBS: (ElementNotInteractableException) TP 10 seg esgotado | FAZ:(None)| URL:(['//*[@id="btn-confirmar-aviso"]'])
+FUNCOES OBS: (ElementNotInteractableException) TP 10 seg esgotado | FAZ:(None)| URL:(['//*[@id="btn-confirmar-aviso"]'])
+FUNCOES OBS: (ElementNotInteractableException) TP 10 seg esgotado | FAZ:(None)| URL:(['//*[@id="btn-confirmar-aviso"]'])

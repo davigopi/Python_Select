@@ -1,0 +1,28 @@
+
+05:33:04   0
+ERRO TEMPO: 00:02:25 tempo de execução, passou: 0:30 -> plano: /75% LIGHT - LANCE FIXO
+ERRO TAREFA: Tb nao atualizar = tb anterio 5 vezes: 75% LIGHT - TX. 15% / VOLKSWAGEN / NIVUS HIGHLINE 200 TSI AT - 152.990,00
+ERRO TEMPO: 00:07:26 tempo de execução, passou: 0:39 -> /75% LIGHT - TX. 15%/VOLKSWAGEN/NIVUS HIGHLINE 200 TSI AT - 152.990,00
+ERRO TEMPO: 00:10:21 tempo de execução, passou: 0:25 -> /100% INTEGRAL - TX. 15%/VOLKSWAGEN/SAVEIRO TRENDLINE CS - 104.990,00
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+ERRO TAREFA: Tb nao atualizar = tb anterio 5 vezes: 100% INTEGRAL - TX. 15% / VOLKSWAGEN / T-CROSS 200 TSI AUTOMATICO - 145.990,00
+ERRO TEMPO: 00:11:03 tempo de execução, passou: 0:31 -> /100% INTEGRAL - TX. 15%/VOLKSWAGEN/T-CROSS 200 TSI AUTOMATICO - 145.990,00
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+BOTAO ALERTA: não visivel no site:(T-CROSS HIGHLINE 250 TSI AUTOMÁTICO - 179.990,00) Nº vezes: (2)
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+BOTAO ALERTA: não visivel no site:(T-CROSS HIGHLINE 250 TSI AUTOMÁTICO - 179.990,00) Nº vezes: (3)
+BOTAO -> não visivel no site:(T-CROSS HIGHLINE 250 TSI AUTOMÁTICO - 179.990,00) Nº vezes:(4) divide 4 rest 0 -> Medida extrema, sacudir site!!!!!)
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+BOTAO ALERTA: não visivel no site:(T-CROSS HIGHLINE 250 TSI AUTOMÁTICO - 179.990,00) Nº vezes: (4)
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+BOTAO ALERTA: não visivel no site:(VIRTUS COMFORTLINE 200 TSI AT - 131.990,00) Nº vezes: (2)
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+BOTAO ALERTA: não visivel no site:(VIRTUS HIGHLINE 200 TSI AT - 142.990,00) Nº vezes: (2)
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="divPasso1"]/div/div[2]/div/div[5]/div[3]/div/input'])
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="divPasso1"]/div/div[2]/div/div[5]/div[3]/div/input'])
+FUNCAO ALERTA: (AttributeError) TP 10 seg esgotado | FAZ:(informar)| URL:(['//*[@id="conteudo"]'])
+ERRO TEMPO: 00:18:08 tempo de execução, passou: 0:24 -> /100% INTEGRAL - TX. 20%/FIAT/MOBI LIKE 1.0 FLEX 4P - 72.990,00
+FUNCAO ALERTA: (AttributeError) TP 10 seg esgotado | FAZ:(informar)| URL:(['//*[@id="conteudo"]'])

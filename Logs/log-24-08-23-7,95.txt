@@ -1,0 +1,3 @@
+
+07:57:47   0
+FUNCOES OBS: Exceção sem error. 1 seg esgotado | FAZ:(None)| URL:(None)

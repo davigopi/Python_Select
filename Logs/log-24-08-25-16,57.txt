@@ -1,0 +1,7 @@
+
+16:34:21   0
+FUNCOES OBS: Grupo: 2622 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2626 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2627 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 

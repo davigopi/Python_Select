@@ -1,0 +1,26 @@
+
+22:10:15   0
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb não atualizar = tb anterio 3 vezes: None /None / None
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb não atualizar = tb anterio 3 vezes: None /None / None
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb não atualizar = tb anterio 3 vezes: None /None / None
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb não atualizar = tb anterio 3 vezes: None /None / None
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb não atualizar = tb anterio 3 vezes: None /None / None
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb não atualizar = tb anterio 3 vezes: None /None / None

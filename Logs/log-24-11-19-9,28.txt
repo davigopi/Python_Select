@@ -1,0 +1,107 @@
+
+09:17:13   0
+TAREFA ERRO: Tabela não atualizar = tabela anterio 4 vezes: 100% INTEGRAL - TX. 15% /HYUNDAI / NOVO HB20S 24/25 .0 TGDI 12V FLEX PLATINUM SAFETY  - 129.290,00
+TAREFA ERRO: Tabela não atualizar = tabela anterio 4 vezes: 100% INTEGRAL - TX. 15% /VOLKSWAGEN / NIVUS HIGHLINE 200 TSI AT - 153.990,00
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+TAREFA ERRO: Tabela não atualizar = tabela anterio 4 vezes: 75% LIGHT - TX. 20% /VOLKSWAGEN / 48,89% - POLO TRACK 84HP (CV)   - 44.486,00
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+BOTAO ALERTA: não visivel no site:(50% SAVEIRO TRENDLINE CS 104HP - 54.445,00) Nº vezes: (2)
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+BOTAO ALERTA: não visivel no site:(50% SAVEIRO TRENDLINE CS 104HP - 54.445,00) Nº vezes: (3)
+BOTAO -> não visivel no site:(50% SAVEIRO TRENDLINE CS 104HP - 54.445,00) Nº vezes:(4) divide 4 rest 0 -> Medida extrema, sacudir site!!!!!)
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+BOTAO ALERTA: não visivel no site:(55,78% - POLO TSI 116HP  - 60.739,00) Nº vezes: (2)
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+TAREFA ERRO: Tabela não atualizar = tabela anterio 4 vezes: 100% INTEGRAL - TX. 20% /RENAULT / 75,55% - NOVO KWID OUTSIDER 1.0  - 60.885,75
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+BOTAO ALERTA: não visivel no site:(50% SAVEIRO TRENDLINE CS 104HP - 54.445,00) Nº vezes: (2)
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+BOTAO ALERTA: não visivel no site:(52,22% - POLO TRACK 84HP (CV)   - 47.515,00) Nº vezes: (2)
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+TAREFA ERRO: Tabela não atualizar = tabela anterio 4 vezes: 75% LIGHT - TX. 24% /RENAULT / KWID ZEN 1.0 - 74.590,00
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+TAREFA ERRO: Tabela não atualizar = tabela anterio 4 vezes: 100% INTEGRAL TX. 24% /RENAULT / KWID INTENSE 1.0 - 77.590,00
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 120.1 seg de 120 | Num tentativas: 343 | Faz: None | path: Não path | Erro: NoSuchElementException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 10.2 seg de 10 | Num tentativas: 31 | Faz: None | path: Não path | Erro: NoSuchElementException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 10.2 seg de 10 | Num tentativas: 31 | Faz: None | path: Não path | Erro: NoSuchElementException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 10.2 seg de 10 | Num tentativas: 0 | Faz: keys | path: Não path | Erro: NoSuchElementException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 10.2 seg de 10 | Num tentativas: 31 | Faz: None | path: Não path | Erro: NoSuchElementException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 10.2 seg de 10 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 

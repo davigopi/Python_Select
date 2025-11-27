@@ -1,0 +1,7 @@
+
+08:52:42   0
+FUNCOES OBS: Grupo: None | Tempo: 10.1 seg de 10 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: FeatureNotFound. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 10.1 seg de 10 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: FeatureNotFound. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 10.1 seg de 10 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: FeatureNotFound. | 

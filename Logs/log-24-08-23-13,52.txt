@@ -1,0 +1,11 @@
+
+13:31:26   0
+FUNCOES OBS: Erro: (str) | Tempo: 1 | FAZ:(None)| | URL:(None).
+FUNCOES OBS: Erro: (str) | Tempo: 1 | FAZ:(None)| | URL:(None).
+FUNCOES OBS: Erro: (str) | Tempo: 1 | FAZ:(None)| | URL:(None).
+FUNCOES OBS: Erro: (str) | Tempo: 1 | FAZ:(None)| | URL:(None).
+FUNCOES OBS: Erro: (str) | Tempo: 1 | FAZ:(None)| | URL:(None).
+FUNCOES OBS: Erro: (str) | Tempo: 1 | FAZ:(None)| | URL:(None).
+FUNCOES OBS: Erro: (str) | Tempo: 1 | FAZ:(None)| | URL:(None).
+FUNCOES OBS: Erro: (str) | Tempo: 1 | FAZ:(None)| | URL:(None).
+FUNCOES OBS: Erro: (str) | Tempo: 1 | FAZ:(None)| | URL:(None).

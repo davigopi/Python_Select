@@ -1,0 +1,69 @@
+
+10:11:36   0
+TAREFA ERRO: Tabela não atualizar = tabela anterio 4 vezes: 75% LIGHT - TX. 15% /HYUNDAI / NOVO CRETA LIMITED 1.0 TGDI	 - 156.490,00
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+TAREFA ERRO: Tabela não atualizar = tabela anterio 4 vezes: 100% INTEGRAL - TX. 15% /VOLKSWAGEN / NIVUS HIGHLINE 200 TSI AT - 153.990,00
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+BOTAO ALERTA: não visivel no site:(VIRTUS COMFORTLINE 200 TSI AT - 134.990,00) Nº vezes: (2)
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+TAREFA ERRO: Tabela não atualizar = tabela anterio 4 vezes: 75% LIGHT - TX. 20% /VOLKSWAGEN / 48,89% - POLO TRACK 84HP (CV)   - 44.486,00
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+BOTAO ALERTA: não visivel no site:(52,22% - POLO TRACK 84HP (CV)   - 47.515,00) Nº vezes: (2)
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+BOTAO ALERTA: não visivel no site:(60% SAVEIRO TRENDLINE CS 104HP - 65.334,00) Nº vezes: (2)
+TAREFA ERRO: Tabela não atualizar = tabela anterio 4 vezes: 100% INTEGRAL - TX. 20% /VOLKSWAGEN / 48,89% - POLO TRACK 84HP (CV)   - 44.486,00
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+TAREFA ERRO: Tabela não atualizar = tabela anterio 4 vezes: 75% LIGHT - TX. 24% /RENAULT / NOVO KWID - OUTSIDER 1.0  - 80.590,00
+TAREFA ERRO: Tabela não atualizar = tabela anterio 4 vezes: 100% INTEGRAL TX. 24% /RENAULT / KWID ZEN 1.0 - 74.590,00
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+TAREFA ERRO: Tabela não atualizar = tabela anterio 4 vezes: 75% LIGHT - SENIOR /VOLKSWAGEN / 50% SAVEIRO TRENDLINE CS 104HP - 54.445,00
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 

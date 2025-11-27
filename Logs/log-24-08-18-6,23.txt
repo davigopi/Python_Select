@@ -1,0 +1,7 @@
+
+06:14:49   0
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="divPasso1"]/div/div[2]/div/div[5]/div[3]/div/input'])
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="busca_andamento_modelo"]'])
+FUNCAO ALERTA: (ElementClickInterceptedException) TP 1 seg esgotado | FAZ:(None)| URL:(['//*[@id="divPasso1"]/div/div[2]/div/div[5]/div[3]/div/input'])

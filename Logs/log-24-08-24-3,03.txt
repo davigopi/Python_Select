@@ -1,0 +1,6 @@
+
+03:02:33   0
+FUNCOES OBS: Grupo: 2622 | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCOES OBS: Grupo: 2626 | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2626 / None / None

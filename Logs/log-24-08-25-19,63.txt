@@ -1,0 +1,674 @@
+
+19:38:42   0
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2927 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2928 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2929 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2930 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2931 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2932 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2933 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2934 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2935 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2936 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2937 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2938 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2939 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2940 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2941 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2942 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2943 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2944 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2945 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2946 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2947 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2948 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2949 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2950 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2951 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2952 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2953 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2954 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2955 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2956 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2957 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2958 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2959 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2960 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2961 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2962 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2963 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2964 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2965 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2966 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2967 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2968 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2969 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2970 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2971 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2972 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2973 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2974 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2975 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2976 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2977 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2978 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2979 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2980 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2981 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2982 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2983 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2984 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2985 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2986 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2987 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2988 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2989 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2990 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2991 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2992 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2993 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2994 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2995 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2996 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2997 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2998 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2999 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3047 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3048 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3049 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3050 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3051 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3052 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3053 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3054 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3055 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3056 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3057 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3058 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3059 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3060 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3061 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3062 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3063 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3064 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3065 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3066 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3067 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3068 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3069 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3070 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3071 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3072 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3073 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3074 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3075 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3076 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3077 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3078 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3079 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3080 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3081 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3082 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3083 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3084 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3085 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3086 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3087 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3088 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3089 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3090 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3091 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3092 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3093 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3094 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3095 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3096 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3097 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3098 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3099 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3100 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3101 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3102 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3103 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3104 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3105 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3106 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3107 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3108 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3109 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3110 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3111 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3112 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3113 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3114 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3115 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3116 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3117 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3118 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3119 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3120 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3121 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3122 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3123 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3125 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3126 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3127 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3128 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3129 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3130 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3131 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3132 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3133 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3134 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3135 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3136 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3137 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3139 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3140 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3141 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3142 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3143 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3144 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3145 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3146 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3147 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3148 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3149 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3150 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3151 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3152 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3153 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3154 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3155 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3156 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3157 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3158 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3159 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3160 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3161 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3162 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3163 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3164 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3165 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3166 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3167 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3168 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3169 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3170 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3171 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3172 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3173 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3174 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3175 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3176 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3177 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3178 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3179 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3180 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3181 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3182 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3183 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3184 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3185 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3187 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3188 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3189 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3190 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3191 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3192 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3193 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3194 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3196 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3197 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3198 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3199 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3200 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3201 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3202 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3203 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3204 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3205 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3206 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3207 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3208 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3209 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3210 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3211 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3212 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3213 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3214 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3215 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3216 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3217 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3218 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3219 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3220 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3221 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3222 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3223 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3224 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3225 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3226 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3227 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3229 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3231 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3232 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3233 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3234 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3235 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3236 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3238 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3239 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3240 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3241 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3243 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3245 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3246 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3247 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3248 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3249 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3250 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3251 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3253 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3254 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3255 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3256 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3257 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3258 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3259 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3260 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3261 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3262 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3263 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3264 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3265 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3266 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3267 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3268 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3269 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3270 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3271 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3272 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3273 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3274 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3275 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3276 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3277 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3278 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3279 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3280 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3281 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3282 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3283 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3284 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3285 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3286 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3287 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3288 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3289 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3291 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3292 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3293 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3294 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3295 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3296 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3298 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3299 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3300 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3301 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3302 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3303 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3304 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3305 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3306 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3307 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3308 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3309 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3310 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3312 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3314 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3315 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3316 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3317 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3318 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 4100 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 4101 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 4102 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+TEMPO INFORMA: 01:28:54 tempo de execução em todo o programa
+21:07:36

@@ -1,0 +1,4 @@
+
+20:53:17   0
+FUNCOES OBS: Erro: (NoSuchElementException) | Tempo: 1 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3047 / None / None

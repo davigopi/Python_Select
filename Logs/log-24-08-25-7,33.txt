@@ -1,0 +1,4 @@
+
+07:20:07   0
+TEMPO INFORMA: 00:00:50 tempo de execução em todo o programa
+07:20:57

@@ -1,0 +1,107 @@
+
+02:42:29   0
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2626 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2628 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2630 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2632 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2633 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2634 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2636 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2637 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2638 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2639 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2641 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2642 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2643 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2645 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2646 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2648 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2649 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2650 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2651 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2653 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2655 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2656 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2658 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2659 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2661 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2662 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2664 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2666 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2667 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2668 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2669 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2671 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2673 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2674 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2676 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2678 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2679 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2682 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2683 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2684 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2685 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2686 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2687 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2688 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2689 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2690 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2691 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2692 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2693 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2694 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2695 / None / None
+FUNCOES OBS: Grupo: None | Erro: (NoSuchElementException) | Tempo: 5 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).

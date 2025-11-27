@@ -1,0 +1,5 @@
+venv/
+Tabelas/
+__pycache__/
+*.pyc
+senha.txt

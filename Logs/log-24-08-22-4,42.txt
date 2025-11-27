@@ -1,0 +1,4 @@
+
+04:25:34   0
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2801 / None / None
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2802 / None / None

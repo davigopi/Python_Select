@@ -1,0 +1,676 @@
+
+08:13:53   0
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2626 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2628 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2630 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2632 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2633 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2634 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2636 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2637 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2638 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2639 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2641 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2642 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2643 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2645 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2646 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2648 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2649 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2650 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2651 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2653 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2655 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2656 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2658 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2659 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2661 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2662 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2664 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2666 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2668 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2669 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2671 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2673 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2674 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2676 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2678 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2679 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2682 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2683 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2684 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2685 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2686 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2687 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2688 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2689 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2690 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2691 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2692 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2693 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2694 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2695 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2696 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2697 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2698 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2699 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2700 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2701 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2702 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2703 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2704 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2705 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2706 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2707 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2708 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2709 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2710 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2711 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2712 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2713 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2714 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2715 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2717 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2718 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2719 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2720 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2721 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2722 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2723 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2724 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2725 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2726 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2727 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2728 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2729 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2730 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2731 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2732 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2733 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2734 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2735 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2736 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2737 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2738 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2739 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2740 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2741 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2742 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2743 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2744 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2745 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2746 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2747 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2748 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2749 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2750 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2751 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2752 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2753 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2754 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2755 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2756 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2757 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2758 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2759 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2760 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2761 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2762 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2763 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2764 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2765 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2766 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2767 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2768 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2769 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2770 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2771 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2772 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2773 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2774 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2775 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2776 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2777 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2778 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2779 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2780 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2781 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2782 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2783 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2784 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2785 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2786 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2787 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2788 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2789 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2790 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2791 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2792 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2793 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2794 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2795 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2796 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2797 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2798 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2799 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2800 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2801 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2802 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2803 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2804 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2805 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2806 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2807 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2808 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2809 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2810 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2811 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2812 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2813 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2814 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2815 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2816 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2817 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2818 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2819 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2820 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2821 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2822 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2823 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2824 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2826 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2827 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2828 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2829 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2831 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2833 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2834 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2835 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2836 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2837 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2838 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2839 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2840 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2841 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2842 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2843 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2844 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2845 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2846 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2847 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2848 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2849 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2850 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2851 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2852 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2853 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2854 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2855 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2856 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2857 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2858 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2859 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2860 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2861 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2862 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2863 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2864 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2865 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2866 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2867 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2868 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2869 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2870 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2871 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2872 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2873 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2874 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2875 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2876 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2877 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2878 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2879 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2881 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2882 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2883 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2885 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2886 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2887 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2888 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2889 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2890 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2894 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2895 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2896 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2898 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2900 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2902 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2903 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2905 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2906 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2907 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2908 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2909 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2910 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2911 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2913 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2914 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2915 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2916 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2917 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2918 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2920 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2921 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2922 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2926 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2928 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2929 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2931 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2933 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2934 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2935 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2936 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2937 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2938 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2939 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2941 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2942 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2944 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2945 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2946 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2947 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2948 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2949 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2950 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2951 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2952 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2953 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2954 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2955 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2956 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2957 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2958 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2960 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2961 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2963 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2964 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2965 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2966 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2968 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2969 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2970 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2971 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2972 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2973 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2974 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2979 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2980 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2981 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2984 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2986 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2988 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2989 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2992 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2999 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3047 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3048 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3051 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3055 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3061 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3067 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3069 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3084 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3085 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3086 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3089 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3096 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3110 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3118 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3123 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3182 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3191 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3218 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3219 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3226 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3235 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3236 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3240 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3241 / None / None

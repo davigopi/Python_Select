@@ -1,0 +1,8 @@
+
+03:56:32   0
+FUNCOES OBS: Grupo: 2622 | Tempo: 5.249999999999999 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCOES OBS: Grupo: 2626 | Tempo: 5.249999999999999 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2626 / None / None

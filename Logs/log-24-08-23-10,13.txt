@@ -1,0 +1,9 @@
+
+10:08:23   0
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2626 / None / None
+FUNCOES OBS: (NoSuchElementException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2628 / None / None
+FUNCOES OBS: (NoSuchWindowException) TP 1 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])

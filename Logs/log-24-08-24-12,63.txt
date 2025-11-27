@@ -1,0 +1,17 @@
+
+12:38:32   0
+TAREFA ERRO: Tabela não atualizar = tabela anterio 4 vezes: 75% LIGHT - TX. 15% /VOLKSWAGEN / NOVO POLO 1.0 84HP - 93.490,00
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+TAREFA ERRO: Tabela não atualizar = tabela anterio 4 vezes: 75% LIGHT - TX. 20% /VOLKSWAGEN / NOVO POLO 1.0 84HP - 93.490,00
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 5 | Faz: None | path: Não path | Erro: ElementClickInterceptedException. | 
+
+ERRO TEMPO: 00:19:47 tempo de execução, passou: 0:20 -> plano: /75% - PLANO LIGHT SIM FX III

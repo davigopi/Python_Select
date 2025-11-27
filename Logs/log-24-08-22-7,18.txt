@@ -1,0 +1,11 @@
+
+07:11:23   0
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2801 / None / None
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2802 / None / None
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2803 / None / None
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2804 / None / None
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2805 / None / None
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2806 / None / None
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2807 / None / None
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2808 / None / None
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2809 / None / None

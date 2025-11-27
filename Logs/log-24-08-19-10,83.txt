@@ -1,0 +1,3 @@
+
+10:50:08   0
+ERRO TAREFA: Tb não atualizar = tb anterio 3 vezes: None /None / None

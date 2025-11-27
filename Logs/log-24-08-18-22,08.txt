@@ -1,0 +1,9 @@
+
+22:05:16   0
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb não atualizar = tb anterio 3 vezes: None /None / None
+ERRO TEMPO: 00:00:30 tempo de execução, passou: 0:21 -> 
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+FUNCOES OBS: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])

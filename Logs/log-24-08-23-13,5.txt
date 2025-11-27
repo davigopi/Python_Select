@@ -1,0 +1,3 @@
+
+13:30:40   0
+FUNCOES OBS: Erro: (str) | Tempo: 1 | FAZ:(None)| | URL:(None).

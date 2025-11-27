@@ -1,0 +1,2646 @@
+
+13:12:15   0
+FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2627 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2628 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2628 / None / None
+ERRO TEMPO: 00:01:52 tempo de execução, passou: 0:54 -> /2628
+FUNCOES OBS: Grupo: 2628 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2629 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2630 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2630 / None / None
+ERRO TEMPO: 00:03:38 tempo de execução, passou: 0:54 -> /2630
+FUNCOES OBS: Grupo: 2630 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2632 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2632 / None / None
+ERRO TEMPO: 00:04:46 tempo de execução, passou: 0:54 -> /2632
+FUNCOES OBS: Grupo: 2632 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2633 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2633 / None / None
+ERRO TEMPO: 00:05:55 tempo de execução, passou: 0:54 -> /2633
+FUNCOES OBS: Grupo: 2633 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2634 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2634 / None / None
+ERRO TEMPO: 00:07:00 tempo de execução, passou: 0:54 -> /2634
+FUNCOES OBS: Grupo: 2634 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2635 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2636 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2636 / None / None
+ERRO TEMPO: 00:08:48 tempo de execução, passou: 0:54 -> /2636
+FUNCOES OBS: Grupo: 2636 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2637 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2637 / None / None
+ERRO TEMPO: 00:09:55 tempo de execução, passou: 0:54 -> /2637
+FUNCOES OBS: Grupo: 2637 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2638 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2638 / None / None
+ERRO TEMPO: 00:11:04 tempo de execução, passou: 0:53 -> /2638
+FUNCOES OBS: Grupo: 2638 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2639 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2639 / None / None
+ERRO TEMPO: 00:12:13 tempo de execução, passou: 0:54 -> /2639
+FUNCOES OBS: Grupo: 2639 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2641 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2641 / None / None
+ERRO TEMPO: 00:13:21 tempo de execução, passou: 0:54 -> /2641
+FUNCOES OBS: Grupo: 2641 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2642 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2642 / None / None
+ERRO TEMPO: 00:14:29 tempo de execução, passou: 0:54 -> /2642
+FUNCOES OBS: Grupo: 2642 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2643 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2643 / None / None
+ERRO TEMPO: 00:15:38 tempo de execução, passou: 0:54 -> /2643
+FUNCOES OBS: Grupo: 2643 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2645 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2645 / None / None
+ERRO TEMPO: 00:16:45 tempo de execução, passou: 0:53 -> /2645
+FUNCOES OBS: Grupo: 2645 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2646 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2646 / None / None
+ERRO TEMPO: 00:17:56 tempo de execução, passou: 0:54 -> /2646
+FUNCOES OBS: Grupo: 2646 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2647 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2648 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2648 / None / None
+ERRO TEMPO: 00:19:50 tempo de execução, passou: 0:54 -> /2648
+FUNCOES OBS: Grupo: 2648 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2649 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2649 / None / None
+ERRO TEMPO: 00:20:57 tempo de execução, passou: 0:54 -> /2649
+FUNCOES OBS: Grupo: 2649 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2650 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2650 / None / None
+ERRO TEMPO: 00:22:05 tempo de execução, passou: 0:54 -> /2650
+FUNCOES OBS: Grupo: 2650 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2651 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2651 / None / None
+ERRO TEMPO: 00:23:14 tempo de execução, passou: 0:54 -> /2651
+FUNCOES OBS: Grupo: 2651 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2653 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2653 / None / None
+ERRO TEMPO: 00:24:24 tempo de execução, passou: 0:54 -> /2653
+FUNCOES OBS: Grupo: 2653 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2654 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2655 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2655 / None / None
+ERRO TEMPO: 00:26:12 tempo de execução, passou: 0:54 -> /2655
+FUNCOES OBS: Grupo: 2655 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2656 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2656 / None / None
+ERRO TEMPO: 00:27:23 tempo de execução, passou: 0:54 -> /2656
+FUNCOES OBS: Grupo: 2656 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2657 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2658 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2658 / None / None
+ERRO TEMPO: 00:29:15 tempo de execução, passou: 0:54 -> /2658
+FUNCOES OBS: Grupo: 2658 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2659 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2659 / None / None
+ERRO TEMPO: 00:30:22 tempo de execução, passou: 0:54 -> /2659
+FUNCOES OBS: Grupo: 2659 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2660 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2661 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2661 / None / None
+ERRO TEMPO: 00:32:10 tempo de execução, passou: 0:54 -> /2661
+FUNCOES OBS: Grupo: 2661 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2662 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2662 / None / None
+ERRO TEMPO: 00:33:21 tempo de execução, passou: 0:54 -> /2662
+FUNCOES OBS: Grupo: 2662 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2664 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2664 / None / None
+ERRO TEMPO: 00:34:29 tempo de execução, passou: 0:54 -> /2664
+FUNCOES OBS: Grupo: 2664 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2666 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2666 / None / None
+ERRO TEMPO: 00:35:39 tempo de execução, passou: 0:54 -> /2666
+FUNCOES OBS: Grupo: 2666 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2667 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2668 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2668 / None / None
+ERRO TEMPO: 00:37:24 tempo de execução, passou: 0:53 -> /2668
+FUNCOES OBS: Grupo: 2668 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2669 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2669 / None / None
+ERRO TEMPO: 00:38:32 tempo de execução, passou: 0:54 -> /2669
+FUNCOES OBS: Grupo: 2669 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2671 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2671 / None / None
+ERRO TEMPO: 00:39:39 tempo de execução, passou: 0:54 -> /2671
+FUNCOES OBS: Grupo: 2671 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2673 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2673 / None / None
+ERRO TEMPO: 00:40:48 tempo de execução, passou: 0:54 -> /2673
+FUNCOES OBS: Grupo: 2673 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2674 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2674 / None / None
+ERRO TEMPO: 00:41:55 tempo de execução, passou: 0:54 -> /2674
+FUNCOES OBS: Grupo: 2674 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2675 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2676 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2676 / None / None
+ERRO TEMPO: 00:43:42 tempo de execução, passou: 0:54 -> /2676
+FUNCOES OBS: Grupo: 2676 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2678 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2678 / None / None
+ERRO TEMPO: 00:44:51 tempo de execução, passou: 0:54 -> /2678
+FUNCOES OBS: Grupo: 2678 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2679 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2679 / None / None
+ERRO TEMPO: 00:45:59 tempo de execução, passou: 0:53 -> /2679
+FUNCOES OBS: Grupo: 2679 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2682 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2682 / None / None
+ERRO TEMPO: 00:47:08 tempo de execução, passou: 0:53 -> /2682
+FUNCOES OBS: Grupo: 2682 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2683 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2683 / None / None
+ERRO TEMPO: 00:48:18 tempo de execução, passou: 0:54 -> /2683
+FUNCOES OBS: Grupo: 2683 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2684 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2684 / None / None
+ERRO TEMPO: 00:49:26 tempo de execução, passou: 0:54 -> /2684
+FUNCOES OBS: Grupo: 2684 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2685 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2685 / None / None
+ERRO TEMPO: 00:50:34 tempo de execução, passou: 0:54 -> /2685
+FUNCOES OBS: Grupo: 2685 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2686 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2686 / None / None
+ERRO TEMPO: 00:51:44 tempo de execução, passou: 0:54 -> /2686
+FUNCOES OBS: Grupo: 2686 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2687 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2687 / None / None
+ERRO TEMPO: 00:52:50 tempo de execução, passou: 0:54 -> /2687
+FUNCOES OBS: Grupo: 2687 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2688 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2688 / None / None
+ERRO TEMPO: 00:54:00 tempo de execução, passou: 0:54 -> /2688
+FUNCOES OBS: Grupo: 2688 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2689 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2689 / None / None
+ERRO TEMPO: 00:55:06 tempo de execução, passou: 0:54 -> /2689
+FUNCOES OBS: Grupo: 2689 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2690 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2690 / None / None
+ERRO TEMPO: 00:56:13 tempo de execução, passou: 0:54 -> /2690
+FUNCOES OBS: Grupo: 2690 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2691 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2691 / None / None
+ERRO TEMPO: 00:57:19 tempo de execução, passou: 0:54 -> /2691
+FUNCOES OBS: Grupo: 2691 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2692 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2692 / None / None
+ERRO TEMPO: 00:58:27 tempo de execução, passou: 0:54 -> /2692
+FUNCOES OBS: Grupo: 2692 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2693 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2693 / None / None
+ERRO TEMPO: 00:59:39 tempo de execução, passou: 0:54 -> /2693
+FUNCOES OBS: Grupo: 2693 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2694 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2694 / None / None
+ERRO TEMPO: 01:00:44 tempo de execução, passou: 0:54 -> /2694
+FUNCOES OBS: Grupo: 2694 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2695 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2695 / None / None
+ERRO TEMPO: 01:01:52 tempo de execução, passou: 0:54 -> /2695
+FUNCOES OBS: Grupo: 2695 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2696 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2696 / None / None
+ERRO TEMPO: 01:02:57 tempo de execução, passou: 0:54 -> /2696
+FUNCOES OBS: Grupo: 2696 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2697 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2697 / None / None
+ERRO TEMPO: 01:04:10 tempo de execução, passou: 0:54 -> /2697
+FUNCOES OBS: Grupo: 2697 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2698 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2698 / None / None
+ERRO TEMPO: 01:05:18 tempo de execução, passou: 0:54 -> /2698
+FUNCOES OBS: Grupo: 2698 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2699 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2699 / None / None
+ERRO TEMPO: 01:06:25 tempo de execução, passou: 0:54 -> /2699
+FUNCOES OBS: Grupo: 2699 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2700 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2700 / None / None
+ERRO TEMPO: 01:07:34 tempo de execução, passou: 0:54 -> /2700
+FUNCOES OBS: Grupo: 2700 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2701 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2701 / None / None
+ERRO TEMPO: 01:08:43 tempo de execução, passou: 0:54 -> /2701
+FUNCOES OBS: Grupo: 2701 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2702 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2702 / None / None
+ERRO TEMPO: 01:09:53 tempo de execução, passou: 0:54 -> /2702
+FUNCOES OBS: Grupo: 2702 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2703 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2703 / None / None
+ERRO TEMPO: 01:11:01 tempo de execução, passou: 0:54 -> /2703
+FUNCOES OBS: Grupo: 2703 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2704 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2704 / None / None
+ERRO TEMPO: 01:12:09 tempo de execução, passou: 0:54 -> /2704
+FUNCOES OBS: Grupo: 2704 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2705 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2705 / None / None
+ERRO TEMPO: 01:13:16 tempo de execução, passou: 0:54 -> /2705
+FUNCOES OBS: Grupo: 2705 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2706 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2706 / None / None
+ERRO TEMPO: 01:14:23 tempo de execução, passou: 0:54 -> /2706
+FUNCOES OBS: Grupo: 2706 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2707 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2707 / None / None
+ERRO TEMPO: 01:15:39 tempo de execução, passou: 0:54 -> /2707
+FUNCOES OBS: Grupo: 2707 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2708 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2708 / None / None
+ERRO TEMPO: 01:16:45 tempo de execução, passou: 0:54 -> /2708
+FUNCOES OBS: Grupo: 2708 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2709 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2709 / None / None
+ERRO TEMPO: 01:17:53 tempo de execução, passou: 0:54 -> /2709
+FUNCOES OBS: Grupo: 2709 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2710 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2710 / None / None
+ERRO TEMPO: 01:18:58 tempo de execução, passou: 0:54 -> /2710
+FUNCOES OBS: Grupo: 2710 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2711 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2711 / None / None
+ERRO TEMPO: 01:20:09 tempo de execução, passou: 0:54 -> /2711
+FUNCOES OBS: Grupo: 2711 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2712 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2712 / None / None
+ERRO TEMPO: 01:21:22 tempo de execução, passou: 0:54 -> /2712
+FUNCOES OBS: Grupo: 2712 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2713 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2713 / None / None
+ERRO TEMPO: 01:22:32 tempo de execução, passou: 0:54 -> /2713
+FUNCOES OBS: Grupo: 2713 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2714 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2714 / None / None
+ERRO TEMPO: 01:23:39 tempo de execução, passou: 0:54 -> /2714
+FUNCOES OBS: Grupo: 2714 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2715 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2715 / None / None
+ERRO TEMPO: 01:24:47 tempo de execução, passou: 0:54 -> /2715
+FUNCOES OBS: Grupo: 2715 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2717 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2717 / None / None
+ERRO TEMPO: 01:25:55 tempo de execução, passou: 0:54 -> /2717
+FUNCOES OBS: Grupo: 2717 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2718 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2718 / None / None
+ERRO TEMPO: 01:27:13 tempo de execução, passou: 0:54 -> /2718
+FUNCOES OBS: Grupo: 2718 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2719 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2719 / None / None
+ERRO TEMPO: 01:28:19 tempo de execução, passou: 0:54 -> /2719
+FUNCOES OBS: Grupo: 2719 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2720 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2720 / None / None
+ERRO TEMPO: 01:29:27 tempo de execução, passou: 0:54 -> /2720
+FUNCOES OBS: Grupo: 2720 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2721 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2721 / None / None
+ERRO TEMPO: 01:30:39 tempo de execução, passou: 0:54 -> /2721
+FUNCOES OBS: Grupo: 2721 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2722 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2722 / None / None
+ERRO TEMPO: 01:31:50 tempo de execução, passou: 0:54 -> /2722
+FUNCOES OBS: Grupo: 2722 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2723 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2723 / None / None
+ERRO TEMPO: 01:32:56 tempo de execução, passou: 0:54 -> /2723
+FUNCOES OBS: Grupo: 2723 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2724 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2724 / None / None
+ERRO TEMPO: 01:34:08 tempo de execução, passou: 0:54 -> /2724
+FUNCOES OBS: Grupo: 2724 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2725 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2725 / None / None
+ERRO TEMPO: 01:35:17 tempo de execução, passou: 0:54 -> /2725
+FUNCOES OBS: Grupo: 2725 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2726 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2726 / None / None
+ERRO TEMPO: 01:36:23 tempo de execução, passou: 0:54 -> /2726
+FUNCOES OBS: Grupo: 2726 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2727 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2727 / None / None
+ERRO TEMPO: 01:37:37 tempo de execução, passou: 0:54 -> /2727
+FUNCOES OBS: Grupo: 2727 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2728 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2728 / None / None
+ERRO TEMPO: 01:38:48 tempo de execução, passou: 0:54 -> /2728
+FUNCOES OBS: Grupo: 2728 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2729 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2729 / None / None
+ERRO TEMPO: 01:39:55 tempo de execução, passou: 0:54 -> /2729
+FUNCOES OBS: Grupo: 2729 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2730 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2730 / None / None
+ERRO TEMPO: 01:41:04 tempo de execução, passou: 0:54 -> /2730
+FUNCOES OBS: Grupo: 2730 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2731 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2731 / None / None
+ERRO TEMPO: 01:42:10 tempo de execução, passou: 0:54 -> /2731
+FUNCOES OBS: Grupo: 2731 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2732 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2732 / None / None
+ERRO TEMPO: 01:44:08 tempo de execução, passou: 0:54 -> /2732
+FUNCOES OBS: Grupo: 2732 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2733 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2733 / None / None
+ERRO TEMPO: 01:45:14 tempo de execução, passou: 0:54 -> /2733
+FUNCOES OBS: Grupo: 2733 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2734 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2734 / None / None
+ERRO TEMPO: 01:46:24 tempo de execução, passou: 0:54 -> /2734
+FUNCOES OBS: Grupo: 2734 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2735 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2735 / None / None
+ERRO TEMPO: 01:47:30 tempo de execução, passou: 0:54 -> /2735
+FUNCOES OBS: Grupo: 2735 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2736 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2736 / None / None
+ERRO TEMPO: 01:48:38 tempo de execução, passou: 0:54 -> /2736
+FUNCOES OBS: Grupo: 2736 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2737 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2737 / None / None
+ERRO TEMPO: 01:49:48 tempo de execução, passou: 0:54 -> /2737
+FUNCOES OBS: Grupo: 2737 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2738 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2738 / None / None
+ERRO TEMPO: 01:50:54 tempo de execução, passou: 0:54 -> /2738
+FUNCOES OBS: Grupo: 2738 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2739 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2739 / None / None
+ERRO TEMPO: 01:52:01 tempo de execução, passou: 0:54 -> /2739
+FUNCOES OBS: Grupo: 2739 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2740 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2740 / None / None
+ERRO TEMPO: 01:53:09 tempo de execução, passou: 0:54 -> /2740
+FUNCOES OBS: Grupo: 2740 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2741 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2741 / None / None
+ERRO TEMPO: 01:54:19 tempo de execução, passou: 0:53 -> /2741
+FUNCOES OBS: Grupo: 2741 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2742 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2742 / None / None
+ERRO TEMPO: 01:55:26 tempo de execução, passou: 0:54 -> /2742
+FUNCOES OBS: Grupo: 2742 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2743 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2743 / None / None
+ERRO TEMPO: 01:56:34 tempo de execução, passou: 0:54 -> /2743
+FUNCOES OBS: Grupo: 2743 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2744 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2744 / None / None
+ERRO TEMPO: 01:57:41 tempo de execução, passou: 0:54 -> /2744
+FUNCOES OBS: Grupo: 2744 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2745 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2745 / None / None
+ERRO TEMPO: 01:58:52 tempo de execução, passou: 0:54 -> /2745
+FUNCOES OBS: Grupo: 2745 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2746 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2746 / None / None
+ERRO TEMPO: 02:00:06 tempo de execução, passou: 0:54 -> /2746
+FUNCOES OBS: Grupo: 2746 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2747 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2747 / None / None
+ERRO TEMPO: 02:01:14 tempo de execução, passou: 0:54 -> /2747
+FUNCOES OBS: Grupo: 2747 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2748 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2748 / None / None
+ERRO TEMPO: 02:02:19 tempo de execução, passou: 0:54 -> /2748
+FUNCOES OBS: Grupo: 2748 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2749 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2749 / None / None
+ERRO TEMPO: 02:03:27 tempo de execução, passou: 0:54 -> /2749
+FUNCOES OBS: Grupo: 2749 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2750 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2750 / None / None
+ERRO TEMPO: 02:04:36 tempo de execução, passou: 0:54 -> /2750
+FUNCOES OBS: Grupo: 2750 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2751 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2751 / None / None
+ERRO TEMPO: 02:05:43 tempo de execução, passou: 0:54 -> /2751
+FUNCOES OBS: Grupo: 2751 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2752 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2752 / None / None
+ERRO TEMPO: 02:06:53 tempo de execução, passou: 0:54 -> /2752
+FUNCOES OBS: Grupo: 2752 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2753 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2753 / None / None
+ERRO TEMPO: 02:08:07 tempo de execução, passou: 0:54 -> /2753
+FUNCOES OBS: Grupo: 2753 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2754 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2754 / None / None
+ERRO TEMPO: 02:09:17 tempo de execução, passou: 0:54 -> /2754
+FUNCOES OBS: Grupo: 2754 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2755 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2755 / None / None
+ERRO TEMPO: 02:10:25 tempo de execução, passou: 0:54 -> /2755
+FUNCOES OBS: Grupo: 2755 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2756 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2756 / None / None
+ERRO TEMPO: 02:11:34 tempo de execução, passou: 0:54 -> /2756
+FUNCOES OBS: Grupo: 2756 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2757 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2757 / None / None
+ERRO TEMPO: 02:12:41 tempo de execução, passou: 0:54 -> /2757
+FUNCOES OBS: Grupo: 2757 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2758 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2758 / None / None
+ERRO TEMPO: 02:13:51 tempo de execução, passou: 0:54 -> /2758
+FUNCOES OBS: Grupo: 2758 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2759 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2759 / None / None
+ERRO TEMPO: 02:15:02 tempo de execução, passou: 0:54 -> /2759
+FUNCOES OBS: Grupo: 2759 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2760 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2760 / None / None
+ERRO TEMPO: 02:16:13 tempo de execução, passou: 0:54 -> /2760
+FUNCOES OBS: Grupo: 2760 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2761 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2761 / None / None
+ERRO TEMPO: 02:17:21 tempo de execução, passou: 0:54 -> /2761
+FUNCOES OBS: Grupo: 2761 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2762 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2762 / None / None
+ERRO TEMPO: 02:18:29 tempo de execução, passou: 0:54 -> /2762
+FUNCOES OBS: Grupo: 2762 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2763 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2763 / None / None
+ERRO TEMPO: 02:19:42 tempo de execução, passou: 0:54 -> /2763
+FUNCOES OBS: Grupo: 2763 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2764 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2764 / None / None
+ERRO TEMPO: 02:20:51 tempo de execução, passou: 0:54 -> /2764
+FUNCOES OBS: Grupo: 2764 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2765 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2765 / None / None
+ERRO TEMPO: 02:21:58 tempo de execução, passou: 0:54 -> /2765
+FUNCOES OBS: Grupo: 2765 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2766 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2766 / None / None
+ERRO TEMPO: 02:23:04 tempo de execução, passou: 0:54 -> /2766
+FUNCOES OBS: Grupo: 2766 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2767 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2767 / None / None
+ERRO TEMPO: 02:24:20 tempo de execução, passou: 0:54 -> /2767
+FUNCOES OBS: Grupo: 2767 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2768 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2768 / None / None
+ERRO TEMPO: 02:25:34 tempo de execução, passou: 0:58 -> /2768
+FUNCOES OBS: Grupo: 2768 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2769 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2769 / None / None
+ERRO TEMPO: 02:26:48 tempo de execução, passou: 0:54 -> /2769
+FUNCOES OBS: Grupo: 2769 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2770 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2770 / None / None
+ERRO TEMPO: 02:27:58 tempo de execução, passou: 0:54 -> /2770
+FUNCOES OBS: Grupo: 2770 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2771 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2771 / None / None
+ERRO TEMPO: 02:29:10 tempo de execução, passou: 0:55 -> /2771
+FUNCOES OBS: Grupo: 2771 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2772 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2772 / None / None
+ERRO TEMPO: 02:30:24 tempo de execução, passou: 0:54 -> /2772
+FUNCOES OBS: Grupo: 2772 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2773 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2773 / None / None
+ERRO TEMPO: 02:31:32 tempo de execução, passou: 0:54 -> /2773
+FUNCOES OBS: Grupo: 2773 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2774 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2774 / None / None
+ERRO TEMPO: 02:32:44 tempo de execução, passou: 0:54 -> /2774
+FUNCOES OBS: Grupo: 2774 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2775 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2775 / None / None
+ERRO TEMPO: 02:33:58 tempo de execução, passou: 0:54 -> /2775
+FUNCOES OBS: Grupo: 2775 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2776 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2776 / None / None
+ERRO TEMPO: 02:35:08 tempo de execução, passou: 0:54 -> /2776
+FUNCOES OBS: Grupo: 2776 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2777 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2777 / None / None
+ERRO TEMPO: 02:36:22 tempo de execução, passou: 0:54 -> /2777
+FUNCOES OBS: Grupo: 2777 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2778 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2778 / None / None
+ERRO TEMPO: 02:37:31 tempo de execução, passou: 0:54 -> /2778
+FUNCOES OBS: Grupo: 2778 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2779 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2779 / None / None
+ERRO TEMPO: 02:38:43 tempo de execução, passou: 0:54 -> /2779
+FUNCOES OBS: Grupo: 2779 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2780 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2780 / None / None
+ERRO TEMPO: 02:40:00 tempo de execução, passou: 0:55 -> /2780
+FUNCOES OBS: Grupo: 2780 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2781 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2781 / None / None
+ERRO TEMPO: 02:41:23 tempo de execução, passou: 0:54 -> /2781
+FUNCOES OBS: Grupo: 2781 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2782 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2782 / None / None
+ERRO TEMPO: 02:42:37 tempo de execução, passou: 0:54 -> /2782
+FUNCOES OBS: Grupo: 2782 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2783 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2783 / None / None
+ERRO TEMPO: 02:43:56 tempo de execução, passou: 0:55 -> /2783
+FUNCOES OBS: Grupo: 2783 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2784 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2784 / None / None
+ERRO TEMPO: 02:45:15 tempo de execução, passou: 0:54 -> /2784
+FUNCOES OBS: Grupo: 2784 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2785 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2785 / None / None
+ERRO TEMPO: 02:46:28 tempo de execução, passou: 0:54 -> /2785
+FUNCOES OBS: Grupo: 2785 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2786 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2786 / None / None
+ERRO TEMPO: 02:47:42 tempo de execução, passou: 0:55 -> /2786
+FUNCOES OBS: Grupo: 2786 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2787 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2787 / None / None
+ERRO TEMPO: 02:49:06 tempo de execução, passou: 0:54 -> /2787
+FUNCOES OBS: Grupo: 2787 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2788 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2788 / None / None
+ERRO TEMPO: 02:50:28 tempo de execução, passou: 0:54 -> /2788
+FUNCOES OBS: Grupo: 2788 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2789 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2789 / None / None
+ERRO TEMPO: 02:51:44 tempo de execução, passou: 0:54 -> /2789
+FUNCOES OBS: Grupo: 2789 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2790 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2790 / None / None
+ERRO TEMPO: 02:53:04 tempo de execução, passou: 0:55 -> /2790
+FUNCOES OBS: Grupo: 2790 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2791 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2791 / None / None
+ERRO TEMPO: 02:54:19 tempo de execução, passou: 0:54 -> /2791
+FUNCOES OBS: Grupo: 2791 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2792 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2792 / None / None
+ERRO TEMPO: 02:55:34 tempo de execução, passou: 0:54 -> /2792
+FUNCOES OBS: Grupo: 2792 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2793 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2793 / None / None
+ERRO TEMPO: 02:56:50 tempo de execução, passou: 0:55 -> /2793
+FUNCOES OBS: Grupo: 2793 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2794 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2794 / None / None
+ERRO TEMPO: 02:58:04 tempo de execução, passou: 0:55 -> /2794
+FUNCOES OBS: Grupo: 2794 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2795 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2795 / None / None
+ERRO TEMPO: 02:59:15 tempo de execução, passou: 0:54 -> /2795
+FUNCOES OBS: Grupo: 2795 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2796 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2796 / None / None
+ERRO TEMPO: 03:00:30 tempo de execução, passou: 0:54 -> /2796
+FUNCOES OBS: Grupo: 2796 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2797 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2797 / None / None
+ERRO TEMPO: 03:01:43 tempo de execução, passou: 0:54 -> /2797
+FUNCOES OBS: Grupo: 2797 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2798 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2798 / None / None
+ERRO TEMPO: 03:03:00 tempo de execução, passou: 0:55 -> /2798
+FUNCOES OBS: Grupo: 2798 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2799 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2799 / None / None
+ERRO TEMPO: 03:04:09 tempo de execução, passou: 0:54 -> /2799
+FUNCOES OBS: Grupo: 2799 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2800 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2800 / None / None
+ERRO TEMPO: 03:05:25 tempo de execução, passou: 0:54 -> /2800
+FUNCOES OBS: Grupo: 2800 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2801 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2801 / None / None
+ERRO TEMPO: 03:06:40 tempo de execução, passou: 0:54 -> /2801
+FUNCOES OBS: Grupo: 2801 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2802 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2802 / None / None
+ERRO TEMPO: 03:07:54 tempo de execução, passou: 0:54 -> /2802
+FUNCOES OBS: Grupo: 2802 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2803 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2803 / None / None
+ERRO TEMPO: 03:09:07 tempo de execução, passou: 0:54 -> /2803
+FUNCOES OBS: Grupo: 2803 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2804 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2804 / None / None
+ERRO TEMPO: 03:10:16 tempo de execução, passou: 0:54 -> /2804
+FUNCOES OBS: Grupo: 2804 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2805 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2805 / None / None
+ERRO TEMPO: 03:11:21 tempo de execução, passou: 0:54 -> /2805
+FUNCOES OBS: Grupo: 2805 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2806 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2806 / None / None
+ERRO TEMPO: 03:12:31 tempo de execução, passou: 0:53 -> /2806
+FUNCOES OBS: Grupo: 2806 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2807 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2807 / None / None
+ERRO TEMPO: 03:13:42 tempo de execução, passou: 0:54 -> /2807
+FUNCOES OBS: Grupo: 2807 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2808 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2808 / None / None
+ERRO TEMPO: 03:14:52 tempo de execução, passou: 0:54 -> /2808
+FUNCOES OBS: Grupo: 2808 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2809 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2809 / None / None
+ERRO TEMPO: 03:16:00 tempo de execução, passou: 0:53 -> /2809
+FUNCOES OBS: Grupo: 2809 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2810 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2810 / None / None
+ERRO TEMPO: 03:17:08 tempo de execução, passou: 0:54 -> /2810
+FUNCOES OBS: Grupo: 2810 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2811 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2811 / None / None
+ERRO TEMPO: 03:18:17 tempo de execução, passou: 0:54 -> /2811
+FUNCOES OBS: Grupo: 2811 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2812 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2812 / None / None
+ERRO TEMPO: 03:19:29 tempo de execução, passou: 0:54 -> /2812
+FUNCOES OBS: Grupo: 2812 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2813 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2813 / None / None
+ERRO TEMPO: 03:20:38 tempo de execução, passou: 0:54 -> /2813
+FUNCOES OBS: Grupo: 2813 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2814 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2814 / None / None
+ERRO TEMPO: 03:21:48 tempo de execução, passou: 0:54 -> /2814
+FUNCOES OBS: Grupo: 2814 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2815 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2815 / None / None
+ERRO TEMPO: 03:23:00 tempo de execução, passou: 0:53 -> /2815
+FUNCOES OBS: Grupo: 2815 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2816 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2816 / None / None
+ERRO TEMPO: 03:24:07 tempo de execução, passou: 0:53 -> /2816
+FUNCOES OBS: Grupo: 2816 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2817 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2817 / None / None
+ERRO TEMPO: 03:25:14 tempo de execução, passou: 0:54 -> /2817
+FUNCOES OBS: Grupo: 2817 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2818 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2818 / None / None
+ERRO TEMPO: 03:26:23 tempo de execução, passou: 0:54 -> /2818
+FUNCOES OBS: Grupo: 2818 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2819 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2819 / None / None
+ERRO TEMPO: 03:27:32 tempo de execução, passou: 0:54 -> /2819
+FUNCOES OBS: Grupo: 2819 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2820 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2820 / None / None
+ERRO TEMPO: 03:28:39 tempo de execução, passou: 0:54 -> /2820
+FUNCOES OBS: Grupo: 2820 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2821 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2821 / None / None
+ERRO TEMPO: 03:29:45 tempo de execução, passou: 0:53 -> /2821
+FUNCOES OBS: Grupo: 2821 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2822 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2822 / None / None
+ERRO TEMPO: 03:30:53 tempo de execução, passou: 0:54 -> /2822
+FUNCOES OBS: Grupo: 2822 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2823 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2823 / None / None
+ERRO TEMPO: 03:32:03 tempo de execução, passou: 0:53 -> /2823
+FUNCOES OBS: Grupo: 2823 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2824 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2824 / None / None
+ERRO TEMPO: 03:33:11 tempo de execução, passou: 0:54 -> /2824
+FUNCOES OBS: Grupo: 2824 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2825 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2826 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2826 / None / None
+ERRO TEMPO: 03:35:10 tempo de execução, passou: 0:54 -> /2826
+FUNCOES OBS: Grupo: 2826 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2827 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2827 / None / None
+ERRO TEMPO: 03:36:16 tempo de execução, passou: 0:53 -> /2827
+FUNCOES OBS: Grupo: 2827 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2828 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2828 / None / None
+ERRO TEMPO: 03:37:22 tempo de execução, passou: 0:53 -> /2828
+FUNCOES OBS: Grupo: 2828 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2829 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2829 / None / None
+ERRO TEMPO: 03:38:33 tempo de execução, passou: 0:54 -> /2829
+FUNCOES OBS: Grupo: 2829 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2830 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2831 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2831 / None / None
+ERRO TEMPO: 03:40:30 tempo de execução, passou: 0:53 -> /2831
+FUNCOES OBS: Grupo: 2831 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2832 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2832 / None / None
+ERRO TEMPO: 03:41:56 tempo de execução, passou: 0:54 -> /2832
+FUNCOES OBS: Grupo: 2832 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2833 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2833 / None / None
+ERRO TEMPO: 03:43:02 tempo de execução, passou: 0:54 -> /2833
+FUNCOES OBS: Grupo: 2833 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2834 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2834 / None / None
+ERRO TEMPO: 03:44:09 tempo de execução, passou: 0:53 -> /2834
+FUNCOES OBS: Grupo: 2834 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2835 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2835 / None / None
+ERRO TEMPO: 03:45:17 tempo de execução, passou: 0:53 -> /2835
+FUNCOES OBS: Grupo: 2835 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2836 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2836 / None / None
+ERRO TEMPO: 03:46:27 tempo de execução, passou: 0:54 -> /2836
+FUNCOES OBS: Grupo: 2836 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2837 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2837 / None / None
+ERRO TEMPO: 03:47:34 tempo de execução, passou: 0:54 -> /2837
+FUNCOES OBS: Grupo: 2837 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2838 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2838 / None / None
+ERRO TEMPO: 03:48:40 tempo de execução, passou: 0:54 -> /2838
+FUNCOES OBS: Grupo: 2838 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2839 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2839 / None / None
+ERRO TEMPO: 03:49:55 tempo de execução, passou: 0:54 -> /2839
+FUNCOES OBS: Grupo: 2839 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2840 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2840 / None / None
+ERRO TEMPO: 03:51:03 tempo de execução, passou: 0:54 -> /2840
+FUNCOES OBS: Grupo: 2840 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2841 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2841 / None / None
+ERRO TEMPO: 03:52:13 tempo de execução, passou: 0:54 -> /2841
+FUNCOES OBS: Grupo: 2841 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2842 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2842 / None / None
+ERRO TEMPO: 03:53:25 tempo de execução, passou: 0:54 -> /2842
+FUNCOES OBS: Grupo: 2842 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2843 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2843 / None / None
+ERRO TEMPO: 03:54:33 tempo de execução, passou: 0:54 -> /2843
+FUNCOES OBS: Grupo: 2843 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2844 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2844 / None / None
+ERRO TEMPO: 03:55:44 tempo de execução, passou: 0:54 -> /2844
+FUNCOES OBS: Grupo: 2844 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2845 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2845 / None / None
+ERRO TEMPO: 03:56:49 tempo de execução, passou: 0:53 -> /2845
+FUNCOES OBS: Grupo: 2845 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2846 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2846 / None / None
+ERRO TEMPO: 03:57:59 tempo de execução, passou: 0:54 -> /2846
+FUNCOES OBS: Grupo: 2846 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2847 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2847 / None / None
+ERRO TEMPO: 03:59:08 tempo de execução, passou: 0:54 -> /2847
+FUNCOES OBS: Grupo: 2847 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2848 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2848 / None / None
+ERRO TEMPO: 04:00:15 tempo de execução, passou: 0:54 -> /2848
+FUNCOES OBS: Grupo: 2848 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2849 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2849 / None / None
+ERRO TEMPO: 04:01:23 tempo de execução, passou: 0:54 -> /2849
+FUNCOES OBS: Grupo: 2849 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2850 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2850 / None / None
+ERRO TEMPO: 04:02:35 tempo de execução, passou: 0:56 -> /2850
+FUNCOES OBS: Grupo: 2850 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2851 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2851 / None / None
+ERRO TEMPO: 04:03:48 tempo de execução, passou: 0:54 -> /2851
+FUNCOES OBS: Grupo: 2851 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2852 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2852 / None / None
+ERRO TEMPO: 04:04:57 tempo de execução, passou: 0:54 -> /2852
+FUNCOES OBS: Grupo: 2852 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2853 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2853 / None / None
+ERRO TEMPO: 04:06:05 tempo de execução, passou: 0:54 -> /2853
+FUNCOES OBS: Grupo: 2853 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2854 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2854 / None / None
+ERRO TEMPO: 04:07:18 tempo de execução, passou: 0:54 -> /2854
+FUNCOES OBS: Grupo: 2854 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2855 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2855 / None / None
+ERRO TEMPO: 04:08:32 tempo de execução, passou: 0:54 -> /2855
+FUNCOES OBS: Grupo: 2855 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2856 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2856 / None / None
+ERRO TEMPO: 04:09:44 tempo de execução, passou: 0:54 -> /2856
+FUNCOES OBS: Grupo: 2856 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2857 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2857 / None / None
+ERRO TEMPO: 04:10:57 tempo de execução, passou: 0:54 -> /2857
+FUNCOES OBS: Grupo: 2857 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2858 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2858 / None / None
+ERRO TEMPO: 04:12:06 tempo de execução, passou: 0:54 -> /2858
+FUNCOES OBS: Grupo: 2858 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2859 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2859 / None / None
+ERRO TEMPO: 04:13:20 tempo de execução, passou: 0:54 -> /2859
+FUNCOES OBS: Grupo: 2859 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2860 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2860 / None / None
+ERRO TEMPO: 04:14:35 tempo de execução, passou: 0:54 -> /2860
+FUNCOES OBS: Grupo: 2860 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2861 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2861 / None / None
+ERRO TEMPO: 04:15:50 tempo de execução, passou: 0:54 -> /2861
+FUNCOES OBS: Grupo: 2861 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2862 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2862 / None / None
+ERRO TEMPO: 04:17:05 tempo de execução, passou: 0:55 -> /2862
+FUNCOES OBS: Grupo: 2862 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2863 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2863 / None / None
+ERRO TEMPO: 04:19:03 tempo de execução, passou: 0:54 -> /2863
+FUNCOES OBS: Grupo: 2863 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2864 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2864 / None / None
+ERRO TEMPO: 04:20:17 tempo de execução, passou: 0:54 -> /2864
+FUNCOES OBS: Grupo: 2864 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2865 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2865 / None / None
+ERRO TEMPO: 04:21:27 tempo de execução, passou: 0:54 -> /2865
+FUNCOES OBS: Grupo: 2865 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2866 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2866 / None / None
+ERRO TEMPO: 04:22:44 tempo de execução, passou: 0:54 -> /2866
+FUNCOES OBS: Grupo: 2866 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2867 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2867 / None / None
+ERRO TEMPO: 04:23:55 tempo de execução, passou: 0:55 -> /2867
+FUNCOES OBS: Grupo: 2867 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2868 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2868 / None / None
+ERRO TEMPO: 04:25:05 tempo de execução, passou: 0:54 -> /2868
+FUNCOES OBS: Grupo: 2868 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2869 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2869 / None / None
+ERRO TEMPO: 04:26:14 tempo de execução, passou: 0:54 -> /2869
+FUNCOES OBS: Grupo: 2869 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2870 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2870 / None / None
+ERRO TEMPO: 04:27:24 tempo de execução, passou: 0:55 -> /2870
+FUNCOES OBS: Grupo: 2870 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2871 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2871 / None / None
+ERRO TEMPO: 04:28:37 tempo de execução, passou: 0:54 -> /2871
+FUNCOES OBS: Grupo: 2871 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2872 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2872 / None / None
+ERRO TEMPO: 04:29:51 tempo de execução, passou: 0:54 -> /2872
+FUNCOES OBS: Grupo: 2872 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2873 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2873 / None / None
+ERRO TEMPO: 04:31:01 tempo de execução, passou: 0:54 -> /2873
+FUNCOES OBS: Grupo: 2873 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2874 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2874 / None / None
+ERRO TEMPO: 04:32:14 tempo de execução, passou: 0:54 -> /2874
+FUNCOES OBS: Grupo: 2874 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2875 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2875 / None / None
+ERRO TEMPO: 04:33:24 tempo de execução, passou: 0:54 -> /2875
+FUNCOES OBS: Grupo: 2875 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2876 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2876 / None / None
+ERRO TEMPO: 04:34:38 tempo de execução, passou: 0:54 -> /2876
+FUNCOES OBS: Grupo: 2876 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2877 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2877 / None / None
+ERRO TEMPO: 04:35:46 tempo de execução, passou: 0:54 -> /2877
+FUNCOES OBS: Grupo: 2877 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2878 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2878 / None / None
+ERRO TEMPO: 04:36:54 tempo de execução, passou: 0:54 -> /2878
+FUNCOES OBS: Grupo: 2878 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2879 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2879 / None / None
+ERRO TEMPO: 04:38:05 tempo de execução, passou: 0:54 -> /2879
+FUNCOES OBS: Grupo: 2879 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2880 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2881 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2881 / None / None
+ERRO TEMPO: 04:39:34 tempo de execução, passou: 0:54 -> /2881
+FUNCOES OBS: Grupo: 2881 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2882 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2882 / None / None
+ERRO TEMPO: 04:40:43 tempo de execução, passou: 0:54 -> /2882
+FUNCOES OBS: Grupo: 2882 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2883 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2883 / None / None
+ERRO TEMPO: 04:41:56 tempo de execução, passou: 0:55 -> /2883
+FUNCOES OBS: Grupo: 2883 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2884 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2885 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2885 / None / None
+ERRO TEMPO: 04:44:00 tempo de execução, passou: 0:54 -> /2885
+FUNCOES OBS: Grupo: 2885 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2886 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2886 / None / None
+ERRO TEMPO: 04:45:09 tempo de execução, passou: 0:54 -> /2886
+FUNCOES OBS: Grupo: 2886 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2887 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2887 / None / None
+ERRO TEMPO: 04:46:21 tempo de execução, passou: 0:54 -> /2887
+FUNCOES OBS: Grupo: 2887 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2888 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2888 / None / None
+ERRO TEMPO: 04:47:35 tempo de execução, passou: 0:55 -> /2888
+FUNCOES OBS: Grupo: 2888 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2889 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2889 / None / None
+ERRO TEMPO: 04:48:52 tempo de execução, passou: 0:55 -> /2889
+FUNCOES OBS: Grupo: 2889 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2890 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2890 / None / None
+ERRO TEMPO: 04:50:07 tempo de execução, passou: 0:55 -> /2890
+FUNCOES OBS: Grupo: 2890 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2891 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2892 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2893 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2894 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2894 / None / None
+ERRO TEMPO: 04:53:19 tempo de execução, passou: 0:54 -> /2894
+FUNCOES OBS: Grupo: 2894 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2895 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2895 / None / None
+ERRO TEMPO: 04:54:25 tempo de execução, passou: 0:54 -> /2895
+FUNCOES OBS: Grupo: 2895 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2896 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2896 / None / None
+ERRO TEMPO: 04:55:31 tempo de execução, passou: 0:54 -> /2896
+FUNCOES OBS: Grupo: 2896 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2897 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2898 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2898 / None / None
+ERRO TEMPO: 04:57:17 tempo de execução, passou: 0:54 -> /2898
+FUNCOES OBS: Grupo: 2898 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2900 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2900 / None / None
+ERRO TEMPO: 04:58:25 tempo de execução, passou: 0:54 -> /2900
+FUNCOES OBS: Grupo: 2900 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2901 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2902 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2902 / None / None
+ERRO TEMPO: 04:59:44 tempo de execução, passou: 0:54 -> /2902
+FUNCOES OBS: Grupo: 2902 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2903 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2903 / None / None
+ERRO TEMPO: 05:00:51 tempo de execução, passou: 0:54 -> /2903
+FUNCOES OBS: Grupo: 2903 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2904 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2905 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2905 / None / None
+ERRO TEMPO: 05:02:12 tempo de execução, passou: 0:54 -> /2905
+FUNCOES OBS: Grupo: 2905 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2906 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2906 / None / None
+ERRO TEMPO: 05:03:17 tempo de execução, passou: 0:54 -> /2906
+FUNCOES OBS: Grupo: 2906 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2907 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2907 / None / None
+ERRO TEMPO: 05:04:26 tempo de execução, passou: 0:54 -> /2907
+FUNCOES OBS: Grupo: 2907 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2908 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2908 / None / None
+ERRO TEMPO: 05:05:33 tempo de execução, passou: 0:54 -> /2908
+FUNCOES OBS: Grupo: 2908 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2909 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2909 / None / None
+ERRO TEMPO: 05:06:38 tempo de execução, passou: 0:54 -> /2909
+FUNCOES OBS: Grupo: 2909 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2910 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2910 / None / None
+ERRO TEMPO: 05:07:45 tempo de execução, passou: 0:54 -> /2910
+FUNCOES OBS: Grupo: 2910 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2911 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2911 / None / None
+ERRO TEMPO: 05:08:52 tempo de execução, passou: 0:54 -> /2911
+FUNCOES OBS: Grupo: 2911 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2912 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2913 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2913 / None / None
+ERRO TEMPO: 05:10:44 tempo de execução, passou: 0:53 -> /2913
+FUNCOES OBS: Grupo: 2913 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2914 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2914 / None / None
+ERRO TEMPO: 05:11:51 tempo de execução, passou: 0:54 -> /2914
+FUNCOES OBS: Grupo: 2914 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2915 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2915 / None / None
+ERRO TEMPO: 05:12:56 tempo de execução, passou: 0:54 -> /2915
+FUNCOES OBS: Grupo: 2915 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2916 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2916 / None / None
+ERRO TEMPO: 05:14:03 tempo de execução, passou: 0:54 -> /2916
+FUNCOES OBS: Grupo: 2916 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2917 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2917 / None / None
+ERRO TEMPO: 05:15:27 tempo de execução, passou: 0:54 -> /2917
+FUNCOES OBS: Grupo: 2917 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2918 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2918 / None / None
+ERRO TEMPO: 05:16:34 tempo de execução, passou: 0:53 -> /2918
+FUNCOES OBS: Grupo: 2918 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2919 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2920 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2920 / None / None
+ERRO TEMPO: 05:18:26 tempo de execução, passou: 0:53 -> /2920
+FUNCOES OBS: Grupo: 2920 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2921 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2921 / None / None
+ERRO TEMPO: 05:19:36 tempo de execução, passou: 0:53 -> /2921
+FUNCOES OBS: Grupo: 2921 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2922 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2922 / None / None
+ERRO TEMPO: 05:20:41 tempo de execução, passou: 0:54 -> /2922
+FUNCOES OBS: Grupo: 2922 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2923 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2924 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2925 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2926 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2926 / None / None
+ERRO TEMPO: 05:23:38 tempo de execução, passou: 0:54 -> /2926
+FUNCOES OBS: Grupo: 2926 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2927 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2928 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2928 / None / None
+ERRO TEMPO: 05:25:28 tempo de execução, passou: 0:54 -> /2928
+FUNCOES OBS: Grupo: 2928 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2929 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2929 / None / None
+ERRO TEMPO: 05:26:37 tempo de execução, passou: 0:54 -> /2929
+FUNCOES OBS: Grupo: 2929 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2930 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2931 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2931 / None / None
+ERRO TEMPO: 05:28:54 tempo de execução, passou: 0:54 -> /2931
+FUNCOES OBS: Grupo: 2931 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2932 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2933 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2933 / None / None
+ERRO TEMPO: 05:31:13 tempo de execução, passou: 0:54 -> /2933
+FUNCOES OBS: Grupo: 2933 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2934 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2934 / None / None
+ERRO TEMPO: 05:32:20 tempo de execução, passou: 0:54 -> /2934
+FUNCOES OBS: Grupo: 2934 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2935 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2935 / None / None
+ERRO TEMPO: 05:33:38 tempo de execução, passou: 0:54 -> /2935
+FUNCOES OBS: Grupo: 2935 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2936 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2937 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2938 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2938 / None / None
+ERRO TEMPO: 05:36:45 tempo de execução, passou: 0:54 -> /2938
+FUNCOES OBS: Grupo: 2938 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2939 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2940 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2941 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2942 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2942 / None / None
+ERRO TEMPO: 05:40:06 tempo de execução, passou: 0:53 -> /2942
+FUNCOES OBS: Grupo: 2942 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2943 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2943 / None / None
+ERRO TEMPO: 05:41:14 tempo de execução, passou: 0:54 -> /2943
+FUNCOES OBS: Grupo: 2943 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2944 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2945 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2945 / None / None
+ERRO TEMPO: 05:43:08 tempo de execução, passou: 0:54 -> /2945
+FUNCOES OBS: Grupo: 2945 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2946 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2946 / None / None
+ERRO TEMPO: 05:44:13 tempo de execução, passou: 0:54 -> /2946
+FUNCOES OBS: Grupo: 2946 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2947 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2948 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2949 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2949 / None / None
+ERRO TEMPO: 05:46:52 tempo de execução, passou: 0:54 -> /2949
+FUNCOES OBS: Grupo: 2949 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2950 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2950 / None / None
+ERRO TEMPO: 05:47:59 tempo de execução, passou: 0:54 -> /2950
+FUNCOES OBS: Grupo: 2950 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2951 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2951 / None / None
+ERRO TEMPO: 05:49:05 tempo de execução, passou: 0:53 -> /2951
+FUNCOES OBS: Grupo: 2951 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2952 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2952 / None / None
+ERRO TEMPO: 05:50:13 tempo de execução, passou: 0:54 -> /2952
+FUNCOES OBS: Grupo: 2952 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2953 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2954 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2955 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2955 / None / None
+ERRO TEMPO: 05:52:17 tempo de execução, passou: 0:54 -> /2955
+FUNCOES OBS: Grupo: 2955 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2956 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2956 / None / None
+ERRO TEMPO: 05:53:22 tempo de execução, passou: 0:53 -> /2956
+FUNCOES OBS: Grupo: 2956 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2957 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2957 / None / None
+ERRO TEMPO: 05:54:27 tempo de execução, passou: 0:54 -> /2957
+FUNCOES OBS: Grupo: 2957 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2958 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2958 / None / None
+ERRO TEMPO: 05:55:32 tempo de execução, passou: 0:54 -> /2958
+FUNCOES OBS: Grupo: 2958 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2959 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2959 / None / None
+ERRO TEMPO: 05:56:36 tempo de execução, passou: 0:53 -> /2959
+FUNCOES OBS: Grupo: 2959 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2960 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2960 / None / None
+ERRO TEMPO: 05:57:42 tempo de execução, passou: 0:54 -> /2960
+FUNCOES OBS: Grupo: 2960 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2961 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2961 / None / None
+ERRO TEMPO: 05:58:49 tempo de execução, passou: 0:54 -> /2961
+FUNCOES OBS: Grupo: 2961 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2962 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2962 / None / None
+ERRO TEMPO: 05:59:53 tempo de execução, passou: 0:53 -> /2962
+FUNCOES OBS: Grupo: 2962 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2963 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2963 / None / None
+ERRO TEMPO: 06:00:58 tempo de execução, passou: 0:54 -> /2963
+FUNCOES OBS: Grupo: 2963 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2964 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2964 / None / None
+ERRO TEMPO: 06:02:02 tempo de execução, passou: 0:54 -> /2964
+FUNCOES OBS: Grupo: 2964 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2965 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2965 / None / None
+ERRO TEMPO: 06:03:06 tempo de execução, passou: 0:54 -> /2965
+FUNCOES OBS: Grupo: 2965 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2966 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2966 / None / None
+ERRO TEMPO: 06:04:14 tempo de execução, passou: 0:54 -> /2966
+FUNCOES OBS: Grupo: 2966 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2967 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2968 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2968 / None / None
+ERRO TEMPO: 06:05:30 tempo de execução, passou: 0:54 -> /2968
+FUNCOES OBS: Grupo: 2968 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2969 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2969 / None / None
+ERRO TEMPO: 06:06:35 tempo de execução, passou: 0:54 -> /2969
+FUNCOES OBS: Grupo: 2969 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2970 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2970 / None / None
+ERRO TEMPO: 06:07:39 tempo de execução, passou: 0:54 -> /2970
+FUNCOES OBS: Grupo: 2970 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2971 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2971 / None / None
+ERRO TEMPO: 06:08:43 tempo de execução, passou: 0:54 -> /2971
+FUNCOES OBS: Grupo: 2971 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2972 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2972 / None / None
+ERRO TEMPO: 06:09:48 tempo de execução, passou: 0:53 -> /2972
+FUNCOES OBS: Grupo: 2972 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2973 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2973 / None / None
+ERRO TEMPO: 06:10:54 tempo de execução, passou: 0:54 -> /2973
+FUNCOES OBS: Grupo: 2973 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2974 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2974 / None / None
+ERRO TEMPO: 06:11:58 tempo de execução, passou: 0:54 -> /2974
+FUNCOES OBS: Grupo: 2974 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2975 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2975 / None / None
+ERRO TEMPO: 06:13:02 tempo de execução, passou: 0:54 -> /2975
+FUNCOES OBS: Grupo: 2975 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2976 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2977 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2977 / None / None
+ERRO TEMPO: 06:14:16 tempo de execução, passou: 0:53 -> /2977
+FUNCOES OBS: Grupo: 2977 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2978 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2979 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2980 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2981 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2981 / None / None
+ERRO TEMPO: 06:16:19 tempo de execução, passou: 0:54 -> /2981
+FUNCOES OBS: Grupo: 2981 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2982 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2982 / None / None
+ERRO TEMPO: 06:17:25 tempo de execução, passou: 0:54 -> /2982
+FUNCOES OBS: Grupo: 2982 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2983 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2984 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2984 / None / None
+ERRO TEMPO: 06:18:43 tempo de execução, passou: 0:54 -> /2984
+FUNCOES OBS: Grupo: 2984 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2985 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2985 / None / None
+ERRO TEMPO: 06:19:47 tempo de execução, passou: 0:54 -> /2985
+FUNCOES OBS: Grupo: 2985 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2986 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2987 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2987 / None / None
+ERRO TEMPO: 06:21:03 tempo de execução, passou: 0:54 -> /2987
+FUNCOES OBS: Grupo: 2987 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2988 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2989 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2989 / None / None
+ERRO TEMPO: 06:22:16 tempo de execução, passou: 0:53 -> /2989
+FUNCOES OBS: Grupo: 2989 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2990 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2990 / None / None
+ERRO TEMPO: 06:23:21 tempo de execução, passou: 0:54 -> /2990
+FUNCOES OBS: Grupo: 2990 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2991 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2992 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2992 / None / None
+ERRO TEMPO: 06:24:37 tempo de execução, passou: 0:54 -> /2992
+FUNCOES OBS: Grupo: 2992 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2993 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2993 / None / None
+ERRO TEMPO: 06:25:40 tempo de execução, passou: 0:54 -> /2993
+FUNCOES OBS: Grupo: 2993 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2994 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2994 / None / None
+ERRO TEMPO: 06:26:45 tempo de execução, passou: 0:54 -> /2994
+FUNCOES OBS: Grupo: 2994 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2995 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2995 / None / None
+ERRO TEMPO: 06:27:48 tempo de execução, passou: 0:54 -> /2995
+FUNCOES OBS: Grupo: 2995 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2996 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2997 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2998 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2998 / None / None
+ERRO TEMPO: 06:29:14 tempo de execução, passou: 0:54 -> /2998
+FUNCOES OBS: Grupo: 2998 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 2999 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3047 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3047 / None / None
+ERRO TEMPO: 06:30:34 tempo de execução, passou: 0:54 -> /3047
+FUNCOES OBS: Grupo: 3047 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3048 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3048 / None / None
+ERRO TEMPO: 06:31:39 tempo de execução, passou: 0:54 -> /3048
+FUNCOES OBS: Grupo: 3048 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3049 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3050 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3051 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3052 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3053 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3054 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3055 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3055 / None / None
+ERRO TEMPO: 06:33:45 tempo de execução, passou: 0:54 -> /3055
+FUNCOES OBS: Grupo: 3055 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3056 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3056 / None / None
+ERRO TEMPO: 06:34:49 tempo de execução, passou: 0:54 -> /3056
+FUNCOES OBS: Grupo: 3056 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3057 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3058 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3059 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3060 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3061 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3062 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3063 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3064 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3065 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3065 / None / None
+ERRO TEMPO: 06:37:43 tempo de execução, passou: 0:54 -> /3065
+FUNCOES OBS: Grupo: 3065 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3066 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3067 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3068 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3069 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3069 / None / None
+ERRO TEMPO: 06:39:46 tempo de execução, passou: 0:54 -> /3069
+FUNCOES OBS: Grupo: 3069 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3070 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3071 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3071 / None / None
+ERRO TEMPO: 06:41:00 tempo de execução, passou: 0:54 -> /3071
+FUNCOES OBS: Grupo: 3071 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3072 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3073 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3074 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3074 / None / None
+ERRO TEMPO: 06:42:52 tempo de execução, passou: 0:54 -> /3074
+FUNCOES OBS: Grupo: 3074 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3075 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3075 / None / None
+ERRO TEMPO: 06:44:01 tempo de execução, passou: 0:54 -> /3075
+FUNCOES OBS: Grupo: 3075 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3076 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3076 / None / None
+ERRO TEMPO: 06:45:05 tempo de execução, passou: 0:54 -> /3076
+FUNCOES OBS: Grupo: 3076 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3077 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3078 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3079 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3080 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3081 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3081 / None / None
+ERRO TEMPO: 06:46:50 tempo de execução, passou: 0:53 -> /3081
+FUNCOES OBS: Grupo: 3081 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3082 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3083 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3083 / None / None
+ERRO TEMPO: 06:48:08 tempo de execução, passou: 0:53 -> /3083
+FUNCOES OBS: Grupo: 3083 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3084 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3084 / None / None
+ERRO TEMPO: 06:49:16 tempo de execução, passou: 0:54 -> /3084
+FUNCOES OBS: Grupo: 3084 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3085 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3086 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3087 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3088 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3089 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3090 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3090 / None / None
+ERRO TEMPO: 06:51:16 tempo de execução, passou: 0:54 -> /3090
+FUNCOES OBS: Grupo: 3090 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3091 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3092 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3092 / None / None
+ERRO TEMPO: 06:52:31 tempo de execução, passou: 0:54 -> /3092
+FUNCOES OBS: Grupo: 3092 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3093 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3094 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3095 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3096 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3096 / None / None
+ERRO TEMPO: 06:54:10 tempo de execução, passou: 0:53 -> /3096
+FUNCOES OBS: Grupo: 3096 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3097 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3098 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3099 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3100 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3100 / None / None
+ERRO TEMPO: 06:55:47 tempo de execução, passou: 0:54 -> /3100
+FUNCOES OBS: Grupo: 3100 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3101 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3102 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3103 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3104 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3104 / None / None
+ERRO TEMPO: 06:57:24 tempo de execução, passou: 0:54 -> /3104
+FUNCOES OBS: Grupo: 3104 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3105 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3106 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3106 / None / None
+ERRO TEMPO: 06:58:38 tempo de execução, passou: 0:54 -> /3106
+FUNCOES OBS: Grupo: 3106 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3107 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3107 / None / None
+ERRO TEMPO: 06:59:43 tempo de execução, passou: 0:54 -> /3107
+FUNCOES OBS: Grupo: 3107 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3108 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3109 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3110 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3110 / None / None
+ERRO TEMPO: 07:01:09 tempo de execução, passou: 0:54 -> /3110
+FUNCOES OBS: Grupo: 3110 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3111 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3112 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3113 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3113 / None / None
+ERRO TEMPO: 07:02:32 tempo de execução, passou: 0:54 -> /3113
+FUNCOES OBS: Grupo: 3113 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3114 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3115 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3116 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3117 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3118 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3118 / None / None
+ERRO TEMPO: 07:04:19 tempo de execução, passou: 0:53 -> /3118
+FUNCOES OBS: Grupo: 3118 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3119 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3120 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3121 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3121 / None / None
+ERRO TEMPO: 07:05:44 tempo de execução, passou: 0:54 -> /3121
+FUNCOES OBS: Grupo: 3121 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3122 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3123 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3125 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3126 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3126 / None / None
+ERRO TEMPO: 07:07:58 tempo de execução, passou: 0:54 -> /3126
+FUNCOES OBS: Grupo: 3126 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3127 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3127 / None / None
+ERRO TEMPO: 07:09:03 tempo de execução, passou: 0:54 -> /3127
+FUNCOES OBS: Grupo: 3127 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3128 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3128 / None / None
+ERRO TEMPO: 07:10:08 tempo de execução, passou: 0:54 -> /3128
+FUNCOES OBS: Grupo: 3128 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3129 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3129 / None / None
+ERRO TEMPO: 07:11:13 tempo de execução, passou: 0:53 -> /3129
+FUNCOES OBS: Grupo: 3129 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3130 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3131 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3131 / None / None
+ERRO TEMPO: 07:12:29 tempo de execução, passou: 0:54 -> /3131
+FUNCOES OBS: Grupo: 3131 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3132 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3133 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3134 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3134 / None / None
+ERRO TEMPO: 07:13:55 tempo de execução, passou: 0:54 -> /3134
+FUNCOES OBS: Grupo: 3134 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3135 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3136 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3137 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3139 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3140 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3141 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3142 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3143 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3144 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3145 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3146 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3147 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3148 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3149 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3150 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3151 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3151 / None / None
+ERRO TEMPO: 07:17:37 tempo de execução, passou: 0:54 -> /3151
+FUNCOES OBS: Grupo: 3151 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3153 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3154 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3155 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3156 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3157 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3158 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3159 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3160 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3161 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3162 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3163 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3164 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3165 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3166 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3167 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3168 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3169 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3170 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3171 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3172 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3173 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3174 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3175 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3176 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3177 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3178 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3179 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3180 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3181 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3182 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3183 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3184 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3185 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3187 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3188 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3189 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3190 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3191 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3191 / None / None
+ERRO TEMPO: 07:25:28 tempo de execução, passou: 0:54 -> /3191
+FUNCOES OBS: Grupo: 3191 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3192 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3193 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3194 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3196 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3197 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3198 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3199 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3200 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3201 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3202 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3203 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3204 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3205 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3206 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3207 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3208 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3209 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3210 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3211 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3212 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3213 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3214 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3215 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3216 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3217 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3218 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3218 / None / None
+ERRO TEMPO: 07:31:01 tempo de execução, passou: 0:54 -> /3218
+FUNCOES OBS: Grupo: 3218 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3219 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3219 / None / None
+ERRO TEMPO: 07:32:05 tempo de execução, passou: 0:54 -> /3219
+FUNCOES OBS: Grupo: 3219 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3220 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3221 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3222 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3223 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3224 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3225 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3226 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3226 / None / None
+ERRO TEMPO: 07:34:16 tempo de execução, passou: 0:53 -> /3226
+FUNCOES OBS: Grupo: 3226 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3227 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3229 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3231 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3232 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3233 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3234 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3235 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3235 / None / None
+ERRO TEMPO: 07:36:25 tempo de execução, passou: 0:54 -> /3235
+FUNCOES OBS: Grupo: 3235 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3236 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3236 / None / None
+ERRO TEMPO: 07:37:29 tempo de execução, passou: 0:54 -> /3236
+FUNCOES OBS: Grupo: 3236 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3238 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3239 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3240 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3240 / None / None
+ERRO TEMPO: 07:38:58 tempo de execução, passou: 0:54 -> /3240
+FUNCOES OBS: Grupo: 3240 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3241 | Tempo: 5.2 seg de 5 | Num tentativas: 0 | Faz: informar | path: Não path | Erro: NoSuchElementException. | 
+
+TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 3241 / None / None
+ERRO TEMPO: 07:40:02 tempo de execução, passou: 0:54 -> /3241
+FUNCOES OBS: Grupo: 3241 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3243 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3245 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3246 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3247 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3248 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3249 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3250 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3251 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3253 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3254 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3255 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3256 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3257 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3258 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3259 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3260 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3261 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3262 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3263 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3264 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3265 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3266 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3267 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3268 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3269 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3270 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3271 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3272 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3273 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3274 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3275 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3276 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3277 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3278 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3279 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3280 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3281 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3282 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3283 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3284 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3285 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3286 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3287 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3288 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3289 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3291 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3292 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3293 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3294 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3295 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3296 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3298 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3299 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3300 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3301 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3302 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3303 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3304 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3305 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3306 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3307 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3308 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3309 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3310 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3312 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3314 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3315 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3316 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3317 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 3318 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 4100 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 4101 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+FUNCOES OBS: Grupo: 4102 | Tempo: 1.0 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
+
+TEMPO INFORMA: 07:54:39 tempo de execução em todo o programa
+21:06:54

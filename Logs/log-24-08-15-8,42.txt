@@ -1,0 +1,48 @@
+
+08:25:55   0
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
+FUNCAO ALERTA: (NoSuchElementException) TP 2 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'])
+ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
