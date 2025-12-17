@@ -5,25 +5,24 @@ import time
 
 class Log:
     def __init__(self, *args, **kwargs):
-        self.escreva = kwargs.get('escreva')
-        self.pAL = kwargs.get('pAL')
+        self.write_log = kwargs.get('write_log')
+        self.path_all_log = kwargs.get('path_all_log')
 
     def ler(self):
-        with open(self.pAL, 'r', encoding='utf-8') as arquivo:
+        with open(self.path_all_log, 'r', encoding='utf-8') as arquivo:
             return arquivo.read()
 
     def limpar(self):
-        with open(self.pAL, 'w') as arquivo:
+        with open(self.path_all_log, 'w') as arquivo:
             arquivo.write('')
 
     def escrever(self):
         try:
-            with open(self.pAL, 'a') as arquivo:
-                arquivo.write('\n' + self.escreva)
+            with open(self.path_all_log, 'a', encoding="utf-8") as arquivo:
+                arquivo.write('\n' + self.write_log)
+            # print(f'⛏️  LOG: escreveu ({self.write_log}) no caminho ({self.path_all_log})')
         except TypeError as e:
-            text = f'LOG ERROR: (({e})) o pAL é: (({self.pAL})) '
-            text += f'o escreva é: (({self.escreva}))'
-            print(text)
+            print(f'❌ LOG: Error ({e}) ao tenta escrever ({self.write_log}) no caminho ({self.path_all_log})')
 
 
 if __name__ == '__main__':
@@ -35,11 +34,11 @@ if __name__ == '__main__':
     ext_Log = '.txt'
 
     p_log = pasta + logs
-    pAL = p_log + arq_log + ext_Log
+    path_all_log = p_log + arq_log + ext_Log
 
-    log.pAL = pAL
-    escreva = time.strftime("%H:%M:%S")
-    log.escreva = escreva
+    log.path_all_log = path_all_log
+    write_log = time.strftime("%H:%M:%S")
+    log.write_log = write_log
     log.escrever()
-    # Log(pAL=pAL).limpar()
-    # Log(pAL=pAL, escreva=escreva).escrever()
+    # Log(path_all_log=path_all_log).limpar()
+    # Log(path_all_log=path_all_log, write_log=write_log).escrever()

@@ -5,15 +5,29 @@ logs = 'Logs/'
 arq_log = 'log'
 ext_Log = '.txt'
 arq_df = 'df' + underscore
+arq_json = 'json' + underscore
 arq_df_clickvenda = arq_df + 'clickvenda'
 arq_df_newcon = arq_df + 'newcon'
+arq_json_clickvenda = arq_json + 'clickvenda'
+arq_json_newcon = arq_json + 'newcon'
+tratado = underscore + 'tratado'
 ext_Xlsx = '.xlsx'
 ext_CSV = '.csv'
 ext_JSON = '.json'
 p_df = pasta + tabelas
 p_log = pasta + logs
 
-
+# variavels do chrmeDriveauto
+list_kill_proc = ["chromedriver.exe", "chrome.exe"]
+dict_url_download_google = {
+    'base': "https://storage.googleapis.com/chrome-for-testing-public/",
+    'driver_zip': "/win64/chromedriver-win64.zip", 
+    'chrome_zip': "/win64/chrome-win64.zip"
+}
+path_driver_zip = "driver.zip"
+path_chrome_zip = "chrome.zip"
+extract_path = "driver"
+if_not_exist_version_chrome = "142.0.7444.122"
 
 
 # VARIAVEIS DE CONTROL
@@ -40,7 +54,7 @@ info_clickvenda = {
 info_newcon = {
     'site': 'https://web.disalconsorcio.com.br/',
     'user': '0000995789',
-    'password': '1425@Select',
+    'password': '2520@Select',
     'log': 'log_site',
     'navegate_start': 'navegate_start_newcon',
     'navegate': 'navegate_newcon',
@@ -50,6 +64,8 @@ info_newcon = {
 
 path_clickvenda = {
     'loading': '//*[@id="loading"]',
+    'modal': '//*[@id="md-avisos-vendedor"]/div',
+    'modal_btn': '//*[@id="btn-confirmar-aviso"]',
     'user': '//*[@id="CPF"]',
     'password': '//*[@id="Senha"]',
     'btn_open': '//*[@id="btn-entrar"]',
@@ -62,7 +78,7 @@ path_clickvenda = {
     'credito_referenciado': '//*[@id="divPasso1"]/div/div[2]/div/div[4]/div/input',
     'busca_andamento_modelo': '//*[@id="busca_andamento_modelo"]',
     'btn_buscar': '//*[@id="divPasso1"]/div/div[2]/div/div[5]/div[3]/div/input',
-    'id_divPasso21': '//*[@id="divPasso21"]//',
+    'id_divPasso21': '//*[@id="divPasso21"]',
     'id_divPasso21_divs': '//*[@id="divPasso21"]/div/div/div/div/div/table/tbody',
     'id_divPasso21_table': '//*[@id="divPasso21"]/div/div/div/div/div/table',
 }
@@ -87,17 +103,36 @@ path_newcon = {
     'id_ctl00_Conteudo_lblDT_Prox_Vencimento': '//*[@id="ctl00_Conteudo_lblDT_Prox_Vencimento"]',
 
     'id_ctl00_Conteudo_grdContemplacoes_Confirmadas': '//*[@id="ctl00_Conteudo_grdContemplacoes_Confirmadas"]',
+
+    'id_tabs': '//*[@id="tabs"]/ul/li[1]',
+
+    'id_ctl00_Conteudo_btnRetornaAssembleia': '//*[@id="ctl00_Conteudo_btnRetornaAssembleia"]',
+    
+    'id_ctl00_Conteudo_div_Confirmadas': '//*[@id="ctl00_Conteudo_div_Confirmadas"]/div',
+
     'id_ui_id_8': '//*[@id="ui-id-8"]',
-    'id_ctl00_Conteudo_grdContemplacoes_Confirmadas_Canceladas': '//*[@id="ctl00_Conteudo_grdContemplacoes_Confirmadas_Canceladas"]'
+    'id_ctl00_Conteudo_grdContemplacoes_Confirmadas_Canceladas': '//*[@id="ctl00_Conteudo_grdContemplacoes_Confirmadas_Canceladas"]',
+
+    # 'id_ctl00_Conteudo_tabDesclassificadas': '//*[@id="ctl00_Conteudo_tabDesclassificadas"]',
+    'id_ui_id_9': '//*[@id="ui-id-9"]',
+    'id_ctl00_Conteudo_div_Desclassificadas': '//*[@id="ctl00_Conteudo_div_Desclassificadas"]',
+
+    'id_ctl00_Conteudo_btnCotasSorteadas': '//*[@id="ctl00_Conteudo_btnCotasSorteadas"]',
+
+
+    # 'id_ctl00_Conteudo_div_Desclassificadas': '//*[@id="ctl00_Conteudo_div_Desclassificadas"]/div[1]' ,
+    # '//*[@id="tabs-2"]'
+    # '//*[@id="tabs-1"]'
     
 }
 
-list_info = ['id_ctl00_Conteudo_lblPZ_Comercializacao', 
-             'id_ctl00_Conteudo_lblQT_Assembleia_Realizada',
-             'id_ctl00_Conteudo_lblQT_Assembleia_ARealizar',
-             'id_ctl00_Conteudo_lblDT_Prox_Assembleia',
-             'id_ctl00_Conteudo_lblDT_Prox_Vencimento'
-            ]
+disc_path_info = {
+    'prazo': 'id_ctl00_Conteudo_lblPZ_Comercializacao', 
+    'realizadas': 'id_ctl00_Conteudo_lblQT_Assembleia_Realizada',
+    'arealizar': 'id_ctl00_Conteudo_lblQT_Assembleia_ARealizar',
+    'assembleia': 'id_ctl00_Conteudo_lblDT_Prox_Assembleia',
+    'vencimento': 'id_ctl00_Conteudo_lblDT_Prox_Vencimento'
+}
 
 
 tag_table = 'table'
@@ -105,25 +140,27 @@ tag_tbody = 'tbody'
 tag_tr = 'tr'
 tag_td = 'td'
 tag_th = 'th'
+tag_option = 'option'
+tag_value = 'value'
+tag_text = 'text'
+
+tag_span = 'span'
+tag_img = 'img'
+tag_attr = 'attr'
+
 
 
 mesQuantidade = 3
-menor_g_newcon = 2626
+# menor_g_newcon = 2626
+menor_g_newcon = 2953
 maior_g_newcon = 10000
 
 jump_clickvenda = False
-jump_newcon_full = False
-jump_newcon_info = False
-jump_newcon_conf = False
-jump_newcon_desc = False
-jump_newcon_apur = False
+jump_newcon = False
 
 jump_clickvenda = True
-# jump_newcon_full = True
-# jump_newcon_info = True
-# jump_newcon_conf = True
-# jump_newcon_desc = True
-# jump_newcon_apur = True
+# jump_newcon = True
+
 
 # Limitar os 360?
 # nTab360Infinuto = False
@@ -134,9 +171,10 @@ nMaximoTab360 = 1   # ira pegar numero n de tabelas no 360
 
 
 
-arq_clickvenda = p_df + arq_df_clickvenda + ext_JSON
+arq_clickvenda = p_df + arq_json_clickvenda + ext_JSON
 
-
+arq_newcon = p_df + arq_json_newcon + ext_JSON
+arq_newcon_tratado = p_df + arq_json_newcon + tratado + ext_JSON
 
 ap = 'newcon' + underscore
 

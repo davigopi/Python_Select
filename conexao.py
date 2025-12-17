@@ -41,17 +41,18 @@ import json
 
 import pyautogui
 
-funct = Funct()
+
 log = Log()
 read_salve = Read_salve()
 convert = Convert()
+
 
 class Conexao:
     def __init__(self, *args, **kwargs):
         self.driver = kwargs.get('driver')
         self.user = kwargs.get('user')
         self.password = kwargs.get('password')
-        self.pAL = kwargs.get('pAL')
+        self.path_all_log = kwargs.get('path_all_log')
         self.tpInicSegProg = kwargs.get('tpInicSegProg')
         self.html1Anterior = kwargs.get('html1Anterior')
         self.html2Anterior = kwargs.get('html2Anterior')
@@ -61,7 +62,7 @@ class Conexao:
         self.ultNIndex3 = kwargs.get('ultNIndex3')
         self.ultNIndex4 = kwargs.get('ultNIndex4')
         self.ap = kwargs.get('ap')
-        self.g_newcon = kwargs.get('g_newcon')
+        self.grupo_newcon = kwargs.get('grupo_newcon')
         self.df = kwargs.get('df')
         self.df2 = kwargs.get('df2')
         self.df_newcon = kwargs.get('df_newcon')
@@ -75,15 +76,17 @@ class Conexao:
         # self.plano = {}
         # self.marca = {}
         self.plano_marca = {}
+
         # self.retornar = True
         
-        log.pAL = self.pAL
+        log.path_all_log = self.path_all_log
+
+        self.funct = Funct(driver = self.driver, path_all_log = self.path_all_log)
         
 
     def zerar_variaveis(self):
         self.extencao = None
 
-    # atalhos para read_salve
     def salve_clickvend(self, write_file, folder_file):
         read_salve.write_file = write_file
         read_salve.folder_file = folder_file
@@ -93,73 +96,92 @@ class Conexao:
         read_salve.folder_file = folder_file
         return read_salve.to_read()
 
-    # atalhos para fuct
     def func_key(self, path, keyboard):
-        funct.path = path
-        funct.digitar = keyboard
-        funct.faz = 'keys'
-        return funct.funct()
+        self.funct.path = path
+        self.funct.digitar = keyboard
+        self.funct.faz = 'keys'
+        return self.funct.funct()
     
     def func_click(self, path):
-        funct.path = path
-        return funct.funct()
-    
-    # def func_get_select(self, path, tag):
-    #     funct.path = path
-    #     funct.tag = tag
-    #     funct.faz = 'get_select'
-    #     return funct.funct()
+        self.funct.path = path
+        return self.funct.funct()
 
-    def func_get_select(self, path, tag1=''):
-        funct.path = path
-        funct.tag1 = tag1
-        funct.faz = 'get_select'
-        return funct.funct()
+    def func_get_select(self, path, tag=''):
+        self.funct.path = path
+        self.funct.tag = tag
+        self.funct.faz = 'get_select'
+        return self.funct.funct()
     
     def func_select_value(self, path, value):
-        funct.path = path
-        funct.value = value
-        funct.faz = 'select_value'
-        return funct.funct()
+        self.funct.path = path
+        self.funct.value = value
+        self.funct.faz = 'select_value'
+        return self.funct.funct()
     
     def func_checkbox(self, path):
-        funct.path = path
-        funct.faz = 'checkbox'
-        if funct.funct():
-            return funct.dados
+        self.funct.path = path
+        self.funct.faz = 'checkbox'
+        if self.funct.funct():
+            return self.funct.dados
         return False
     
     def func_wait_df_or_empty(self, path):
-        funct.path = path
-        funct.faz = 'wait_df_or_empty'
-        return funct.funct()
-    
-  
+        self.funct.path = path
+        self.funct.faz = 'wait_df_or_empty'
+        return self.funct.funct() 
     
     def func_key_single(self, path, key_single, quantity):
         for _ in range(quantity):
-            funct.path = path
-            funct.key_single = key_single
-            funct.faz = 'key_single'
-            funct.funct()
+            self.funct.path = path
+            self.funct.key_single = key_single
+            self.funct.faz = 'key_single'
+            self.funct.funct()
         return
 
     # clickvenda:
     # clickvenda segundo nivel:
-    def treat_dados(self, dados):
-        dict_dados = [
-            {
-                "value": dado.get_attribute("value"),
-                "text": dado.text.strip()
-            }
-            for dado in dados
-            if dado.get_attribute("value")
-        ]
+    def treat_dados(self, dados, tag1):
+        # print(f'dados: {dados}')
+        dict_dados = []
+        # Como dados é BeautifulSoup: <select>
+        options = dados.find_all(tag1)
+        for option in options:
+            value = option.get(tag_value)
+            if value and value.strip():
+                dict_dados.append({
+                    tag_value: value.strip(),
+                    tag_text: option.text.strip()
+                })
+        # print(f'dict_dados: {dict_dados}')
         return dict_dados
+
+
+    # def treat_dados(self, dados):
+    #     print(f'dados: {dados}')
+    #     options = dados.find_all(tag_option)
+    #     dict_dados = []
+    #     for dado in options:
+    #         print(dado)
+    #         value = dado.get_attribute(tag_value)
+    #         if value:
+    #             dict_dados.append({
+    #                 tag_value: value,
+    #                 tag_text: dado.text.strip()
+    #             })
+    #     print(f'dict_dados:{ dict_dados}')
+    #     # dict_dados = [
+    #     #     {
+    #     #         tag_value: dado.get_attribute(tag_value),
+    #     #         tag_text: dado.text.strip()
+    #     #     }
+    #     #     for dado in dados
+    #     #     if dado.get_attribute(tag_value)
+    #     # ]
+    #     return dict_dados
     
-    def click_get_select(self, path, tag1):
+    def click_get_select(self, path, tag):
         self.func_click(path_clickvenda[path])
-        return self.func_get_select(path_clickvenda[path], tag1)
+        return self.func_get_select(path_clickvenda[path], tag)
 
     def marked_checkbox(self):
         if self.func_checkbox(path_clickvenda['credito_referenciado'])  == 'OK':
@@ -167,9 +189,13 @@ class Conexao:
 
     # clickvenda primeiro nivel:
     def log_site(self, info_site, path_site):
-        funct.driver = self.driver
-        funct.pAL = self.pAL
-        funct.path_loading = path_site['loading']
+        self.funct.driver = self.driver
+        self.funct.path_all_log = self.path_all_log
+        if 'loading' in path_site:
+            self.funct.path_loading = path_site['loading']
+        if 'modal' in path_site and 'modal_btn' in path_site:
+            self.funct.path_modal = path_site['modal']
+            self.funct.path_modal_btn = path_site['modal_btn']
         self.func_key(path_site['user'], info_site['user'])
         self.func_key(path_site['password'], info_site['password'])
         self.func_click(path_site['btn_open'])
@@ -184,121 +210,240 @@ class Conexao:
 
     def navegate_clickvend(self):
         rows = []
-        planos = self.treat_dados(self.click_get_select('busca_andamento_plano', 'option'))
+        planos = self.treat_dados(self.click_get_select('busca_andamento_plano', tag_option), tag_option)
         for plano in planos:
-            if not plano["value"]:
+            # print(plano)
+            # if 'PLANO 100%  36M TX 16' not in plano['text']:
+            #     continue
+            # print(f'plano: {plano}')
+            if not plano[tag_value]:
                 continue
-            self.func_select_value(path_clickvenda['busca_andamento_plano'], plano['value'])
+            self.func_select_value(path_clickvenda['busca_andamento_plano'], plano[tag_value])
             self.marked_checkbox()
-            marcas = self.treat_dados(self.click_get_select('busca_andamento_modelo', 'option'))
+            marcas = self.treat_dados(self.click_get_select('busca_andamento_modelo', tag_option), tag_option)
             for marca in marcas:
-                if not marca["value"]:
+                # print(f'marca: {marca}')
+                # if 'CRED REF 990009 - 78.000,00' not in marca["text"]:
+                #     continue
+                # time.sleep(100)
+                if not marca[tag_value]:
                     continue
-                self.func_select_value(path_clickvenda['busca_andamento_modelo'], marca['value'])
+                self.func_select_value(path_clickvenda['busca_andamento_modelo'], marca[tag_value])
                 self.func_click(path_clickvenda['btn_buscar'])
                 self.func_wait_df_or_empty(path_clickvenda['id_divPasso21'])
-                convert.html_table = self.func_get_select(path_clickvenda['id_divPasso21_table'], tag_table)
-                list_row = convert.table_html_in_json()
+                convert.table = self.func_get_select(path_clickvenda['id_divPasso21_table'], tag_table)
+                list_row = convert.table_list_in_disc()
                 new_row = []
                 for row in list_row:
-                    row['Plano'] = plano['text']
-                    row['Marca'] = marca['text']
+                    row['Plano'] = plano[tag_text]
+                    row['Marca'] = marca[tag_text]
                     new_row. append(row)
                 rows += new_row
             # break
         self.salve_clickvend(rows, arq_clickvenda)
         return True
 
-    # newcon:
-    # newcon primeiro nível
-    def info_newcon(self):
-        # lista = []
+    # newcom 
+
+
+    # clickvenda primeiro nivel:
+    def get_df_grupo(self):
+        list_grupo = []
+        for dict_df in self.df:
+            list_grupo.append(dict_df['Grupo'])
+        list_grupo = sorted(set(list_grupo))    
+        return list_grupo
+    
+    def percussion_cont_newcon(self):
+        # self.funct.driver = self.driver
+        # self.funct.path_all_log = self.path_all_log
+        self.func_click(path_newcon['id_CP'])  # contemplacao
+        self.func_click(path_newcon['id_subs'] )  # contemplacao
+        self.func_click(path_newcon['id_ctl00_Conteudo_ctl00_tvwMenut1'])  # Resultado de Assembleia
+        self.func_key(path_newcon['id_ctl00_Conteudo_edtCD_Grupo'], self.grupo_newcon)  # campo grupo
+        self.func_click(path_newcon['id_ctl00_Conteudo_btnOK'])  # botao confirmar
+
+
+    def get_info_newcon(self):
+        disc_info = {}
+        for key, info in disc_path_info.items():
+            disc_info[key] = self.func_get_select(path_newcon[info], tag_text)
+        return disc_info
+
+    def get_conf_newcon(self):
+        # self.funct = Funct()
+        # self.funct.driver = self.driver
+        # self.funct.path_all_log = self.path_all_log
+        disc_all = []
+        for _ in range(mesQuantidade):
+            convert.table = self.func_get_select(path_newcon['id_ctl00_Conteudo_div_Confirmadas'], tag_table)
+            disc_all += convert.table_list_in_disc()
+            self.func_click(path_newcon['id_ctl00_Conteudo_btnRetornaAssembleia'])
+        return disc_all
+
+    def get_canc_newcon(self):
+        # self.funct = Funct()
+        # self.funct.driver = self.driver
+        # self.funct.path_all_log = self.path_all_log
+        disc_all = []
+        for _ in range(mesQuantidade):
+            self.func_click(path_newcon['id_ui_id_8'])    
+            convert.table = self.func_get_select(path_newcon['id_ctl00_Conteudo_grdContemplacoes_Confirmadas_Canceladas'], tag_table)
+            disc_all += convert.table_list_in_disc()
+            self.func_click(path_newcon['id_ctl00_Conteudo_btnRetornaAssembleia'])
+        return disc_all
+
+    def get_desc_newcon(self):
+        # self.funct = Funct()
+        # self.funct.driver = self.driver
+        # self.funct.path_all_log = self.path_all_log
+        disc_all = []
+        for _ in range(mesQuantidade):
+            self.func_click(path_newcon['id_ui_id_9'])
+            convert.table = self.func_get_select(path_newcon['id_ctl00_Conteudo_div_Desclassificadas'], tag_table)
+            disc_all += convert.table_list_in_disc()
+            self.func_click(path_newcon['id_ctl00_Conteudo_btnRetornaAssembleia'])
+        return disc_all
+        
+    def get_apur_newcon(self):
+        # self.funct = Funct()
+        # self.funct.driver = self.driver
+        # self.funct.path_all_log = self.path_all_log
+        self.funct.time_total_set = 3
+        disc_all = []
+        for _ in range(mesQuantidade):
+            if not self.func_click(path_newcon['id_ctl00_Conteudo_btnCotasSorteadas']):
+                break
+            print(f'⁉️  CONEXAO: O grupo {self.grupo_newcon} tem apuração')
+            time.sleep(99)   
+            convert.table = self.func_get_select(path_newcon['id_ctl00_Conteudo_grdContemplacoes_Confirmadas_Canceladas'], tag_table)
+            disc_all += convert.table_list_in_disc()
+            self.func_click(path_newcon['id_ctl00_Conteudo_btnRetornaAssembleia'])
+        return disc_all
+    
+        print('3')
+        tarefa = self.padrao_escolha_df()
         # tarefa = Tarefa()
         # tarefa.driver = self.driver
-        # tarefa.pAL = self.pAL
-        # tarefa.g_newcon = self.g_newcon
-        # tarefa.xpath_present_secreen = '//*[@id="divLoading"]/img'
-        for info in list_info:
-            print('inico')
-            print(self.func_get_select(path_newcon[info]))
-            print('fim')
-            time.sleep(2)
-
-        # convert.html_table = self.func_get_select(path_newcon['id_ctl00_Conteudo_grdContemplacoes_Confirmadas'], tag_table, '')
-        # list_row = convert.table_html_in_json()
-        # self.func_click(path_newcon['id_ui_id_8'])
-        # time.sleep(6)
-        # convert.html_table = self.func_get_select(path_newcon['id_ctl00_Conteudo_grdContemplacoes_Confirmadas_Canceladas'], tag_table, '')
-        # list_row = convert.table_html_in_json()
-        time.sleep(66)
-        return
-        tarefa.url = '//*[@id="ctl00_Conteudo_lblCD_Grupo"]'  # grupo
-        inf = tarefa.infoHTML()
-        if inf == 'ERROR':
-            return 'ERROR'
-
-            # inf = Tarefa(
-            #     driver=self.driver,
-            #     g_newcon=self.g_newcon,
-            #     pAL=self.pAL,
-            #     url=url).infoHTML()
-        lista.append(inf)
-        print('2')
-        tarefa.url = '//*[@id="ctl00_Conteudo_lblPZ_Comercializacao"]'
-        inf = tarefa.infoHTML()
-        if inf == 'ERROR':
-            return 'ERROR'
-        # inf = Tarefa(
-        #     driver=self.driver,
-        #     g_newcon=self.g_newcon,
-        #     pAL=self.pAL,
-        #     url=url).infoHTML()
-        lista.append(inf)
-        print('3')
-        tarefa.url = '//*[@id="ctl00_Conteudo_lblQT_Assembleia_Realizada"]'
-        inf = tarefa.infoHTML()
-        if inf == 'ERROR':
-            return 'ERROR'
-        # inf = Tarefa(
-        #     driver=self.driver,
-        #     g_newcon=self.g_newcon,
-        #     pAL=self.pAL,
-        #     url=url).infoHTML()
-        lista.append(inf)
+        # tarefa.path_all_log = self.path_all_log
         print('4')
-        tarefa.url = '//*[@id="ctl00_Conteudo_lblQT_Assembleia_ARealizar"]'
-        inf = tarefa.infoHTML()
-        if inf == 'ERROR':
-            return 'ERROR'
-        # inf = Tarefa(
-        #     driver=self.driver,
-        #     g_newcon=self.g_newcon,
-        #     pAL=self.pAL,
-        #     url=url).infoHTML()
-        lista.append(inf)
-        print('5')
-        tarefa.url = '//*[@id="ctl00_Conteudo_lblDT_Prox_Assembleia"]'
-        inf = tarefa.infoHTML()
-        if inf == 'ERROR':
-            return 'ERROR'
-        # inf = Tarefa(
-        #     driver=self.driver,
-        #     g_newcon=self.g_newcon,
-        #     pAL=self.pAL,
-        #     url=url).infoHTML()
-        lista.append(inf)
-        print('6')
-        tarefa.url = '//*[@id="ctl00_Conteudo_lblDT_Prox_Vencimento"]'
-        inf = tarefa.infoHTML()
-        if inf == 'ERROR':
-            return 'ERROR'
-        # inf = Tarefa(
-        #     driver=self.driver,
-        #     g_newcon=self.g_newcon,
-        #     pAL=self.pAL,
-        #     url=url).infoHTML()
-        lista.append(inf)
-        return lista
+        tarefa.xpath_present_secreen = '//*[@id="divLoading"]/img'
+        tarefa.url = '//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'  # df
+        # tarefa.ultCel1 = 0  # necessario para saber se df atualizou
+        # tarefa.ultCel2 = 0  # necessario para saber se df atualizou
+        # tarefa.colCel1 = 1  # coluna dois para teste
+        # tarefa.colCel2 = -1  # coluna ultima para teste
+        # tarefa.indTx1 = 'Grupo'
+        # tarefa.tag1 = 'table'
+        # tarefa.tag2 = 'tr'
+        # tarefa.tag3 = 'td'
+        # tarefa.tagCab = 'th'
+        tarefa.tempo = 5
+        tarefa.ultNIndex = self.ultNIndex3
+        tarefa.fator_repeticao = 3
+        # tarefa.tpInicSegProg = self.tpInicSegProg
+        # tarefa.grupo_newcon = self.grupo_newcon
+        htmlNew, ultNIndex, ultCel1, ultCel2 = tarefa.df_newcon()
+        # print('PARA 1000 $$$$$$$$$$$$$$$$$$$$$$$$$$')
+        # time.sleep(1000)
+        # htmlNew, ultNIndex, ultCel1, ultCel2 = Tarefa(
+        #     driver=self.driver, url=url, path_all_log=self.path_all_log, ultNIndex=ultNIndex,
+        #     tpInicSegProg=self.tpInicSegProg, grupo_newcon=self.grupo_newcon, tempo=tempo, ultCel1=ultCel1,
+        #     ultCel2=ultCel2, colCel1=colCel1, colCel2=colCel2, indTx1=indTx1, tag1=tag1, tag2=tag2,
+        #     tag3=tag3, tagCab=tagCab).df_newcon()
+        return htmlNew, ultNIndex
+
+
+    # newcon:
+    # newcon primeiro nível
+    # def get_info_newcon(self):
+    #     # lista = []
+    #     # tarefa = Tarefa()
+    #     # tarefa.driver = self.driver
+    #     # tarefa.path_all_log = self.path_all_log
+    #     # tarefa.grupo_newcon = self.grupo_newcon
+    #     # tarefa.xpath_present_secreen = '//*[@id="divLoading"]/img'
+    #     disc_info = {}
+    #     for key, info in disc_path_info.items():
+    #         disc_info[key] = self.func_get_select(path_newcon[info], tag_text)
+    #     # print(disc_info)
+            
+
+    #     # convert.table = self.func_get_select(path_newcon['id_ctl00_Conteudo_grdContemplacoes_Confirmadas'], tag_table, '')
+    #     # list_row = convert.table_html_in_disc()
+    #     # self.func_click(path_newcon['id_ui_id_8'])
+    #     # time.sleep(6)
+    #     # convert.table = self.func_get_select(path_newcon['id_ctl00_Conteudo_grdContemplacoes_Confirmadas_Canceladas'], tag_table, '')
+    #     # list_row = convert.table_html_in_disc()
+    #     # time.sleep(66)
+    #     return disc_info
+    #     tarefa.url = '//*[@id="ctl00_Conteudo_lblCD_Grupo"]'  # grupo
+    #     inf = tarefa.infoHTML()
+    #     if inf == 'ERROR':
+    #         return 'ERROR'
+
+    #         # inf = Tarefa(
+    #         #     driver=self.driver,
+    #         #     grupo_newcon=self.grupo_newcon,
+    #         #     path_all_log=self.path_all_log,
+    #         #     url=url).infoHTML()
+    #     lista.append(inf)
+    #     print('2')
+    #     tarefa.url = '//*[@id="ctl00_Conteudo_lblPZ_Comercializacao"]'
+    #     inf = tarefa.infoHTML()
+    #     if inf == 'ERROR':
+    #         return 'ERROR'
+    #     # inf = Tarefa(
+    #     #     driver=self.driver,
+    #     #     grupo_newcon=self.grupo_newcon,
+    #     #     path_all_log=self.path_all_log,
+    #     #     url=url).infoHTML()
+    #     lista.append(inf)
+    #     print('3')
+    #     tarefa.url = '//*[@id="ctl00_Conteudo_lblQT_Assembleia_Realizada"]'
+    #     inf = tarefa.infoHTML()
+    #     if inf == 'ERROR':
+    #         return 'ERROR'
+    #     # inf = Tarefa(
+    #     #     driver=self.driver,
+    #     #     grupo_newcon=self.grupo_newcon,
+    #     #     path_all_log=self.path_all_log,
+    #     #     url=url).infoHTML()
+    #     lista.append(inf)
+    #     print('4')
+    #     tarefa.url = '//*[@id="ctl00_Conteudo_lblQT_Assembleia_ARealizar"]'
+    #     inf = tarefa.infoHTML()
+    #     if inf == 'ERROR':
+    #         return 'ERROR'
+    #     # inf = Tarefa(
+    #     #     driver=self.driver,
+    #     #     grupo_newcon=self.grupo_newcon,
+    #     #     path_all_log=self.path_all_log,
+    #     #     url=url).infoHTML()
+    #     lista.append(inf)
+    #     print('5')
+    #     tarefa.url = '//*[@id="ctl00_Conteudo_lblDT_Prox_Assembleia"]'
+    #     inf = tarefa.infoHTML()
+    #     if inf == 'ERROR':
+    #         return 'ERROR'
+    #     # inf = Tarefa(
+    #     #     driver=self.driver,
+    #     #     grupo_newcon=self.grupo_newcon,
+    #     #     path_all_log=self.path_all_log,
+    #     #     url=url).infoHTML()
+    #     lista.append(inf)
+    #     print('6')
+    #     tarefa.url = '//*[@id="ctl00_Conteudo_lblDT_Prox_Vencimento"]'
+    #     inf = tarefa.infoHTML()
+    #     if inf == 'ERROR':
+    #         return 'ERROR'
+    #     # inf = Tarefa(
+    #     #     driver=self.driver,
+    #     #     grupo_newcon=self.grupo_newcon,
+    #     #     path_all_log=self.path_all_log,
+    #     #     url=url).infoHTML()
+    #     lista.append(inf)
+    #     return lista
 
 
 
@@ -310,14 +455,16 @@ class Conexao:
 
 
 
-
+class Antiga:
+    def __init__(self, *args, **kwargs):
+        self.driver = kwargs.get('driver')
 
 
     def logar360(self):
         funct = Funct()
         funct.driver = self.driver
         # funct.retornar = True
-        funct.pAL = self.pAL
+        funct.path_all_log = self.path_all_log
         while True:
             funct.urls = ['//*[@id="CPF"]']
             funct.faz = 'keys'
@@ -337,9 +484,9 @@ class Conexao:
                         retorno = funct().funct()
             if retorno is False:
                 # log = Log()
-                # log.pAL = self.pAL
-                escreva = 'ERRO CONEXAO LOGAR: SUA CONEXAO NÃO É PARTICULAR'
-                log.escreva = escreva
+                # log.path_all_log = self.path_all_log
+                write_log = 'ERRO CONEXAO LOGAR: SUA CONEXAO NÃO É PARTICULAR'
+                log.write_log = write_log
                 log.escrever()
                 sys.exit()
         funct.urls = ['//*[@id="Senha"]']
@@ -352,7 +499,7 @@ class Conexao:
     def navegar360(self):
         funct = Funct()
         funct.driver = self.driver
-        funct.pAL = self.pAL
+        funct.path_all_log = self.path_all_log
         funct.urls = ['//*[@id="btn-confirmar-aviso"]']
         funct.funct()
         funct.tempo = 120
@@ -383,22 +530,22 @@ class Conexao:
         # Plano
         funct = Funct()
         funct.driver = self.driver
-        funct.pAL = self.pAL
+        funct.path_all_log = self.path_all_log
         funct.urls = ['//*[@id="busca_andamento_plano"]']
         funct.tempo = 120
         funct.funct()
-        # Funct(driver=self.driver, urls=[url], tempo=tempo, pAL=self.pAL).funct()
+        # Funct(driver=self.driver, urls=[url], tempo=tempo, path_all_log=self.path_all_log).funct()
         print('######################## informar inicio #############################')
         funct.faz = 'inform'
         funct.tag1 = 'select'
-        funct.tag2 = 'option'
+        funct.tag2 = tag_option
         html = funct.funct()
         print('######################## informar fim #############################')
-        # html = Funct(driver=self.driver, urls=[url], faz=faz, tag1=tag1, pAL=self.pAL).funct()
+        # html = Funct(driver=self.driver, urls=[url], faz=faz, tag1=tag1, path_all_log=self.path_all_log).funct()
         dfsite = DfSite()
         dfsite.html = html
         dfsite.tag1 = 'select'
-        dfsite.tag2 = 'option'
+        dfsite.tag2 = tag_option
         html1 = dfsite.df()
         # html1 = DfSite(html=html, tag1=tag1, tag2=tag2).df()
         if html1 == 'ERROR':
@@ -413,16 +560,16 @@ class Conexao:
         tarefa = Tarefa()
         tarefa.driver = self.driver
         tarefa.tpInicSegProg = self.tpInicSegProg
-        tarefa.pAL = self.pAL
+        tarefa.path_all_log = self.path_all_log
         tarefa.tag1 = 'select'
-        tarefa.tag2 = 'option'
+        tarefa.tag2 = tag_option
         tarefa.url = '//*[@id="busca_andamento_marca"]'
         tarefa.texto = texto1
         html2 = tarefa.tasks_repeat_360()
         # html2 = Tarefa(
         #     driver=self.driver,
         #     tpInicSegProg=self.tpInicSegProg,
-        #     pAL=self.pAL,
+        #     path_all_log=self.path_all_log,
         #     url=url,
         #     texto=texto1,
         #     tag1=tag1,
@@ -442,14 +589,14 @@ class Conexao:
                 break
             self.html2Anterior.append(texto2)
             tarefa.tag1 = 'select'
-            tarefa.tag2 = 'option'
+            tarefa.tag2 = tag_option
             tarefa.url = '//*[@id="busca_andamento_modelo"]'
             tarefa.texto = texto2
             html3 = tarefa.tasks_repeat_360()
             # html3 = Tarefa(
             #     driver=self.driver,
             #     tpInicSegProg=self.tpInicSegProg,
-            #     pAL=self.pAL,
+            #     path_all_log=self.path_all_log,
             #     url=url,
             #     texto=texto2,
             #     tag1=tag1,
@@ -457,11 +604,11 @@ class Conexao:
             for texto3 in html3:
                 botao = Botao()
                 botao.driver = self.driver
-                botao.pAL = self.pAL
+                botao.path_all_log = self.path_all_log
                 botao.texto = texto3
                 botao.url = '//*[@id="busca_andamento_modelo"]'
                 botao.botao1()
-                # Botao(driver=self.driver, pAL=self.pAL, texto=texto3, url=url).botao1()
+                # Botao(driver=self.driver, path_all_log=self.path_all_log, texto=texto3, url=url).botao1()
                 tarefa.url = '//*[@id="conteudo"]'
                 tarefa.texto1 = texto1
                 tarefa.texto2 = texto2
@@ -483,7 +630,7 @@ class Conexao:
                 tarefa.ultNIndex = self.ultNIndex360
                 htmlNew, ultNIndex, ultCel1, ultCel2 = tarefa.df_newcon()
                 # htmlNew, ultNIndex, ultCel1, ultCel2 = Tarefa(
-                #     driver=self.driver, pAL=self.pAL, tpInicSegProg=self.tpInicSegProg,
+                #     driver=self.driver, path_all_log=self.path_all_log, tpInicSegProg=self.tpInicSegProg,
                 #     ultNIndex=ultNIndex, url=url, texto1=texto1, texto2=texto2, texto3=texto3,
                 #     indTx1=indTx1, indTx2=indTx2, indTx3=indTx3, indTx4=indTx4, ultCel1=ultCel1,
                 #     ultCel2=ultCel2, colCel1=colCel1, colCel2=colCel2, tratarModelo=tratarModelo,
@@ -510,11 +657,11 @@ class Conexao:
             print(f'CONEXAO OBS:##############dfConst##############{dfConst}##############')
             return ultimoPlano, self.html1Anterior, self.html2Anterior, ultNIndex, dfConst
         except ValueError as e:
-            escreva = 'CONEXAO OBS: Escolher DF em construacao não existir, '
-            escreva += f'pois nao existem dfs: {e.__class__.__name__}'
-            log.escreva = escreva
+            write_log = 'CONEXAO OBS: Escolher DF em construacao não existir, '
+            write_log += f'pois nao existem dfs: {e.__class__.__name__}'
+            log.write_log = write_log
             log.escrever()
-            # Log(pAL=self.pAL, escreva=escreva).escrever()
+            # Log(path_all_log=self.path_all_log, write_log=write_log).escrever()
             print('CONEXAO OBS:@@@@@@@@@@@@@@@@dfConst@@@@@@@@@@@@@@@@@@@@False@@@@@@@@@@@@@@@')
             return ultimoPlano, self.html1Anterior, self.html2Anterior, ultNIndex, False
         # salvar arq
@@ -522,7 +669,7 @@ class Conexao:
     def logarNewcon(self):
         funct = Funct()
         funct.driver = self.driver
-        funct.pAL = self.pAL
+        funct.path_all_log = self.path_all_log
 
         funct.digitar = self.user
         funct.faz = 'keys'
@@ -533,7 +680,7 @@ class Conexao:
         # Funct(
         #     driver=self.driver,
         #     digitar=self.usuario,
-        #     pAL=self.pAL,
+        #     path_all_log=self.path_all_log,
         #     urls=[url],
         #     faz=faz).funct()
 
@@ -544,58 +691,33 @@ class Conexao:
 
         # url = '//*[@id="edtSenha"]'
         # faz = 'keys'
-        # Funct(driver=self.driver, digitar=self.password, pAL=self.pAL, urls=[url], faz=faz).funct()
+        # Funct(driver=self.driver, digitar=self.password, path_all_log=self.path_all_log, urls=[url], faz=faz).funct()
 
         funct.urls = ['//*[@id="btnLogin"]']
         funct.funct()
         # url = '//*[@id="btnLogin"]'
-        # Funct(driver=self.driver, pAL=self.pAL, urls=[url]).funct()
+        # Funct(driver=self.driver, path_all_log=self.path_all_log, urls=[url]).funct()
 
-    def navegar_newcon_contemplacao(self):
-        funct.driver = self.driver
-        funct.pAL = self.pAL
-        self.func_click(path_newcon['id_CP'])  # contemplacao
-        self.func_click(path_newcon['id_subs'] )  # contemplacao
-        self.func_click(path_newcon['id_ctl00_Conteudo_ctl00_tvwMenut1'])  # Resultado de Assembleia
-        self.func_key(path_newcon['id_ctl00_Conteudo_edtCD_Grupo'], self.g_newcon)  # campo grupo
-        self.func_click(path_newcon['id_ctl00_Conteudo_btnOK'])  # botao confirmar
 
-    def navegar_newcon_df(self):
-        funct = Funct()
-        funct.driver = self.driver
-        funct.pAL = self.pAL
-        print('1')
-        funct.urls = ['//*[@id="tabs"]/ul/li[1]']
-        funct.xpath_present_secreen = '//*[@id="divLoading"]/img'
-        funct.funct()
-        print('2')
-        funct.urls = ['//*[@id="ctl00_Conteudo_grdContemplacoes_Confirmadas"]/tbody']  # df
-        funct.xpath_present_secreen = '//*[@id="divLoading"]/img'
-        funct.faz = 'locate'
-        # funct.retornar = self.retornar
-        retorno = funct.funct()
-        # retorno = Funct(driver=self.driver, pAL=self.pAL, urls=[url], faz=faz, retornar=self.retornar).funct()  # noqa
-        if retorno is False:
-            print('CONEXAO ERROR: ao localizar df')
 
     def navegar_newcon_retorna_assembleia(self):
         funct = Funct()
         funct.driver = self.driver
-        funct.pAL = self.pAL
+        funct.path_all_log = self.path_all_log
         funct.urls = ['//*[@id="ui-id-6"]']  # Confirmadas aba
         funct.funct()
-        # Funct(driver=self.driver, pAL=self.pAL, urls=[url]).funct()
+        # Funct(driver=self.driver, path_all_log=self.path_all_log, urls=[url]).funct()
 
         # botao assembeia
         funct.urls = ['//*[@id="ctl00_Conteudo_btnRetornaAssembleia"]']
         funct.funct()
-        # Funct(driver=self.driver, pAL=self.pAL, urls=[url]).funct()
+        # Funct(driver=self.driver, path_all_log=self.path_all_log, urls=[url]).funct()
 
     def navegar_newcon_desc(self):
         print('1')
         funct = Funct()
         funct.driver = self.driver
-        funct.pAL = self.pAL
+        funct.path_all_log = self.path_all_log
         funct.tempo = 3
         funct.urls = ['//*[@id="ui-id-8"]']  # desc aba
         funct.funct()
@@ -603,7 +725,7 @@ class Conexao:
         # botao desc
         funct.urls = ['//*[@id="ctl00_Conteudo_tabDesclassificadas"]']
         funct.funct()
-        # Funct(driver=self.driver, pAL=self.pAL, urls=[url]).funct()
+        # Funct(driver=self.driver, path_all_log=self.path_all_log, urls=[url]).funct()
 
     def navegar_newcon_sequencia_apur(self):
         # url = '//*[@id="ctl00_Conteudo_btnCotasSorteadas"]'
@@ -613,10 +735,10 @@ class Conexao:
         # Botao -> Sequência de Apuração
         funct.urls = ['//*[@id="ctl00_Conteudo_btnCotasSorteadas"]']
         funct.driver = self.driver
-        funct.pAL = self.pAL
+        funct.path_all_log = self.path_all_log
         # funct.retornar = True
         funct.funct()
-        # Funct(driver=self.driver, pAL=self.pAL, urls=[url]).funct()
+        # Funct(driver=self.driver, path_all_log=self.path_all_log, urls=[url]).funct()
         try:
             print('2')
             funct.xpath_present_secreen = '//*[@id="divLoading"]/img'
@@ -625,10 +747,10 @@ class Conexao:
             funct.repetir = 3
             funct.quantidades_tentativas = 4
             # funct.retornar = True
-            funct.g_newcon = self.g_newcon
+            funct.grupo_newcon = self.grupo_newcon
             existeApuracao = funct.funct()
             # existeApuracao = Funct(
-            #     driver=self.driver, pAL=self.pAL, urls=[url],
+            #     driver=self.driver, path_all_log=self.path_all_log, urls=[url],
             #     repetir=2, retornar=retornar).funct()
         except UnexpectedAlertPresentException as e:
             print('CONEXAO OBS:[!] Error: ' + str(e))
@@ -640,7 +762,7 @@ class Conexao:
             # faz = 'keys'
             # digitar = Keys.F5
             # repetir = 10
-            # Funct(driver=self.driver, pAL=self.pAL, urls=[url],  faz=faz, digitar=digitar, repetir=repetir).funct()
+            # Funct(driver=self.driver, path_all_log=self.path_all_log, urls=[url],  faz=faz, digitar=digitar, repetir=repetir).funct()
             self.driver.refresh()
             print('CONEXAO OBS:Não existe aputacao funcao deu erro')
             time.sleep(10)
@@ -655,23 +777,23 @@ class Conexao:
     # def navegar_newcon4(self):
     #     tempo = 10
     #     url = '//*[@id="CP"]'  # contemplacao
-    #     Funct(driver=self.driver, pAL=self.pAL, urls=[url], tempo=tempo).funct()
+    #     Funct(driver=self.driver, path_all_log=self.path_all_log, urls=[url], tempo=tempo).funct()
     #     url = '//*[@id="subs"]/ul/li[2]/a'  # contemplacao
-    #     Funct(driver=self.driver, pAL=self.pAL, urls=[url]).funct()
+    #     Funct(driver=self.driver, path_all_log=self.path_all_log, urls=[url]).funct()
     #     url = '//*[@id="ctl00_Conteudo_ctl00_tvwMenut1"]'  # resultado da ultima assembeia
-    #     Funct(driver=self.driver, pAL=self.pAL, urls=[url]).funct()
+    #     Funct(driver=self.driver, path_all_log=self.path_all_log, urls=[url]).funct()
     #     url = '//*[@id="ctl00_Conteudo_edtCD_Grupo"]'  # campo grupo
     #     faz = 'keys'
-    #     Funct(driver=self.driver, digitar=self.g_newcon, pAL=self.pAL, urls=[url], faz=faz).funct()  # noqa
+    #     Funct(driver=self.driver, digitar=self.grupo_newcon, path_all_log=self.path_all_log, urls=[url], faz=faz).funct()  # noqa
     #     url = '//*[@id="ctl00_Conteudo_btnOK"]'  # botao confirmar
-    #     Funct(driver=self.driver, pAL=self.pAL, urls=[url]).funct()
+    #     Funct(driver=self.driver, path_all_log=self.path_all_log, urls=[url]).funct()
 
     def padrao_escolha_df(self):
         tarefa = Tarefa()
         tarefa.driver = self.driver
-        tarefa.pAL = self.pAL
+        tarefa.path_all_log = self.path_all_log
         tarefa.tpInicSegProg = self.tpInicSegProg
-        tarefa.g_newcon = self.g_newcon
+        tarefa.grupo_newcon = self.grupo_newcon
         tarefa.ultCel1 = 0  # necessario para saber se df atualizou
         tarefa.ultCel2 = 0  # necessario para saber se df atualizou
         tarefa.colCel1 = 1
@@ -692,85 +814,24 @@ class Conexao:
         tarefa.ultNIndex = self.ultNIndex1
         htmlNew, ultNIndex, ultCel1, ultCel2 = tarefa.df_newcon()
         # htmlNew, ultNIndex, ultCel1, ultCel2 = Tarefa(
-        #     driver=self.driver, url=url, pAL=self.pAL, ultNIndex=ultNIndex,
-        #     tpInicSegProg=self.tpInicSegProg, g_newcon=self.g_newcon, ultCel1=ultCel1,
+        #     driver=self.driver, url=url, path_all_log=self.path_all_log, ultNIndex=ultNIndex,
+        #     tpInicSegProg=self.tpInicSegProg, grupo_newcon=self.grupo_newcon, ultCel1=ultCel1,
         #     ultCel2=ultCel2, colCel1=colCel1, colCel2=colCel2, indTx1=indTx1, tag1=tag1, tag2=tag2,
         #     tag3=tag3, tagCab=tagCab).df_newcon()
         return htmlNew, ultNIndex
 
-    def escolher_df_newcon_desc(self):
-        print('3')
-        tarefa = self.padrao_escolha_df()
-        # tarefa = Tarefa()
-        # tarefa.driver = self.driver
-        # tarefa.pAL = self.pAL
-        print('4')
-        tarefa.url = '//*[@id="ctl00_Conteudo_div_Desclassificadas"]/div[1]'  # df
-        # tarefa.url = '//*[@id="ctl00_Conteudo_tabDesclassificadas"]'
-        # '//*[@id="ctl00_Conteudo_div_Desclassificadas"]/div[1]'
-        # tarefa.ultCel1 = 0  # necessario para saber se df atualizou
-        # tarefa.ultCel2 = 0  # necessario para saber se df atualizou
-        # tarefa.colCel1 = 1  # coluna de teste 1
-        # tarefa.colCel2 = -1  # coluna de teste 1
-        # tarefa.indTx1 = 'Grupo'
-        # tarefa.tag1 = 'table'
-        # tarefa.tag2 = 'tr'
-        # tarefa.tag3 = 'td'
-        # tarefa.tagCab = 'th'
-        tarefa.tempo = 3
-        tarefa.ultNIndex = self.ultNIndex2
-        # tarefa.tpInicSegProg = self.tpInicSegProg
-        # tarefa.g_newcon = self.g_newcon
-        htmlNew, ultNIndex, ultCel1, ultCel2 = tarefa.df_newcon()
-        # htmlNew, ultNIndex, ultCel1, ultCel2 = Tarefa(
-        #     driver=self.driver, url=url, pAL=self.pAL, ultNIndex=ultNIndex,
-        #     tpInicSegProg=self.tpInicSegProg, g_newcon=self.g_newcon, tempo=tempo, ultCel1=ultCel1,
-        #     ultCel2=ultCel2, colCel1=colCel1, colCel2=colCel2, indTx1=indTx1, tag1=tag1, tag2=tag2,
-        #     tag3=tag3, tagCab=tagCab).df_newcon()
-        return htmlNew, ultNIndex
+    
 
-    def escolherdf_newcon_apur(self):
-        print('3')
-        tarefa = self.padrao_escolha_df()
-        # tarefa = Tarefa()
-        # tarefa.driver = self.driver
-        # tarefa.pAL = self.pAL
-        print('4')
-        tarefa.xpath_present_secreen = '//*[@id="divLoading"]/img'
-        tarefa.url = '//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'  # df
-        # tarefa.ultCel1 = 0  # necessario para saber se df atualizou
-        # tarefa.ultCel2 = 0  # necessario para saber se df atualizou
-        # tarefa.colCel1 = 1  # coluna dois para teste
-        # tarefa.colCel2 = -1  # coluna ultima para teste
-        # tarefa.indTx1 = 'Grupo'
-        # tarefa.tag1 = 'table'
-        # tarefa.tag2 = 'tr'
-        # tarefa.tag3 = 'td'
-        # tarefa.tagCab = 'th'
-        tarefa.tempo = 5
-        tarefa.ultNIndex = self.ultNIndex3
-        tarefa.fator_repeticao = 3
-        # tarefa.tpInicSegProg = self.tpInicSegProg
-        # tarefa.g_newcon = self.g_newcon
-        htmlNew, ultNIndex, ultCel1, ultCel2 = tarefa.df_newcon()
-        # print('PARA 1000 $$$$$$$$$$$$$$$$$$$$$$$$$$')
-        # time.sleep(1000)
-        # htmlNew, ultNIndex, ultCel1, ultCel2 = Tarefa(
-        #     driver=self.driver, url=url, pAL=self.pAL, ultNIndex=ultNIndex,
-        #     tpInicSegProg=self.tpInicSegProg, g_newcon=self.g_newcon, tempo=tempo, ultCel1=ultCel1,
-        #     ultCel2=ultCel2, colCel1=colCel1, colCel2=colCel2, indTx1=indTx1, tag1=tag1, tag2=tag2,
-        #     tag3=tag3, tagCab=tagCab).df_newcon()
-        return htmlNew, ultNIndex
 
     def presentScreen(self):
         funct = Funct()
         funct.driver = self.driver
         funct.xpath_present_secreen = '//*[@id="divLoading"]/img'
-        funct.pAL = self.pAL
-        funct.g_newcon = self.g_newcon
+        funct.path_all_log = self.path_all_log
+        funct.grupo_newcon = self.grupo_newcon
         funct.tempo = 1
         retorno = funct.funct()
-        # retorno = Funct(driver=self.driver, urls=[url], faz=faz, pAL=self.pAL, g_newcon=self.g_newcon).funct()  # noqa
+        # retorno = Funct(driver=self.driver, urls=[url], faz=faz, path_all_log=self.path_all_log, grupo_newcon=self.grupo_newcon).funct()  # noqa
         return retorno
 
     
@@ -1099,7 +1160,7 @@ class Conexao:
 
     def gravar(self):
         log = Log()
-        log.pAL = self.pAL
+        log.path_all_log = self.path_all_log
         try:
             if self.extencao is None:
                 self.df.to_csv(self.pastaArquivo, index=False, header=True)
@@ -1107,32 +1168,19 @@ class Conexao:
                 # self.df.to_excel(self.pastaArquivo, index=False, header=True, float_format='%.4f', engine='openpyxl')
                 self.df.to_csv(self.pastaArquivo, sep='\t', index=False, encoding='latin_1', decimal=',')  # noqa
             else:
-                escreva = 'ERRO CONEXAO: Foi digitada uma extencao não especificada'
-                log.escreva = escreva
+                write_log = 'ERRO CONEXAO: Foi digitada uma extencao não especificada'
+                log.write_log = write_log
                 log.escrever()
-                print(escreva)
+                print(write_log)
         except AttributeError as e:
-            escreva = f'ERRO CONEXAO: Tabela vazia, pasta: {self.pastaArquivo}. '
-            escreva += f'A classe do erro: {e.__class__.__name__} '
-            log.escreva = escreva
+            write_log = f'ERRO CONEXAO: Tabela vazia, pasta: {self.pastaArquivo}. '
+            write_log += f'A classe do erro: {e.__class__.__name__} '
+            log.write_log = write_log
             log.escrever()
-            print(escreva)
+            print(write_log)
         self.zerar_variaveis()
 
-    def dfGrupo(self):
-        list_grupo = []
-        for dict_df in self.df:
-            # print(dict_df)
-            list_grupo.append(dict_df['Grupo'])
-        list_grupo = sorted(set(list_grupo))    
-        return list_grupo
-        # print(json.dumps(self.df, indent=4, ensure_ascii=False))
 
-        # tratar.df2 = self.df2
-
-        # listaGrupo, listagrupo360 = tratar.colu naGrupos()
-        # # listaGrupo, listagrupo360 = Tratar(df=self.df, df2=self.df2, coluna=coluna, coluna2=coluna2).colunaGrupos()  # noqa
-        # return listaGrupo, listagrupo360
 
     def gravarDf360(self):
         tratar = Tratar()

@@ -26,7 +26,7 @@ class Tarefa:
         self.indTx3 = kwargs.get('indTx3')
         self.indTx4 = kwargs.get('indTx4')
         self.tpInicSegProg = kwargs.get('tpInicSegProg')
-        self.pAL = kwargs.get('pAL')
+        self.path_all_log = kwargs.get('path_all_log')
         self.ultNIndex = kwargs.get('ultNIndex')
         self.ultCel1 = kwargs.get('ultCel1')
         self.ultCel2 = kwargs.get('ultCel2')
@@ -65,12 +65,12 @@ class Tarefa:
 
         faz = 'click_texto'
         Funct(driver=self.driver, urls=[
-                self.texto], faz=faz, pAL=self.pAL).funct()
+                self.texto], faz=faz, path_all_log=self.path_all_log).funct()
 
         # Marca
         faz = 'locate'
         Funct(driver=self.driver, urls=[
-                self.url], faz=faz, pAL=self.pAL).funct()
+                self.url], faz=faz, path_all_log=self.path_all_log).funct()
 
         contHtmlErrado = 0
         contHtmlVazio = 0
@@ -79,16 +79,16 @@ class Tarefa:
             funct = Funct()
             funct.driver = self.driver
             funct.urls = [self.url]
-            funct.pAL = self.pAL
+            funct.path_all_log = self.path_all_log
             funct.funct()
-            # Funct(driver=self.driver, urls=[self.url], pAL=self.pAL).funct()
+            # Funct(driver=self.driver, urls=[self.url], path_all_log=self.path_all_log).funct()
             if self.xpath_present_secreen:
                 funct.xpath_present_secreen = self.xpath_present_secreen
             funct.faz = 'informar'
             funct.tag1 = self.tag1
             html = funct.funct()
             # html = Funct(driver=self.driver, urls=[
-            #                self.url], tag1=self.tag1, pAL=self.pAL, faz=faz).funct()
+            #                self.url], tag1=self.tag1, path_all_log=self.path_all_log, faz=faz).funct()
             dfSite = DfSite()
             dfSite.html = html
             dfSite.tag1 = self.tag1
@@ -111,7 +111,7 @@ class Tarefa:
                 #     urls=[textoNovo],
                 #     faz=faz,
                 #     retornar=retornar,
-                #     pAL=self.pAL).funct()
+                #     path_all_log=self.path_all_log).funct()
                 if retorno is False:  # não conseguiu clicar na info, é possivel que as informações seja antigas, refazer processo
                     contHtmlErrado += 1
                     time.sleep(tempoEsperar)
@@ -119,15 +119,15 @@ class Tarefa:
                     break
             if contHtmlErrado >= 5 or contHtmlVazio >= 5:
                 break
-        escreva = 'plano: ' + '/' + self.texto
+        write_log = 'plano: ' + '/' + self.texto
         tempo_ = Tempo()
         tempo_.tpInicSeg = tpInicSegPlano
         tempo_.tpInicSegProg = self.tpInicSegProg
-        tempo_.escreva = escreva
-        tempo_.pAL = self.pAL
+        tempo_.write_log = write_log
+        tempo_.path_all_log = self.path_all_log
         tempo_.tempo_execucao()
         # Tempo(tpInicSeg=tpInicSegPlano, tpInicSegProg=self.tpInicSegProg,
-        #       escreva=escreva, pAL=self.pAL).tempo_execucao()
+        #       write_log=write_log, path_all_log=self.path_all_log).tempo_execucao()
         self.zera_variaveis()
         return htmlTag
 
@@ -160,7 +160,7 @@ class Tarefa:
             if self.xpath_present_secreen:
                 funct.xpath_present_secreen = self.xpath_present_secreen
             funct.driver = self.driver
-            funct.pAL = self.pAL
+            funct.path_all_log = self.path_all_log
             funct.urls = [self.url]
             funct.tag1 = self.tag1
             funct.tag2 = self.tag2
@@ -233,18 +233,18 @@ class Tarefa:
                 penulCel1 = self.ultCel1
                 penulCel2 = self.ultCel2
                 break
-            log.pAL = self.pAL
+            log.path_all_log = self.path_all_log
             contHtmlErrado += 1
             if contHtmlErrado >= self.fator_repeticao:  # erro df não é atualizado
-                escreva = 'TAREFA ERRO: Tabela não atualizar = df anterio '
-                escreva += f'{str(contHtmlErrado)} vezes: {self.texto1} /'
-                escreva += f'{self.texto2} / {self.texto3}'
-                log.escreva = escreva
+                write_log = 'TAREFA ERRO: Tabela não atualizar = df anterio '
+                write_log += f'{str(contHtmlErrado)} vezes: {self.texto1} /'
+                write_log += f'{self.texto2} / {self.texto3}'
+                log.write_log = write_log
                 log.escrever()
                 break
             if contHtmlVazio >= self.testeVazio:   # erro não existe df
-                escreva = f'TAREFA ERRO: Tabela vazia: {str(contHtmlVazio)} vezes {escreva2}: {self.texto1} / {self.texto2} / {self.texto3}'
-                log.escreva = escreva
+                write_log = f'TAREFA ERRO: Tabela vazia: {str(contHtmlVazio)} vezes {escreva2}: {self.texto1} / {self.texto2} / {self.texto3}'
+                log.write_log = write_log
                 log.escrever()
                 break
             print(f'TAREFA OBS: Tempo de espera é {tempoEsperar} segundos.')
@@ -252,21 +252,21 @@ class Tarefa:
             time.sleep(tempoEsperar)
             tempoEsperar *= 2  # fator para prologar a espera
 
-        escreva = ''
+        write_log = ''
         if self.texto1 is not None:
-            escreva += '/' + self.texto1
+            write_log += '/' + self.texto1
         if self.texto2 is not None:
-            escreva += '/' + self.texto2
+            write_log += '/' + self.texto2
         if self.texto3 is not None:
-            escreva += '/' + self.texto3
+            write_log += '/' + self.texto3
 
         tempo.tpInicSeg = tpInicSegModelo
         tempo.tpInicSegProg = self.tpInicSegProg
-        tempo.escreva = escreva
-        tempo.pAL = self.pAL
+        tempo.write_log = write_log
+        tempo.path_all_log = self.path_all_log
         tempo.tempo_execucao()
         # Tempo(tpInicSeg=tpInicSegModelo, tpInicSegProg=self.tpInicSegProg,
-        #       escreva=escreva, pAL=self.pAL).tempo_execucao()
+        #       write_log=write_log, path_all_log=self.path_all_log).tempo_execucao()
 
         self.zera_variaveis()
         return htmlNew, self.ultNIndex, self.ultCel1, self.ultCel2
@@ -278,7 +278,7 @@ class Tarefa:
         funct.faz = 'informar'
         funct.driver = self.driver
         funct.digitar = self.gNewcon
-        funct.pAL = self.pAL
+        funct.path_all_log = self.path_all_log
         funct.urls = [self.url]
         html = funct.funct()
         if html == 'ERROR':

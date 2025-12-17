@@ -6,38 +6,42 @@ import time
 
 class Convert:
     def __init__(self, *args, **kwargs):
-        self.html_table = kwargs.get('html_table')
+        self.table = kwargs.get('table')
+        self.disc = kwargs.get('disc')
+        self.json = kwargs.get('json')
 
 
-    def table_html_in_json(self):
-        # print("TIPO:", type(self.html_table))
-        # print(f'self.html_table: {self.html_table}')
-        # soup = BeautifulSoup(str(self.html_table), "html.parser")
-
-        # Pega a tabela
-        # table = soup.find(tag_table)
-
-        # Linha com cabeçalhos
-        header_row = self.html_table.find(tag_tr)
+    def table_html_in_disc(self):
+        if not self.table:
+            return []
+        header_row = self.table.find(tag_tr)
         headers = [th.get_text(strip=True).replace("\n", " ") for th in header_row.find_all(tag_th)]
-
-        # Linhas de dados
         rows = []
-        for tr in self.html_table.find_all(tag_tr)[1:]:  # ignora cabeçalhos
+        for tr in self.table.find_all(tag_tr)[1:]:
             cells = [td.get_text(strip=True).replace("\n", " ") for td in tr.find_all(tag_td)]
-            if cells:  # ignora linhas vazias
+            if cells: 
                 rows.append(dict(zip(headers, cells)))
-
-        print("JSON:")
-        print(json.dumps(rows, ensure_ascii=False, indent=4))
         return rows
 
+    def table_list_in_disc(self):
+        if not self.table:
+            return []
+        headers = self.table[0]
+        return [dict(zip(headers, linha)) for linha in self.table[1:]]
+    
+    def disc_in_json(self):
+        if not self.disc:
+            return json.dumps([], indent=4, ensure_ascii=False)
+        return json.dumps(self.disc, indent=4, ensure_ascii=False)
+    
+    def json_in_disc(self):
+        if not self.json:
+            return {}
+        return json.loads(self.json)
 
-        # # Salvar CSV
-        # with open("tabela.csv", "w", newline="", encoding="utf-8") as f:
-        #     writer = csv.DictWriter(f, fieldnames=headers)
-        #     writer.writeheader()
-        #     writer.writerows(rows)
+
+
+
 
 if __name__ == '__main__':
     import main

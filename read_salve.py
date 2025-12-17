@@ -25,6 +25,7 @@ class Read_salve:
         ext = os.path.splitext(self.folder_file)[1].lower()
         mode = "r"
         encoding = "utf-8"
+        # print(full_folder_file)
         with open(full_folder_file, mode, encoding=encoding) as arq:
             if ext == ".json":
                 return json.load(arq)

@@ -1,0 +1,349 @@
+
+10:09:44   0
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 4.2/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.2/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.2/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.9/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.8/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.2/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.2/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.2/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.2/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 4.0/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.6/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.6/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.6/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.5/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 4.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.4/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.3/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException

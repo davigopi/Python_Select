@@ -1,0 +1,7 @@
+
+12:57:46   0
+⚠️  FUNCT: Tempo: 3.2/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.2/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException
+
+⚠️  FUNCT: Tempo: 3.2/3s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar: None | Erro: TimeoutException

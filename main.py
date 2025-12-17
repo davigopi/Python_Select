@@ -24,6 +24,9 @@ from tratar import Tratar
 from renomear import Renomear
 from var import *
 from chromeDriverauto  import ChromeDriverAuto
+from convert import Convert
+
+
 
 # from IPython.display import display
 
@@ -32,15 +35,16 @@ log = Log()
 tempo = Tempo()
 renomear = Renomear()
 tratar = Tratar()
-chrome = ChromeDriverAuto()
+chromeDriverAuto = ChromeDriverAuto()
+convert = Convert()
 
 
 datahora = tempo.tempo_arq()
-pAL = p_log + arq_log + datahora + ext_Log
+path_all_log = p_log + arq_log + datahora + ext_Log
 
-conexao.pAL = pAL
-log.pAL = pAL
-tempo.pAL = pAL
+conexao.path_all_log = path_all_log
+log.path_all_log = path_all_log
+tempo.path_all_log = path_all_log
 
 # LER ARQUIVOS
 file_arq = p_df + arq_df + 'Select' + ext_CSV
@@ -61,14 +65,29 @@ dfSelect = pd.read_csv(file_arq, sep=',', encoding='latin_1', dtype=str)
 ################################ Funct ######################################
 
 def log_tempo_programa():
-    escreva = time.strftime("%H:%M:%S") + '   ' + str(x)
-    log.escreva = escreva
+    write_log = time.strftime("%H:%M:%S") + '   ' + str(x)
+    log.write_log = write_log
     log.escrever()
 
 def gravar(df, arq):
     conexao.df = df
     conexao.file_arq = arq
     conexao.gravar()
+
+def juntar(json_base, json_novo):
+    return json_base + (json_novo or [])
+
+def join_disc_list_and_disc_info(disc_info, list_json):
+    new_list_json = []
+    for temp_json in list_json:
+        new_json = disc_info.copy()
+        if isinstance(new_json, list):
+            new_json = new_json[0]
+        for key, value in temp_json.items():
+            if key not in new_json:
+                new_json[key] = value
+        new_list_json.append(new_json)
+    return new_list_json
 
 ##################################### clickvenda ###################################
 
@@ -78,7 +97,7 @@ def gravar(df, arq):
 ##################################### 360 ###################################
 
 # def logar_360():
-#     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+#     driver = webdriver.chromeDriverAuto(service=Service(ChromeDriverManager().install()), options=options)
 #     driver.get(site360)
 #     conexao.driver = driver
 #     conexao.user = user360
@@ -98,7 +117,7 @@ def gravar(df, arq):
 #         df360 = pd.read_csv(arq_360, sep=',', encoding='latin_1', dtype=str)
 #     else:
 #         logar = True
-#         count_loop = 0
+#         count_loop_all = 0
 #         while True:
 #             if logar:
 #                 driver = logar_360()
@@ -115,8 +134,8 @@ def gravar(df, arq):
 #                     ultNIndex360 = ultNIndex
 #                     df360 = pd.concat([df360, dfConst])
 #                 elif dfConst == 'ERROR':
-#                     count_loop += 1
-#                     if count_loop >= 2:
+#                     count_loop_all += 1
+#                     if count_loop_all >= 2:
 #                         driver.close()
 #                         logar = True
 #                         continue
@@ -143,7 +162,7 @@ def gravar(df, arq):
 
 
 # def logar_newcon():
-#     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+#     driver = webdriver.chromeDriverAuto(service=Service(ChromeDriverManager().install()), options=options)
 #     driver.get(site_newcon)
 #     conexao.driver = driver
 #     conexao.user = usuario_newcon
@@ -168,22 +187,6 @@ def alterar_dados_info_gravar(df, arq):
     df = tratar.dfColunaStrInt()
     gravar(df, arq)
     return df
-
-
-def reverificar_erro_newcon(driver, logar, count_loop, g_newcon):
-    stop_loop = False
-    if logar is False:
-        text = f'MAIN OBS: {count_loop}ª tentativa do grupo {g_newcon}, já foi. \n'
-        print(text)
-        driver.close()
-        logar = True
-        if count_loop >= 10:
-            stop_loop = True
-    return logar, stop_loop
-
-
-
-
 
 def criar_df_atravas_lista_info(list_table):
     # criar df atraves da lista
@@ -211,61 +214,26 @@ def criar_df_atravas_lista_info(list_table):
     return df
 
 
-def df_conf(ultNIndex1):
-    self.stop_error = False
-    dfConst1 = pd.DataFrame()
-    conexao.navegar_newcon_df()
-    conexao.tpInicSegProg = tpInicSegProg
-    conexao.ultNIndex1 = ultNIndex1
-    dfConst1, ultNIndex = conexao.escolherDf_newcon()  # copiar df
-    if isinstance(dfConst1, pd.DataFrame):
-        ultNIndex1 = ultNIndex
-    elif dfConst1 == 'VAZIO':
-        dfConst1 = pd.DataFrame()
-    elif dfConst1 == 'ERROR':
-        self.stop_error = True
-    if isinstance(dfConst1, list):
-        dfConst1 = pd.DataFrame(dfConst1)
-    return ultNIndex1, dfConst1, self.stop_error
 
-
-def df_desc(ultNIndex2):
-    self.stop_error = False
-    dfConst2 = pd.DataFrame()
-    conexao.navegar_newcon_desc()
-    dfConst2 = pd.DataFrame()
-    conexao.ultNIndex2 = ultNIndex2
-    dfConst2, ultNIndex = conexao.escolher_df_newcon_desc()
-    if isinstance(dfConst2, pd.DataFrame):
-        ultNIndex2 = ultNIndex
-    elif dfConst2 == 'VAZIO':
-        dfConst2 = pd.DataFrame()
-    elif dfConst2 == 'ERROR':
-        self.stop_error = True
-    if isinstance(dfConst2, list):
-        dfConst2 = pd.DataFrame(dfConst2)
-    return ultNIndex2, dfConst2, self.stop_error
-
-
-def df_apur(ultNIndex3):
-    existeApuracao = conexao.navegar_newcon_sequencia_apur()
-    self.stop_error = False
-    dfConst3 = pd.DataFrame()
-    if existeApuracao:
-        conexao.tpInicSegProg = tpInicSegProg
-        conexao.ultNIndex3 = ultNIndex3
-        dfConst3, ultNIndex = conexao.escolherdf_newcon_apur()
-        if isinstance(dfConst3, pd.DataFrame):
-            ultNIndex3 = ultNIndex
-        elif dfConst3 == 'VAZIO':
-            dfConst3 = pd.DataFrame()
-        elif dfConst3 == 'ERROR':
-            self.stop_error = True
-    elif existeApuracao == 'ERROR':
-        self.stop_error = True
-    if isinstance(dfConst3, list):
-        dfConst3 = pd.DataFrame(dfConst3)
-    return ultNIndex3, dfConst3, self.stop_error
+# def df_apur(ultNIndex3):
+#     existeApuracao = conexao.navegar_newcon_sequencia_apur()
+#     self.stop_error = False
+#     dfConst3 = pd.DataFrame()
+#     if existeApuracao:
+#         conexao.tpInicSegProg = tpInicSegProg
+#         conexao.ultNIndex3 = ultNIndex3
+#         dfConst3, ultNIndex = conexao.escolherdf_newcon_apur()
+#         if isinstance(dfConst3, pd.DataFrame):
+#             ultNIndex3 = ultNIndex
+#         elif dfConst3 == 'VAZIO':
+#             dfConst3 = pd.DataFrame()
+#         elif dfConst3 == 'ERROR':
+#             self.stop_error = True
+#     elif existeApuracao == 'ERROR':
+#         self.stop_error = True
+#     if isinstance(dfConst3, list):
+#         dfConst3 = pd.DataFrame(dfConst3)
+#     return ultNIndex3, dfConst3, self.stop_error
 
 
 class Clickvenda:
@@ -275,7 +243,7 @@ class Clickvenda:
     def control_remote_clickvenda(self):
         if not jump_clickvenda:
             for _ in range(5):
-                conexao.driver = chrome.site_open(info_clickvenda)
+                conexao.driver = chromeDriverAuto.open_site(info_clickvenda)
                 getattr(conexao, info_clickvenda['log'])(info_clickvenda, path_clickvenda)
                 getattr(conexao, info_clickvenda['navegate_start'])()
                 if getattr(conexao, info_clickvenda['navegate'])():
@@ -286,199 +254,275 @@ class Clickvenda:
 class Newcon:
     def __init__(self, *args, **kwargs):
         self.driver = None
-        self.stop_error = False
-        self.list_table = []
+        self.list_info = []
+        self.disc_info = {}
+        # self.disc_line_equal = {}
         self.list_grupo = []
+        self.count_loop_all = 0
+        self.count_loop_single = 0
+        self.grupo_newcon = 0
 
-
-    def control_remoto_newcon(self, df_clickvenda):
-        # LISTA DE GRUPO
-        conexao.df = df_clickvenda
-        # conexao.df2 = dfSelect
-        if jump_newcon_full:
-            df_newcon_info = pd.read_csv(arq_info, sep=',', encoding='latin_1', dtype=str)  # noqa
-            df_newcon_conf = pd.read_csv(arq_conf, sep=',', encoding='latin_1', dtype=str)  # noqa
-            df_newcon_desc = pd.read_csv(arq_desc, sep=',', encoding='latin_1', dtype=str)  # noqa
-            df_newcon_apur = pd.read_csv(arq_apur, sep=',', encoding='latin_1', dtype=str)
-        else:
-            self.list_grupo = conexao.dfGrupo()
-            df_newcon_info, df_newcon_conf, df_newcon_desc, df_newcon_apur = self.control_remoto_newcon_full()  # noqa
-        sys.exit()
-        if jump_newcon_info:
-            df_newcon_info = pd.read_csv(arq_info, sep=',', encoding='latin_1', dtype=str)  # noqa
-        if jump_newcon_conf:
-            df_newcon_conf = pd.read_csv(arq_conf, sep=',', encoding='latin_1', dtype=str)  # noqa
-        if jump_newcon_desc:
-            df_newcon_desc = pd.read_csv(arq_desc, sep=',', encoding='latin_1', dtype=str)  # noqa
-        if jump_newcon_apur:
-            df_newcon_apur = pd.read_csv(arq_apur, sep=',', encoding='latin_1', dtype=str)
-
-        df_newcon_conf = alterar_nome_coluna_gravar(df_newcon_conf, arq_conf)
-        df_newcon_desc = alterar_nome_coluna_gravar(df_newcon_desc, arq_desc)  # noqa
-        df_newcon_apur = alterar_nome_coluna_gravar(df_newcon_apur, arq_apur)
-
-        return df_newcon_conf, df_newcon_desc, df_newcon_apur, df_newcon_info, listaGrupo360
+    # def control_remoto_newcon(self, df_clickvenda):
+    #     # LISTA DE GRUPO
+    #     conexao.df = df_clickvenda
+    #     # conexao.df2 = dfSelect
+    #     if jump_newcon_full:
+    #         df_newcon_info = pd.read_csv(arq_info, sep=',', encoding='latin_1', dtype=str)  # noqa
+    #         df_newcon_conf = pd.read_csv(arq_conf, sep=',', encoding='latin_1', dtype=str)  # noqa
+    #         df_newcon_desc = pd.read_csv(arq_desc, sep=',', encoding='latin_1', dtype=str)  # noqa
+    #         df_newcon_apur = pd.read_csv(arq_apur, sep=',', encoding='latin_1', dtype=str)
+    #     else:
+    #         self.control_remoto_newcon_full()
+    #     return conexao.read_clickvend(arq_newcon)
     
-    def navegar_newcon_contemplacao_padrao(self, g_newcon):
-        conexao.driver = self.driver
-        conexao.g_newcon = g_newcon
-        conexao.navegar_newcon_contemplacao()  # navega até a df g_newcon
+    def navegar_newcon_contemplacao_padrao(self):
+
+        conexao.percussion_cont_newcon()  # navega até a df self.grupo_newcon
 
 
-    def list_info(self):
-        self.stop_error = False
-        conexao.tpInicSegProg = tpInicSegProg
-        # conexao.ultNIndex4 = ultNIndex4
-        lista = conexao.info_newcon()
-        if lista == 'ERROR':
-            self.stop_error = True
-        self.list_table.append(lista)
-        return
+    # def get_disc_info(self):
+    #     self.stop_error = False
+    #     conexao.tpInicSegProg = tpInicSegProg
+    #     # conexao.ultNIndex4 = ultNIndex4
+    #     self.disc_info = conexao.get_info_newcon()
+    #     if self.disc_info == 'ERROR':
+    #         self.stop_error = True
 
 
-    def control_remoto_newcon_full(self):
-        df_newcon_conf = pd.DataFrame()
-        df_newcon_desc = pd.DataFrame()
-        df_newcon_apur: pd.DataFrame = pd.DataFrame()
-        ultNIndex1 = 0
-        ultNIndex2 = 0
-        ultNIndex3 = 0
-        ultNIndex4 = 0
-        self.list_table = []
+    def loop_all(self):
+        self.count_loop_all += 1
+        if self.count_loop_all > 1:
+            print(f'⚠️ MAIN: loop all {self.count_loop_all}ª tentativa do grupo {self.grupo_newcon}, já foi.')
+        if self.count_loop_all >= 10:
+            print(f"❌ MAIN: O programa esta em um loop fatal, o grupo: {self.grupo_newcon}, foi atigido a quantidade {self.count_loop_all}ª.")
+            print("❌ MAIN: Passar para o próximo grupo.")
+            return True
+        return False
+
+    def loop_single(self):
+        self.count_loop_single += 1
+        if self.count_loop_single > 1:
+            print(f'⚠️ MAIN: loop single {self.count_loop_single}ª tentativa do grupo {self.grupo_newcon}, já foi.')
+        if self.count_loop_single >= 3:
+            print(f"❌ MAIN: O programa esta em um loop fatal, o grupo: {self.grupo_newcon}, foi atigido a quantidade {self.count_loop_all}ª.")
+            print("❌ MAIN: Passar para o próxima tabela do grupo ou proximo grupo")
+            return True
+        return False
+
+
+    # def reverificar_erro_newcon(self, self.grupo_newcon):
+        
+
+
+
+    # def get_df_conf(self):
+    #     df_conf = pd.DataFrame()
+    #     df_conf = conexao.get_conf_newcon()
+    #     print(f'df_conf: {df_conf}')
+    #     # conexao.tpInicSegProg = tpInicSegProg
+    #     # # conexao.ultNIndex1 = ultNIndex1
+    #     # df_conf, ultNIndex = conexao.escolherDf_newcon()  # copiar df
+    #     # if isinstance(df_conf, pd.DataFrame):
+    #     #     ultNIndex1 = ultNIndex
+    #     # elif df_conf == 'VAZIO':
+    #     #     df_conf = pd.DataFrame()
+    #     # elif df_conf == 'ERROR':
+    #     #     self.stop_error = True
+    #     # if isinstance(df_conf, list):
+    #     #     df_conf = pd.DataFrame(df_conf)
+    #     return df_conf
+    # def get_canc_newcon(self):
+    #     self.stop_error = False
+    #     dfConst2 = pd.DataFrame()
+    #     conexao.navegar_newcon_desc()
+    #     dfConst2 = pd.DataFrame()
+    #     conexao.ultNIndex2 = ultNIndex2
+    #     dfConst2, ultNIndex = conexao.get_canc_newcon()
+    #     if isinstance(dfConst2, pd.DataFrame):
+    #         ultNIndex2 = ultNIndex
+    #     elif dfConst2 == 'VAZIO':
+    #         dfConst2 = pd.DataFrame()
+    #     elif dfConst2 == 'ERROR':
+    #         self.stop_error = True
+    #     if isinstance(dfConst2, list):
+    #         dfConst2 = pd.DataFrame(dfConst2)
+    #     return ultNIndex2, dfConst2, self.stop_error
+
+    def control_remoto_newcon_full(self, df_clickvenda):
+        if jump_newcon:
+            return False
         logar = True
-        self.stop_error = False
-        # driver = logar_newcon()
-        for g_newcon in self.list_grupo:
-            g_newcon = str(g_newcon)
-            g_newcon_int = int(g_newcon)
-            if g_newcon_int <= 2953:
-                continue 
-            if g_newcon_int <= menor_g_newcon or g_newcon_int >= maior_g_newcon:
+        disc_join_all_newcom = []
+        conexao.df = df_clickvenda
+        self.list_grupo = conexao.get_df_grupo()
+        for self.grupo_newcon in self.list_grupo:
+            self.grupo_newcon = str(self.grupo_newcon)
+            g_newcon_int = int(self.grupo_newcon)
+            renomear.inf = self.grupo_newcon
+            if g_newcon_int <= menor_g_newcon or g_newcon_int >= maior_g_newcon or not renomear.vazio():
                 continue
-            renomear.inf = g_newcon
-            inf = renomear.vazio()
-            # inf = Renomear(inf=g_newcon).vazio()
-            if inf == '':
-                continue
-            stopError_full = False
-
-            get_info = not jump_newcon_info
-            get_conf = not jump_newcon_conf
-            get_desc = not jump_newcon_desc
-            get_apur = not jump_newcon_apur
-
-            count_loop_full = 0
-            loop = 0
-
-            
+            self.count_loop_single = 0
+            self.count_loop_all = 0
+            conexao.grupo_newcon = self.grupo_newcon
+            get_info = True
+            get_conf = True
+            get_canc = True
+            get_desc = True
+            get_apur = True
+            stop_error = False
+            disc_grupo = {}
             while True:
-                print(f'inicio: {g_newcon}')
+                print(f'\n⛏️  MAIN: Início o grupo: {self.grupo_newcon}')
+                if 'grupo' not in disc_grupo:
+                    disc_grupo['grupo'] = self.grupo_newcon
                 
-                if stopError_full:
-                    logar, stop_loop = reverificar_erro_newcon(driver, logar, count_loop_full, g_newcon)  # noqa
-                    if stop_loop:
+                if stop_error:
+                    self.driver.close()
+                    if self.loop_all():
+                        logar = True
+                        stop_error = False
+                    else:
                         break
-                    stopError_full = False
-                # else:
-                #     self.stop_error = conexao.presentScreen()
-
-
-                count_loop_full += 1
+                    
                 if logar:
-                    self.driver = chrome.site_open(info_newcon)
+                    self.driver = chromeDriverAuto.open_site(info_newcon)
                     conexao.driver = self.driver
                     getattr(conexao, info_newcon['log'])(info_newcon, path_newcon)
                     logar = False
 
-
                 if get_info:
-                    if loop >= 2:  # desistir de baixa df
-                        get_info = False
+                    if self.loop_single():  # desistir de baixa df
+                        break
                     else:
-                        loop += 1
-                        self.navegar_newcon_contemplacao_padrao(g_newcon)
-                        self.list_info()
-                        # time.sleep(10)
-                        sys.exit()
-
-                        if self.stop_error:  # error tela travada
-                            stopError_full = True
-                            continue
-                        else:  # df baixada
+                        for _ in range(3):
+                            conexao.percussion_cont_newcon() 
+                            disc_info = conexao.get_info_newcon()
+                            if not disc_info:
+                                continue
+                            disc_grupo.update(disc_info)
+                            self.count_loop_single = 0
                             get_info = False
-
+                            break
+                        else:
+                            print(f'⁉️  MAIN: O discionario de informações do grupo: {self.grupo_newcon} esta retornando vazio, já mais é para não ter as informações')
+                            stop_error = True
+                            continue
+         
                 if get_conf:
-                    print(conf)
-                    if loop_conf >= 2:  # desistir de baixa df
+                    if self.loop_single():
                         get_conf = False
                     else:
-                        loop_conf += 1
-                        self.navegar_newcon_contemplacao_padrao(driver, g_newcon)
-                        for x in range(mesQuantidade):  # quantidade de meses anteriores
-                            ultNIndex1, dfConst1, self.stop_error = df_conf(ultNIndex1)  # noqa
-                            if self.stop_error:
-                                break
-                            if not dfConst1.empty:
-                                df_newcon_conf = pd.concat([df_newcon_conf, dfConst1])  # noqa
-                            conexao.navegar_newcon_retorna_assembleia()  # mes anaterior
-                        if self.stop_error:  # error tela travada
-                            stopError_full = True
-                            continue
-                        else:  # df baixada
+                        list_disc_join_conf = [{'tabela': 'confirmada'}]
+                        list_disc_join_conf = join_disc_list_and_disc_info(disc_grupo, list_disc_join_conf)
+                        for _ in range(3):
+                            conexao.percussion_cont_newcon() 
+                            disc_conf = conexao.get_conf_newcon()
+                            if not disc_conf:
+                                continue
+                            list_disc_join_conf = join_disc_list_and_disc_info(list_disc_join_conf, disc_conf)
+                            self.count_loop_single = 0
                             get_conf = False
+                            break
+                        else:
+                            print(f'⁉️  MAIN: O discionario de confirmadas do grupo: {self.grupo_newcon} esta retornando vazio, pode acontecer em poucos casos. Entrao continui.')
+
+                if get_canc:
+                    if self.loop_single():
+                        get_canc = False
+                    else:
+                        list_disc_join_canc = [{'tabela': 'cancelada'}]
+                        list_disc_join_canc = join_disc_list_and_disc_info(disc_grupo, list_disc_join_canc)
+                        for _ in range(3):
+                            conexao.percussion_cont_newcon() 
+                            disc_canc = conexao.get_canc_newcon()
+                            if not disc_canc:
+                                continue
+                            list_disc_join_canc = join_disc_list_and_disc_info(list_disc_join_canc, disc_canc)
+                            self.count_loop_single = 0
+                            get_canc = False
+                            break
+                        else:
+                            print(f'⁉️  MAIN: O discionario de desclassificados do grupo: {self.grupo_newcon} esta retornando vazio, pode acontecer. Entrao continui.')
+                            self.count_loop_single = 0
+                            get_canc = False
 
                 if get_desc:
-                    print(desc)
-                    if loop_desc >= 2:  # desistir de baixa df
+                    if self.loop_single():
                         get_desc = False
                     else:
-                        loop_desc += 1
-                        self.navegar_newcon_contemplacao_padrao(driver, g_newcon)
-                        for x in range(mesQuantidade):  # quantidade de meses anteriores
-                            ultNIndex2, dfConst2, self.stop_error = df_desc(ultNIndex2)  # noqa
-                            if self.stop_error:
-                                break
-                            if not dfConst2.empty:
-                                df_newcon_desc = pd.concat([df_newcon_desc, dfConst2])  # noqa
-                            conexao.navegar_newcon_retorna_assembleia()  # mes anaterior
-                        if self.stop_error:
-                            stopError_full = True
-                            continue
-                        else:  # df baixada
+                        list_disc_join_desc = [{'tabela': 'desclassificada'}]
+                        list_disc_join_desc = join_disc_list_and_disc_info(disc_grupo, list_disc_join_desc)
+                        for _ in range(3):
+                            conexao.percussion_cont_newcon() 
+                            disc_desc = conexao.get_desc_newcon()
+                            if not disc_desc:
+                                continue
+                            list_disc_join_desc = join_disc_list_and_disc_info(list_disc_join_desc, disc_desc)
+                            self.count_loop_single = 0
+                            get_desc = False
+                            break
+                        else:
+                            print(f'⁉️  MAIN: O discionario de desclassificados do grupo: {self.grupo_newcon} esta retornando vazio, pode acontecer. Entrao continui.')
+                            self.count_loop_single = 0
                             get_desc = False
 
                 if get_apur:
-                    print(apur)
-                    if loop_apur >= 2:  # desistir de baixa df
+                    if self.loop_single():
                         get_apur = False
                     else:
-                        loop_apur += 1
-                        self.navegar_newcon_contemplacao_padrao(driver, g_newcon)
-                        ultNIndex3, dfConst3, self.stop_error = df_apur(ultNIndex3)
-                        if self.stop_error:  # error tela travada
-                            stopError_full = True
-                            continue
-                        else:  # df baixada
-                            if not dfConst3.empty:
-                                df_newcon_apur = pd.concat([df_newcon_apur, dfConst3])
+                        list_disc_join_apur = [{'tabela': 'apurada'}]
+                        list_disc_join_apur = join_disc_list_and_disc_info(disc_grupo, list_disc_join_apur)
+                        for _ in range(3):
+                            conexao.percussion_cont_newcon() 
+                            disc_apur = conexao.get_apur_newcon()
+                            if not disc_apur:
+                                continue
+                            list_disc_join_apur = join_disc_list_and_disc_info(list_disc_join_apur, disc_apur)
+                            self.count_loop_single = 0
                             get_apur = False
+                            break
+                        else:
+                            print(f'⁉️  MAIN: O discionario de apurações do grupo: {self.grupo_newcon} esta retornando vazio, pode acontecer. Entrao continui.')
+                            self.count_loop_single = 0
+                            get_apur = False
+  
+                disc_join_all_newcom = disc_join_all_newcom + list_disc_join_conf + list_disc_join_canc + list_disc_join_desc + list_disc_join_apur
 
-                if count_loop_full >= 2:
-                    text = f'A {count_loop_full}º tentativa foi bem sucedida:   '
-                    text += f'{stopError_full}. \n Comprovando que existe sentido na '
-                    text += f'segunda tentativa. grupo: {g_newcon}'
-                    print(text)
-                    break
-                    # sys.exit()
-
-                if not get_info and not get_conf and not get_desc and not get_apur:  # noqa
-                    print(f'fim: {g_newcon} \n')
+                if not get_info and not get_conf and not get_canc and not get_apur:  # noqa
                     break
 
-        if not logar:
-            driver.close()
-        df_newcon_info = criar_df_atravas_lista_info(self.list_table)
-        return df_newcon_info, df_newcon_conf, df_newcon_desc, df_newcon_apur
+        chromeDriverAuto.close_driver(self.driver)
+        conexao.salve_clickvend(disc_join_all_newcom, arq_newcon)
+        return True
+
+
+    def get_arq_clickvend(self):
+        try:
+            disc_join_all_newcom = conexao.read_clickvend(arq_newcon)
+            if isinstance(disc_join_all_newcom, list):
+                print("É uma lista")
+                return disc_join_all_newcom
+            else:
+                print(f'O arquivo {disc_join_all_newcom} que esta sendo lido não é lista, é: {type(disc_join_all_newcom)}.')
+                sys.exit()
+        except Exception as e:
+            print(f'O arquivo {disc_join_all_newcom} não dá pra converter: {e}.')
+            sys.exit()
+
+    def organizar_newcon_full(self):
+        disc_join_all_newcom = self.get_arq_clickvend()
+        list_disc_no_repetition = []
+        for disc in disc_join_all_newcom:
+            if disc in list_disc_no_repetition:
+                continue
+            quantity = 1
+            for disc_test_quantity in disc_join_all_newcom:
+                if disc == disc_test_quantity:
+                    quantity += 1
+            disc['quantidades_iguais'] = str(quantity)
+            list_disc_no_repetition.append(disc)
+        conexao.salve_clickvend(arq_newcon_tratado, arq_newcon)
+
 
 ##################### TRATAR E JUNTAR DE TABELAS #############################
 
@@ -509,29 +553,12 @@ for x in range(1):
     log_tempo_programa()
     tpInicSegProg = tempo.tempo_execucao()
     df_clickvenda = clickvenda.control_remote_clickvenda() 
-    df_newcon_conf, df_newcon_desc, df_newcon_apur, df_newcon_info, listaGrupo360 = newcon.control_remoto_newcon(df_clickvenda)  # noqa
+    newcon.control_remoto_newcon_full(df_clickvenda) 
     sys.exit()
-###########################
-    df_newcon_conf = tratar_gravar(df_newcon_conf, arq_conf_tratadas, conf)  # noqa
+    newcon.organizar_newcon_full()
+    sys.exit()
 
-    df_newcon_desc = tratar_gravar(df_newcon_desc, arq_desc_tratadas, desc)  # noqa
 
-    df_newcon_apur = tratar_gravar(df_newcon_apur, arq_apur_tratadas, apur)
-
-    df_newcon_info = alterar_dados_info_gravar(df_newcon_info, arq_info_tratadas)  # noqa
-
-    df360New = editar_dados_360(df360, df_newcon_info)
-
-    df = pd.merge(df360, df360New, how='outer')
-
-    conexao.df = df
-    df = conexao.dfConverterStr()
-
-    df = pd.merge(df_newcon_conf, df, on='Grupo')
-
-    df = pd.merge(df, df_newcon_desc, how='outer')
-
-    df = pd.merge(df, df_newcon_apur, how='outer')
 
     conexao.df = df
     conexao.listaGrupo360 = listaGrupo360
@@ -560,12 +587,12 @@ for x in range(1):
     gravar(df, arq_df_2_csv)
 
     ###########################
-    escreva = 'fim'  # informação do log
+    write_log = 'fim'  # informação do log
     tempo.tpInicSeg = tpInicSegProg
     tempo.tpInicSegProg = tpInicSegProg
-    tempo.escreva = escreva
+    tempo.write_log = write_log
     tempo.tempo_execucao()
-    # Tempo(tpInicSeg=tpInicSegProg, tpInicSegProg=tpInicSegProg, escreva=escreva).tempo_execucao()  # noqa
-    escreva = time.strftime("%H:%M:%S")
-    log.escreva = escreva
+    # Tempo(tpInicSeg=tpInicSegProg, tpInicSegProg=tpInicSegProg, write_log=write_log).tempo_execucao()  # noqa
+    write_log = time.strftime("%H:%M:%S")
+    log.write_log = write_log
     log.escrever()
