@@ -1,7 +1,0 @@
-
-20:06:45   0
-FUNCAO ALERTA: (NoSuchElementException) TP 10 seg esgotado | FAZ:(keys)| URL:(['//*[@id="ctl00_Conteudo_edtCD_Grupo"]'])
-FUNCAO ALERTA: (NoSuchElementException) TP 10 seg esgotado | FAZ:(None)| URL:(['//*[@id="ctl00_Conteudo_btnOK"]'])
-FUNCAO ALERTA: (NoSuchElementException) TP 10 seg esgotado | FAZ:(localizar)| URL:(['//*[@id="ctl00_Conteudo_grdContemplacoes_Confirmadas"]/tbody'])
-FUNCAO ALERTA: (NoSuchElementException) TP 10 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_div_Confirmadas"]'])
-ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 3317 / None / None

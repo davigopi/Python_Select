@@ -1,3 +1,0 @@
-
-05:58:29   0
-⚠️  FUNCT: Tempo: 12.9/10s | Ação: click | Path: //*[@id="ctl00_Conteudo_btnCotasSorteadas"] | Digitar:  | Erro: TimeoutException

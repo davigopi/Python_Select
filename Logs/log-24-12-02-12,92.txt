@@ -1,3 +1,0 @@
-
-12:55:18   0
-FUNCOES OBS: Grupo: None | Tempo: 1.2 seg de 1 | Num tentativas: 0 | Faz: None | path: Não path | Erro: str. | 
