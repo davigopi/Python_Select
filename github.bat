@@ -5,8 +5,16 @@ REM ===== PEGAR NOME DA PASTA (PROJETO) =====
 for %%I in (.) do set PROJETO=%%~nxI
 
 REM ===== PERGUNTAR AO USUARIO =====
-echo Nome detectado da pasta: %PROJETO%
-set /p CONFIRMA="Usar este nome como projeto? (S/N): "
+set /p CONFIRMA2="O repositorio esta criado no github.com? (S/N): "
+if /I "%CONFIRMA2%"=="N" (
+    echo Va ate github.com
+    echo Clique em New Repository
+    echo Crie com nome_do_projeto
+    pause
+)
+
+echo Nome detectado da pasta eh: %PROJETO%
+set /p CONFIRMA="O %PROJETO% tambem eh o nome do repositorio no github.com (S/N): "
 
 if /I "%CONFIRMA%"=="N" (
     set /p PROJETO="Digite o nome correto do projeto: "
@@ -59,5 +67,5 @@ REM ===== PUSH =====
 git push -u %REMOTE% %BRANCH%
 
 echo.
-echo ✔ Upload concluido com sucesso!
+echo Upload concluido com sucesso!
 pause
