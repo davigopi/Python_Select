@@ -1,4 +1,0 @@
-
-15:20:35   0
-FUNCAO ALERTA: (InvalidSessionIdException) TP 10 seg esgotado | FAZ:(informar)| URL:(['//*[@id="ctl00_Conteudo_div_Confirmadas"]'])
-ERRO TAREFA: Tb vazia: 1 vezes Exceção: AttributeError: 2622 / None / None

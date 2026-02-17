@@ -1,6 +1,0 @@
-
-21:10:37   0
-FUNCOES OBS: Erro: (NoSuchElementException) | Tempo: 1 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
-TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2622 / None / None
-FUNCOES OBS: Erro: (NoSuchElementException) | Tempo: 1 | FAZ:(informar)| | URL:(['//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]']).
-TAREFA ERRO: Tabela vazia: 1 vezes Exceção: AttributeError: 2626 / None / None

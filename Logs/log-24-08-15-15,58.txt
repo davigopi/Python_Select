@@ -1,3 +1,0 @@
-
-15:35:32   0
-FUNCAO ALERTA: (AttributeError) TP 10 seg esgotado | FAZ:(present_screen)| URL:(['//*[@id="divLoading"]/img'])
