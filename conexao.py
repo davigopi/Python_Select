@@ -46,6 +46,10 @@ log = Log()
 read_salve = Read_salve()
 convert = Convert()
 
+def wait_and_exit(msn):
+    print(msn)
+    time.sleep(120)
+    sys.exit()
 
 class Conexao:
     def __init__(self, *args, **kwargs):
@@ -87,12 +91,12 @@ class Conexao:
     def zerar_variaveis(self):
         self.extencao = None
 
-    def salve_clickvend(self, write_file, folder_file):
+    def salve_arq(self, write_file, folder_file):
         read_salve.write_file = write_file
         read_salve.folder_file = folder_file
         read_salve.to_write()
 
-    def read_clickvend(self, folder_file):
+    def read_arq(self, folder_file):
         read_salve.folder_file = folder_file
         return read_salve.to_read()
 
@@ -240,7 +244,7 @@ class Conexao:
                     new_row. append(row)
                 rows += new_row
             # break
-        self.salve_clickvend(rows, arq_clickvenda)
+        self.salve_arq(rows, path_clickvenda_json)
         return True
 
     # newcom 
@@ -264,94 +268,127 @@ class Conexao:
         self.func_click(path_newcon['id_ctl00_Conteudo_btnOK'])  # botao confirmar
 
 
-    def get_info_newcon(self):
-        disc_info = {}
-        for key, info in disc_path_info.items():
-            disc_info[key] = self.func_get_select(path_newcon[info], tag_text)
-        return disc_info
+    # def get_info_newcon(self):
+    #     disc_info = {}
+    #     for key, info in disc_path_info.items():
+    #         disc_info[key] = self.func_get_select(path_newcon[info], tag_text)
+    #     return disc_info
 
-    def get_conf_newcon(self):
-        # self.funct = Funct()
-        # self.funct.driver = self.driver
-        # self.funct.path_all_log = self.path_all_log
-        disc_all = []
-        for _ in range(mesQuantidade):
-            convert.table = self.func_get_select(path_newcon['id_ctl00_Conteudo_div_Confirmadas'], tag_table)
-            disc_all += convert.table_list_in_disc()
-            self.func_click(path_newcon['id_ctl00_Conteudo_btnRetornaAssembleia'])
-        return disc_all
 
-    def get_canc_newcon(self):
-        # self.funct = Funct()
-        # self.funct.driver = self.driver
-        # self.funct.path_all_log = self.path_all_log
-        disc_all = []
-        for _ in range(mesQuantidade):
-            self.func_click(path_newcon['id_ui_id_8'])    
-            convert.table = self.func_get_select(path_newcon['id_ctl00_Conteudo_grdContemplacoes_Confirmadas_Canceladas'], tag_table)
-            disc_all += convert.table_list_in_disc()
-            self.func_click(path_newcon['id_ctl00_Conteudo_btnRetornaAssembleia'])
-        return disc_all
 
-    def get_desc_newcon(self):
-        # self.funct = Funct()
-        # self.funct.driver = self.driver
-        # self.funct.path_all_log = self.path_all_log
+    def get_newcon(self, table_newcon):
+        if table_newcon == info:
+            disc_info = {}
+            for key, inf in disc_path_info.items():
+                disc_info[key] = self.func_get_select(path_newcon[inf], tag_text)
+            return disc_info
+
         disc_all = []
-        for _ in range(mesQuantidade):
-            self.func_click(path_newcon['id_ui_id_9'])
-            convert.table = self.func_get_select(path_newcon['id_ctl00_Conteudo_div_Desclassificadas'], tag_table)
-            disc_all += convert.table_list_in_disc()
-            self.func_click(path_newcon['id_ctl00_Conteudo_btnRetornaAssembleia'])
-        return disc_all
-        
-    def get_apur_newcon(self):
-        # self.funct = Funct()
-        # self.funct.driver = self.driver
-        # self.funct.path_all_log = self.path_all_log
-        self.funct.time_total_set = 3
-        disc_all = []
-        for _ in range(mesQuantidade):
-            if not self.func_click(path_newcon['id_ctl00_Conteudo_btnCotasSorteadas']):
+        if table_newcon == apur:
+            number_times = 1
+        else:
+            number_times = mesQuantidade
+        for _ in range(number_times):
+            if table_click_newcon[table_newcon]:
+                self.funct.time_total_set = 3
+                if not self.func_click(path_newcon[table_click_newcon[table_newcon]]):
+                    break 
+            for _ in range(10):
+                convert.table = self.func_get_select(path_newcon[table_get_newcon[table_newcon]], tag_table)
+                disc_new = convert.table_list_in_disc()
+                if disc_new in disc_all:
+                    time.sleep(0.5)
+                    continue
                 break
-            print(f'⁉️  CONEXAO: O grupo {self.grupo_newcon} tem apuração')
-            time.sleep(99)   
-            convert.table = self.func_get_select(path_newcon['id_ctl00_Conteudo_grdContemplacoes_Confirmadas_Canceladas'], tag_table)
-            disc_all += convert.table_list_in_disc()
+            else:
+                wait_and_exit('A tabela anterior é a mesma da posterior. programa sera fechado em 2 minutos.')
+            disc_all += disc_new
             self.func_click(path_newcon['id_ctl00_Conteudo_btnRetornaAssembleia'])
         return disc_all
     
-        print('3')
-        tarefa = self.padrao_escolha_df()
-        # tarefa = Tarefa()
-        # tarefa.driver = self.driver
-        # tarefa.path_all_log = self.path_all_log
-        print('4')
-        tarefa.xpath_present_secreen = '//*[@id="divLoading"]/img'
-        tarefa.url = '//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'  # df
-        # tarefa.ultCel1 = 0  # necessario para saber se df atualizou
-        # tarefa.ultCel2 = 0  # necessario para saber se df atualizou
-        # tarefa.colCel1 = 1  # coluna dois para teste
-        # tarefa.colCel2 = -1  # coluna ultima para teste
-        # tarefa.indTx1 = 'Grupo'
-        # tarefa.tag1 = 'table'
-        # tarefa.tag2 = 'tr'
-        # tarefa.tag3 = 'td'
-        # tarefa.tagCab = 'th'
-        tarefa.tempo = 5
-        tarefa.ultNIndex = self.ultNIndex3
-        tarefa.fator_repeticao = 3
-        # tarefa.tpInicSegProg = self.tpInicSegProg
-        # tarefa.grupo_newcon = self.grupo_newcon
-        htmlNew, ultNIndex, ultCel1, ultCel2 = tarefa.df_newcon()
-        # print('PARA 1000 $$$$$$$$$$$$$$$$$$$$$$$$$$')
-        # time.sleep(1000)
-        # htmlNew, ultNIndex, ultCel1, ultCel2 = Tarefa(
-        #     driver=self.driver, url=url, path_all_log=self.path_all_log, ultNIndex=ultNIndex,
-        #     tpInicSegProg=self.tpInicSegProg, grupo_newcon=self.grupo_newcon, tempo=tempo, ultCel1=ultCel1,
-        #     ultCel2=ultCel2, colCel1=colCel1, colCel2=colCel2, indTx1=indTx1, tag1=tag1, tag2=tag2,
-        #     tag3=tag3, tagCab=tagCab).df_newcon()
-        return htmlNew, ultNIndex
+
+    # def get_conf_newcon(self):
+    #     # self.funct = Funct()
+    #     # self.funct.driver = self.driver
+    #     # self.funct.path_all_log = self.path_all_log
+    #     disc_all = []
+    #     for _ in range(mesQuantidade):
+    #         convert.table = self.func_get_select(path_newcon['id_ctl00_Conteudo_div_Confirmadas'], tag_table)
+    #         disc_all += convert.table_list_in_disc()
+    #         self.func_click(path_newcon['id_ctl00_Conteudo_btnRetornaAssembleia'])
+    #     return disc_all
+
+    # def get_canc_newcon(self):
+    #     # self.funct = Funct()
+    #     # self.funct.driver = self.driver
+    #     # self.funct.path_all_log = self.path_all_log
+    #     disc_all = []
+    #     for _ in range(mesQuantidade):
+    #         self.func_click(path_newcon['id_ui_id_8'])    
+    #         convert.table = self.func_get_select(path_newcon['id_ctl00_Conteudo_grdContemplacoes_Confirmadas_Canceladas'], tag_table)
+    #         disc_all += convert.table_list_in_disc()
+    #         self.func_click(path_newcon['id_ctl00_Conteudo_btnRetornaAssembleia'])
+    #     return disc_all
+
+    # def get_desc_newcon(self):
+    #     # self.funct = Funct()
+    #     # self.funct.driver = self.driver
+    #     # self.funct.path_all_log = self.path_all_log
+    #     disc_all = []
+    #     for _ in range(mesQuantidade):
+    #         self.func_click(path_newcon['id_ui_id_9'])
+    #         convert.table = self.func_get_select(path_newcon['id_ctl00_Conteudo_div_Desclassificadas'], tag_table)
+    #         disc_all += convert.table_list_in_disc()
+    #         self.func_click(path_newcon['id_ctl00_Conteudo_btnRetornaAssembleia'])
+    #     return disc_all
+        
+    # def get_apur_newcon(self):
+    #     # self.funct = Funct()
+    #     # self.funct.driver = self.driver
+    #     # self.funct.path_all_log = self.path_all_log
+    #     self.funct.time_total_set = 3
+    #     disc_all = []
+    #     for _ in range(mesQuantidade):
+    #         if not self.func_click(path_newcon['id_ctl00_Conteudo_btnCotasSorteadas']):
+    #             break
+    #         print(f'⁉️  CONEXAO: O grupo {self.grupo_newcon} tem apuração')
+    #         time.sleep(99)   
+    #         convert.table = self.func_get_select(path_newcon['id_ctl00_Conteudo_grdContemplacoes_Confirmadas_Canceladas'], tag_table)
+    #         disc_all += convert.table_list_in_disc()
+    #         self.func_click(path_newcon['id_ctl00_Conteudo_btnRetornaAssembleia'])
+    #     return disc_all
+    
+        # print('3')
+        # tarefa = self.padrao_escolha_df()
+        # # tarefa = Tarefa()
+        # # tarefa.driver = self.driver
+        # # tarefa.path_all_log = self.path_all_log
+        # print('4')
+        # tarefa.xpath_present_secreen = '//*[@id="divLoading"]/img'
+        # tarefa.url = '//*[@id="ctl00_Conteudo_grdCotasSequenciaLance"]'  # df
+        # # tarefa.ultCel1 = 0  # necessario para saber se df atualizou
+        # # tarefa.ultCel2 = 0  # necessario para saber se df atualizou
+        # # tarefa.colCel1 = 1  # coluna dois para teste
+        # # tarefa.colCel2 = -1  # coluna ultima para teste
+        # # tarefa.indTx1 = 'Grupo'
+        # # tarefa.tag1 = 'table'
+        # # tarefa.tag2 = 'tr'
+        # # tarefa.tag3 = 'td'
+        # # tarefa.tagCab = 'th'
+        # tarefa.tempo = 5
+        # tarefa.ultNIndex = self.ultNIndex3
+        # tarefa.fator_repeticao = 3
+        # # tarefa.tpInicSegProg = self.tpInicSegProg
+        # # tarefa.grupo_newcon = self.grupo_newcon
+        # htmlNew, ultNIndex, ultCel1, ultCel2 = tarefa.df_newcon()
+        # # print('PARA 1000 $$$$$$$$$$$$$$$$$$$$$$$$$$')
+        # # time.sleep(1000)
+        # # htmlNew, ultNIndex, ultCel1, ultCel2 = Tarefa(
+        # #     driver=self.driver, url=url, path_all_log=self.path_all_log, ultNIndex=ultNIndex,
+        # #     tpInicSegProg=self.tpInicSegProg, grupo_newcon=self.grupo_newcon, tempo=tempo, ultCel1=ultCel1,
+        # #     ultCel2=ultCel2, colCel1=colCel1, colCel2=colCel2, indTx1=indTx1, tag1=tag1, tag2=tag2,
+        # #     tag3=tag3, tagCab=tagCab).df_newcon()
+        # return htmlNew, ultNIndex
 
 
     # newcon:

@@ -19,7 +19,8 @@ from selenium.common.exceptions import (
     ElementNotInteractableException,
     ElementClickInterceptedException,
     UnexpectedAlertPresentException,
-    TimeoutException
+    TimeoutException,
+    StaleElementReferenceException
 )
 from bs4 import BeautifulSoup
 from log import Log
@@ -45,7 +46,8 @@ class Funct:
             ElementNotInteractableException,
             ElementClickInterceptedException,
             UnexpectedAlertPresentException,
-            TimeoutException
+            TimeoutException,
+            StaleElementReferenceException
         )
 
         self.acoes = {
@@ -152,8 +154,9 @@ class Funct:
 
     def msn_sys_exit(self):
         self.msn_padrao()
-        self.text += "\n❌ FUNCT: Programa interrompido, pois não há tratamento para este erro.\n\n"
+        self.text += f"\n❌ FUNCT: Programa interrompido, pois não há tratamento do erro: {self.e.__class__.__name__}. Programa sera interrompido em 2 minutos.\n\n"
         print(self.text)
+        time.sleep(120)
         sys.exit()
 
     def wait_loading_invisiblility(self):
@@ -179,29 +182,27 @@ class Funct:
         except TimeoutException:
             return False
 
-
-    def wait_path_located(self):
-        WebDriverWait(self.driver, 3).until(EC.presence_of_element_located((By.XPATH, self.path)))
-
     def wait_path_visibility(self):
          WebDriverWait(self.driver, 3).until(EC.visibility_of_element_located((By.XPATH, self.path)))
 
+    def wait_path_located(self):
+        return WebDriverWait(self.driver, 3).until(EC.presence_of_element_located((By.XPATH, self.path)))
+
     def wait_path_clickable(self):
-        WebDriverWait(self.driver, 3).until(EC.element_to_be_clickable((By.XPATH, self.path)))
+        return WebDriverWait(self.driver, 3).until(EC.element_to_be_clickable((By.XPATH, self.path)))
         # time.sleep(0.3)
 
     def scroll_view_path(self):
         # self.driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", self.driver.find_element(By.XPATH, self.path))
         header_px = 90
-        elem = self.driver.find_element(By.XPATH, self.path)
+        # elem = self.driver.find_element(By.XPATH, self.path)
+        elem = self.wait_path_located()
         self.driver.execute_script("const el=arguments[0]; const rect=el.getBoundingClientRect(); window.scrollBy(0, rect.top - %d - 20);" % header_px, elem)
         
     def funct_click(self):
         try:
-            self.wait_path_located()
             self.scroll_view_path()
-            self.wait_path_clickable()
-            self.driver.find_element(By.XPATH, self.path).click()
+            self.wait_path_clickable().click()
             return True
         except self.excecao as e:
             self.e = e
@@ -213,8 +214,8 @@ class Funct:
     def funct_click_texto(self):
         path_local = f"//{self.local}[contains(text(),'{self.path}')]"
         try:
-            self.wait_path_clickable()
-            self.driver.find_element(By.XPATH, path_local).click()
+            # self.wait_path_clickable()
+            WebDriverWait(self.driver, 3).until(EC.element_to_be_clickable((By.XPATH, path_local))).click()
             return True
         except self.excecao as e:
             self.e = e
@@ -371,7 +372,11 @@ class Funct:
         while True:
             self.wait_loading_invisiblility()
             self.wait_modal_invisiblility()
-            self.wait_path_visibility()
+            try: 
+                self.wait_path_visibility()
+            except self.excecao as e:
+                self.e = e
+                self.msn_sys_exit()
             # print(f'self.path: {self.path}')
             if self.path:
                 func = self.acoes.get(self.faz)

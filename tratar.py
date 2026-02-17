@@ -621,172 +621,172 @@ class Tratar:
                 self.df = self.df.sort_values(by=[self.coluna])  # organizar
         return self.df
 
-    def dfColunaOrganizar(self):
-        nLinha = self.df[self.df.columns[0]].count()
-        colunas = self.df.columns.to_list()
-        lista = []
-        colunaExcluir = [
-            'Prazoplano',
-            'Vencimento',
-            'VencimentoNew',
-            'Prox.assembleia',
-            'Realizada']
-        for coluna in colunaExcluir:
-            self.df = self.df.drop(columns=[coluna])
-        colunas = self.df.columns.to_list()
-        for coluna in colunas:
-            if coluna == 'Prazo':
-                break
-            lista.append(coluna)
-            if coluna == 'Situacao':
-                lista.append('ARealizar')
-                lista.append('Prox_Assembleia')
-                lista.append('Prazo')
-        lista2 = []
-        for coluna in lista:
-            if coluna == 'Prox_Assembleia':
-                continue
-            if coluna == 'Menor Valor':
-                lista2.append('Prox_Assembleia')
-            lista2.append(coluna)
-        self.df = self.df[lista2]
-        listaContempl = []
-        listaCancelad = []
-        listaNaoCont = []
-        listaNaoCont2 = []
-        for cont in range(nLinha):
-            if self.df.at[cont, 'Situacao'] == 'Contempl':
-                listaContempl.append(self.df.at[cont, 'Grupo'])
-            elif self.df.at[cont, 'Situacao'] == 'Cancelad':
-                listaCancelad.append(self.df.at[cont, 'Grupo'])
-            elif self.df.at[cont, 'Situacao'] == 'Nao Cont':  # obs o espaço só depos é excluido
-                listaNaoCont.append([self.df.at[cont, 'Grupo'], self.df.at[cont, 'Num Lance']])
-                listaNaoCont2.append([self.df.at[cont, 'Grupo'], self.df.at[cont, 'Num 25%']])
-            else:
-                print(self.df.at[cont, 'Situacao'])
-        colunaCompletar = ['TA', 'Menor Valor', 'Maior Valor', 'Menor Parcela1', 'Maior Parcela1']
-        for coluna in colunaCompletar:  # ira pegar colunas pre definida
-            for cont in range(nLinha):
-                inf = self.df.at[cont, coluna]
-                inf = Renomear(inf=inf).vazio()
-                if inf == '':  # verifica se celula esta vazia
-                    # if coluna == 'Maior Valor':
-                    #     print(f'[[[{inf}]]]')
-                    for contempl in listaContempl:
-                        # Vai tratar apenas se o grupo for o mesos do grupo de contemplados
-                        if self.df.at[cont, 'Grupo'] == contempl:
-                            if self.df.at[cont, 'Situacao'] == 'Contempl':
-                                self.df.at[cont, coluna] = '0'
-                            else:
-                                self.df.at[cont, coluna] = self.df.at[(cont - 1), coluna]
-                                # print(f'nuca vou passar aqui, mas se sim  colçuan situacao:(({self.df.at[cont, "Situacao"]}))')
-        for cont in range(nLinha):
-            if self.df.at[cont, 'Situacao'] == 'Contempl' or self.df.at[cont, 'Situacao'] == 'Cancelad':  # noqa
-                for grupo, quantidade in listaNaoCont:
-                    if self.df.at[cont, 'Grupo'] == grupo:
-                        self.df.at[cont, 'Num Lance'] = quantidade
-                        break
-        # ira preencher a coluna Num 25% com valro 0 se existir NaoCont mais não otiver valoe
-        for cont in range(nLinha):
-            for (grupo, nLance25) in listaNaoCont2:
-                if self.df.at[cont, 'Grupo'] == grupo:
-                    if 'NaoCont' == self.df.at[cont, 'Situacao']:
-                        inf = self.df.at[cont, 'Num 25%']
-                        inf = Renomear(inf=inf).vazio()
-                        if inf == '':
-                            self.df.at[cont, 'Num 25%'] = 0
-                    # else:
-                    #     self.df.at[cont, 'Num 25%'] = nLance25
-        # colunaCompletar.append('Num 25%')
-        colunas = self.df.columns.to_list()
-        inicioColunaLance = False
-        primeiro = False
-        for coluna in colunas:
-            palavra = ''
-            numero = ''
-            for letra in coluna:
-                if letra == '.':
-                    break
-                if letra == '-':
-                    if primeiro is True:
-                        break
-                    primeiro = True
-                if inicioColunaLance is True:
-                    numero += letra
-                    continue
-                palavra += letra
-                if palavra == 'Lance' or palavra == '%Lance':
-                    inicioColunaLance = True
-            if inicioColunaLance is True:
-                break
-        nomeColuna = palavra + numero
-        listaColunaLance = []
-        for coluna in colunas:
-            palavra = ''
-            for letra in coluna:
-                palavra += letra
-                if palavra == nomeColuna:
-                    listaColunaLance.append(coluna)
+    # def dfColunaOrganizar(self):
+    #     nLinha = self.df[self.df.columns[0]].count()
+    #     colunas = self.df.columns.to_list()
+    #     lista = []
+    #     colunaExcluir = [
+    #         'Prazoplano',
+    #         'Vencimento',
+    #         'VencimentoNew',
+    #         'Prox.assembleia',
+    #         'Realizada']
+    #     for coluna in colunaExcluir:
+    #         self.df = self.df.drop(columns=[coluna])
+    #     colunas = self.df.columns.to_list()
+    #     for coluna in colunas:
+    #         if coluna == 'Prazo':
+    #             break
+    #         lista.append(coluna)
+    #         if coluna == 'Situacao':
+    #             lista.append('ARealizar')
+    #             lista.append('Prox_Assembleia')
+    #             lista.append('Prazo')
+    #     lista2 = []
+    #     for coluna in lista:
+    #         if coluna == 'Prox_Assembleia':
+    #             continue
+    #         if coluna == 'Menor Valor':
+    #             lista2.append('Prox_Assembleia')
+    #         lista2.append(coluna)
+    #     self.df = self.df[lista2]
+    #     listaContempl = []
+    #     listaCancelad = []
+    #     listaNaoCont = []
+    #     listaNaoCont2 = []
+    #     for cont in range(nLinha):
+    #         if self.df.at[cont, 'Situacao'] == 'Contempl':
+    #             listaContempl.append(self.df.at[cont, 'Grupo'])
+    #         elif self.df.at[cont, 'Situacao'] == 'Cancelad':
+    #             listaCancelad.append(self.df.at[cont, 'Grupo'])
+    #         elif self.df.at[cont, 'Situacao'] == 'Nao Cont':  # obs o espaço só depos é excluido
+    #             listaNaoCont.append([self.df.at[cont, 'Grupo'], self.df.at[cont, 'Num Lance']])
+    #             listaNaoCont2.append([self.df.at[cont, 'Grupo'], self.df.at[cont, 'Num 25%']])
+    #         else:
+    #             print(self.df.at[cont, 'Situacao'])
+    #     colunaCompletar = ['TA', 'Menor Valor', 'Maior Valor', 'Menor Parcela1', 'Maior Parcela1']
+    #     for coluna in colunaCompletar:  # ira pegar colunas pre definida
+    #         for cont in range(nLinha):
+    #             inf = self.df.at[cont, coluna]
+    #             inf = Renomear(inf=inf).vazio()
+    #             if inf == '':  # verifica se celula esta vazia
+    #                 # if coluna == 'Maior Valor':
+    #                 #     print(f'[[[{inf}]]]')
+    #                 for contempl in listaContempl:
+    #                     # Vai tratar apenas se o grupo for o mesos do grupo de contemplados
+    #                     if self.df.at[cont, 'Grupo'] == contempl:
+    #                         if self.df.at[cont, 'Situacao'] == 'Contempl':
+    #                             self.df.at[cont, coluna] = '0'
+    #                         else:
+    #                             self.df.at[cont, coluna] = self.df.at[(cont - 1), coluna]
+    #                             # print(f'nuca vou passar aqui, mas se sim  colçuan situacao:(({self.df.at[cont, "Situacao"]}))')
+    #     for cont in range(nLinha):
+    #         if self.df.at[cont, 'Situacao'] == 'Contempl' or self.df.at[cont, 'Situacao'] == 'Cancelad':  # noqa
+    #             for grupo, quantidade in listaNaoCont:
+    #                 if self.df.at[cont, 'Grupo'] == grupo:
+    #                     self.df.at[cont, 'Num Lance'] = quantidade
+    #                     break
+    #     # ira preencher a coluna Num 25% com valro 0 se existir NaoCont mais não otiver valoe
+    #     for cont in range(nLinha):
+    #         for (grupo, nLance25) in listaNaoCont2:
+    #             if self.df.at[cont, 'Grupo'] == grupo:
+    #                 if 'NaoCont' == self.df.at[cont, 'Situacao']:
+    #                     inf = self.df.at[cont, 'Num 25%']
+    #                     inf = Renomear(inf=inf).vazio()
+    #                     if inf == '':
+    #                         self.df.at[cont, 'Num 25%'] = 0
+    #                 # else:
+    #                 #     self.df.at[cont, 'Num 25%'] = nLance25
+    #     # colunaCompletar.append('Num 25%')
+    #     colunas = self.df.columns.to_list()
+    #     inicioColunaLance = False
+    #     primeiro = False
+    #     for coluna in colunas:
+    #         palavra = ''
+    #         numero = ''
+    #         for letra in coluna:
+    #             if letra == '.':
+    #                 break
+    #             if letra == '-':
+    #                 if primeiro is True:
+    #                     break
+    #                 primeiro = True
+    #             if inicioColunaLance is True:
+    #                 numero += letra
+    #                 continue
+    #             palavra += letra
+    #             if palavra == 'Lance' or palavra == '%Lance':
+    #                 inicioColunaLance = True
+    #         if inicioColunaLance is True:
+    #             break
+    #     nomeColuna = palavra + numero
+    #     listaColunaLance = []
+    #     for coluna in colunas:
+    #         palavra = ''
+    #         for letra in coluna:
+    #             palavra += letra
+    #             if palavra == nomeColuna:
+    #                 listaColunaLance.append(coluna)
 
-        # print(f'############# a listaColunaLance é (({listaColunaLance}))')
+    #     # print(f'############# a listaColunaLance é (({listaColunaLance}))')
 
-        for cont in range(nLinha):
-            listaColunaLanceOrdemCrecente = []
-            # listaColunaLanceOrdemDecrecente = []
-            for coluna in listaColunaLance:
-                inf = self.df.at[cont, coluna]
-                inf = Renomear(inf=inf).vazio()
-                if inf != '':
-                    listaColunaLanceOrdemCrecente.append(inf)
-            listaColunaLanceOrdemDecrecente = list(reversed(listaColunaLanceOrdemCrecente))
-            # print(f'## self.df.at[cont, "Situacao"] {self.df.at[cont, "Situacao"]} ')
-            if self.df.at[cont, 'Situacao'] == 'Nao Cont':
-                contar = 0
-                for coluna in listaColunaLance:
-                    try:
-                        inf = listaColunaLanceOrdemDecrecente[contar]
-                    except IndexError:
-                        inf = ''
-                    self.df.at[cont, coluna] = inf
-                    contar += 1
+    #     for cont in range(nLinha):
+    #         listaColunaLanceOrdemCrecente = []
+    #         # listaColunaLanceOrdemDecrecente = []
+    #         for coluna in listaColunaLance:
+    #             inf = self.df.at[cont, coluna]
+    #             inf = Renomear(inf=inf).vazio()
+    #             if inf != '':
+    #                 listaColunaLanceOrdemCrecente.append(inf)
+    #         listaColunaLanceOrdemDecrecente = list(reversed(listaColunaLanceOrdemCrecente))
+    #         # print(f'## self.df.at[cont, "Situacao"] {self.df.at[cont, "Situacao"]} ')
+    #         if self.df.at[cont, 'Situacao'] == 'Nao Cont':
+    #             contar = 0
+    #             for coluna in listaColunaLance:
+    #                 try:
+    #                     inf = listaColunaLanceOrdemDecrecente[contar]
+    #                 except IndexError:
+    #                     inf = ''
+    #                 self.df.at[cont, coluna] = inf
+    #                 contar += 1
 
-                # print(f'## listaColunaLanceOrdemCrecente (({listaColunaLanceOrdemCrecente}))')
-                # print(f'## listaColunaLanceOrdemDecrecente (({listaColunaLanceOrdemDecrecente}))')
-            else:
-                contar = 0
-                contar25 = 0
-                for coluna in listaColunaLance:
-                    while True:
-                        try:
-                            inf = listaColunaLanceOrdemCrecente[contar]
-                        except IndexError:
-                            inf = ''
-                        if inf == '25,0':
-                            contar25 += 1
-                            contar += 1
-                            continue
-                        break
-                    self.df.at[cont, coluna] = inf
-                    contar += 1
-                self.df.at[cont, 'Num 25%'] = contar25
+    #             # print(f'## listaColunaLanceOrdemCrecente (({listaColunaLanceOrdemCrecente}))')
+    #             # print(f'## listaColunaLanceOrdemDecrecente (({listaColunaLanceOrdemDecrecente}))')
+    #         else:
+    #             contar = 0
+    #             contar25 = 0
+    #             for coluna in listaColunaLance:
+    #                 while True:
+    #                     try:
+    #                         inf = listaColunaLanceOrdemCrecente[contar]
+    #                     except IndexError:
+    #                         inf = ''
+    #                     if inf == '25,0':
+    #                         contar25 += 1
+    #                         contar += 1
+    #                         continue
+    #                     break
+    #                 self.df.at[cont, coluna] = inf
+    #                 contar += 1
+    #             self.df.at[cont, 'Num 25%'] = contar25
 
-        colunaCompletar.append('Num Lance')
-        for cont in range(nLinha):
-            for coluna in colunaCompletar:
-                inf = self.df.at[cont, coluna]
-                inf = Renomear(inf=inf).vazio()
-                if inf == '':
-                    self.df.at[cont, coluna] = '-1'
-        for coluna in colunas:
-            for cont in range(nLinha):
-                inf = self.df.at[cont, coluna]
-                inf = Renomear(inf=inf).vazio()
-                inf = Renomear(inf=inf).virgulaPontoInt()
-                if inf == '0,001':
-                    inf = '0'
-                self.df.at[cont, coluna] = inf
+    #     colunaCompletar.append('Num Lance')
+    #     for cont in range(nLinha):
+    #         for coluna in colunaCompletar:
+    #             inf = self.df.at[cont, coluna]
+    #             inf = Renomear(inf=inf).vazio()
+    #             if inf == '':
+    #                 self.df.at[cont, coluna] = '-1'
+    #     for coluna in colunas:
+    #         for cont in range(nLinha):
+    #             inf = self.df.at[cont, coluna]
+    #             inf = Renomear(inf=inf).vazio()
+    #             inf = Renomear(inf=inf).virgulaPontoInt()
+    #             if inf == '0,001':
+    #                 inf = '0'
+    #             self.df.at[cont, coluna] = inf
 
-        return self.df
+    #     return self.df
 
     def colunaOrganizar2(self):
         colunas = self.df.columns.to_list()

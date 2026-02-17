@@ -3,6 +3,7 @@
 # pyright: # noqa
 
 import unicodedata
+from datetime import datetime, timedelta
 # import bs4
 
 
@@ -10,6 +11,7 @@ class Renomear:
     def __init__(self, *args, **kwargs):
         self.inf = kwargs.get('inf')
         self.editInf = kwargs.get('editInf')
+        self.inf_del = kwargs.get('inf')
 
     def planoMarcaModelo(self):
         self.inf = self.inf.encode('ascii', 'ignore').decode('utf8')
@@ -146,6 +148,10 @@ class Renomear:
             self.inf = self.inf.replace(',', '.')
         elif virgula is True:
             self.inf = self.inf.replace(',', '.')
+        if self.inf:
+            self.inf = round(float(self.inf), 2)
+        else:
+            self.inf = 0
         return self.inf
 
     def pontoVirgula(self):
@@ -197,7 +203,11 @@ class Renomear:
         self.inf = self.inf.replace('Percentual', 'Lance')
         # self.inf = self.inf.replace('esclassificacao', 'escl')
         return self.inf
-
+    
+    def del_inf_del(self):
+        self.inf = self.inf.replace(self.inf_del, '')
+        return self.inf
+    
     def editTextoColuna(self):
         alteraInf = False
         inf1 = ''
@@ -229,6 +239,24 @@ class Renomear:
                     text1 = x + text1
         # text2 = Renomear(inf=text2).valor()
         return text1, text2
+    
+    def str_to_date(self):
+        self.inf = datetime.strptime(self.inf, "%d/%m/%Y")
+        return self.inf
+
+    def date_to_str(self):
+        self.inf = self.inf.strftime("%d/%m/%y")
+        return self.inf
+
+    # def date_to_str_day(self):
+    #     self.inf = self.inf.strftime("%d")
+    #     return self.inf
+        
+    def date_day(self):
+        if isinstance(self.inf, timedelta):
+            return self.inf.days
+        else:
+            return 0
 
 
 if __name__ == '__main__':
