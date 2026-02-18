@@ -30,27 +30,36 @@ from convert import Convert
 
 
 import pandas as pd
-import os
+# import os
 import sys
 import time
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import UnexpectedAlertPresentException
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.keys import Keys
-import json
+# import json
 
-import pyautogui
+# import pyautogui
 
 
 log = Log()
-read_salve = Read_salve()
 convert = Convert()
+read_salve = Read_salve()
 
 def wait_and_exit(msn):
     print(msn)
     time.sleep(120)
     sys.exit()
 
+def salve_arq(write_file, folder_file):
+    read_salve.write_file = write_file
+    read_salve.folder_file = folder_file
+    read_salve.to_write()
+
+def read_arq(folder_file):
+    read_salve.folder_file = folder_file
+    return read_salve.to_read()
+    
 class Conexao:
     def __init__(self, *args, **kwargs):
         self.driver = kwargs.get('driver')
@@ -91,14 +100,7 @@ class Conexao:
     def zerar_variaveis(self):
         self.extencao = None
 
-    def salve_arq(self, write_file, folder_file):
-        read_salve.write_file = write_file
-        read_salve.folder_file = folder_file
-        read_salve.to_write()
 
-    def read_arq(self, folder_file):
-        read_salve.folder_file = folder_file
-        return read_salve.to_read()
 
     def func_key(self, path, keyboard):
         self.funct.path = path
@@ -244,7 +246,7 @@ class Conexao:
                     new_row. append(row)
                 rows += new_row
             # break
-        self.salve_arq(rows, path_clickvenda_json)
+        salve_arq(rows, path_clickvenda_json)
         return True
 
     # newcom 

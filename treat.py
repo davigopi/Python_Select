@@ -1,32 +1,35 @@
 from ast import Return
 import copy
-from tarfile import DEFAULT_FORMAT
-import time
+# from tarfile import DEFAULT_FORMAT
+# import time
 from datetime import datetime
 import sys
-import json
-from tkinter import N
-import re
+# import json
+# from tkinter import N
+# import re
 
-from dotenv import set_key
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
+# from dotenv import set_key
+# from selenium import webdriver
+# from selenium.webdriver.chrome.service import Service
+# from webdriver_manager.chrome import ChromeDriverManager
 # from decimal import Decimal
 
-from tempo import Tempo
-from log import Log
+from read_salve import Read_salve
+
+# from tempo import Tempo
+# from log import Log
 from conexao import Conexao
-import pandas as pd
-from tratar import Tratar
+# import pandas as pd
+# from tratar import Tratar
 from renomear import Renomear
 from var import *
-from chromeDriverauto  import ChromeDriverAuto
-from convert import Convert
+# from chromeDriverauto  import ChromeDriverAuto
+# from convert import Convert
 from analiseConsorcio import AnaliseConsorcio
 
 conexao = Conexao()
 renomear = Renomear()
+read_salve = Read_salve()
 # analiseConsorcio = AnaliseConsorcio()
 
 
@@ -44,13 +47,22 @@ def is_list_data_valida(list_data):
 def order_date(list_order, order_reverse):
     return sorted(list_order, key=lambda x: datetime.strptime(x, "%d/%m/%Y"), reverse=order_reverse)  
 
+def salve_arq(write_file, folder_file):
+    read_salve.write_file = write_file
+    read_salve.folder_file = folder_file
+    read_salve.to_write()
+
+def read_arq(folder_file):
+    read_salve.folder_file = folder_file
+    return read_salve.to_read()
+
 class Treat():
     def __init__(self, *args, **kwargs):
         self.disc_newcon = None
 
     def get_arq_list(self, path):
         try:
-            list_dict_running = conexao.read_arq(path)
+            list_dict_running = read_arq(path)
             if isinstance(list_dict_running, list):
                 self.disc_newcon = list_dict_running
                 return True
@@ -460,7 +472,7 @@ class Treat():
         self.del_key_from_dict(['Cota', 'Bem', 'Filial', 'Dt.Desclassificação', 'Pto. Venda'])
 
         # self.create_key_controle([grupo, 'Dt. Confirmação', 'Modalidade', 'tabela'])
-        # conexao.salve_arq(self.disc_newcon, path_newcon_json_tratado)
+        # salve_arq(self.disc_newcon, path_newcon_json_tratado)
         # return
 
         # # ira testar quantidade e imprimir na tela para saber se esta correto as quantidades
@@ -523,7 +535,7 @@ class Treat():
 
         
 
-        conexao.salve_arq(self.disc_newcon, path_newcon_json_tratado)
+        salve_arq(self.disc_newcon, path_newcon_json_tratado)
 
 
 if __name__ == '__main__':

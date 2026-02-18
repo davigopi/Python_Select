@@ -10,7 +10,8 @@ def full_path(folder_file):
         base = os.path.dirname(sys.executable)
     else:
         # Quando rodar como .py (pega o local do main)
-        base = os.path.dirname(os.path.abspath(sys.argv[0]))
+        # base = os.path.dirname(os.path.abspath(sys.argv[0]))
+        base = os.path.dirname(os.path.abspath(__file__))
     full_folder_file = os.path.normpath(os.path.join(base, folder_file))
     ensure_folder(full_folder_file)
     return full_folder_file

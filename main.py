@@ -7,33 +7,33 @@
 # # python -m pip install webdriver-manager --upgrade
 # # python -m pip install packaging
 
-from ast import Return
+# from ast import Return
 import copy
-from tarfile import DEFAULT_FORMAT
+# from tarfile import DEFAULT_FORMAT
 import time
-from datetime import datetime
+# from datetime import datetime
 import sys
-import json
+# import json
 from tkinter import N
-import re
+# import re
 
-from dotenv import set_key
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
+# from dotenv import set_key
+# from selenium import webdriver
+# from selenium.webdriver.chrome.service import Service
+# from webdriver_manager.chrome import ChromeDriverManager
 # from decimal import Decimal
 
 from tempo import Tempo
 from log import Log
 from conexao import Conexao
-import pandas as pd
+# import pandas as pd
 from tratar import Tratar
 from renomear import Renomear
 from var import *
 from chromeDriverauto  import ChromeDriverAuto
 from convert import Convert
 from treat import Treat
-
+from read_salve import Read_salve
 
 # from IPython.display import display
 
@@ -45,6 +45,7 @@ tratar = Tratar()
 chromeDriverAuto = ChromeDriverAuto()
 convert = Convert()
 treat = Treat()
+read_salve = Read_salve()
 
 datahora = tempo.tempo_arq()
 path_all_log = p_log + arq_log + datahora + ext_Log
@@ -68,10 +69,19 @@ def log_tempo_programa():
     log.write_log = write_log
     log.escrever()
 
-def gravar(df, arq):
-    conexao.df = df
-    conexao.file_arq = arq
-    conexao.gravar()
+# def gravar(df, arq):
+#     conexao.df = df
+#     conexao.file_arq = arq
+#     conexao.gravar()
+
+def salve_arq(write_file, folder_file):
+    read_salve.write_file = write_file
+    read_salve.folder_file = folder_file
+    read_salve.to_write()
+
+def read_arq(folder_file):
+    read_salve.folder_file = folder_file
+    return read_salve.to_read()
 
 # def juntar(json_base, json_novo):
 #     return json_base + (json_novo or [])
@@ -141,7 +151,7 @@ class Clickvenda:
                 getattr(conexao, info_clickvenda['navegate_start'])()
                 if getattr(conexao, info_clickvenda['navegate'])():
                     break
-        return getattr(conexao, info_clickvenda['read'])(path_clickvenda_json)
+        return globals()[info_clickvenda['read']](path_clickvenda_json)
     
 class Newcon:
     def __init__(self, *args, **kwargs):

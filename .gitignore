@@ -12,3 +12,5 @@ __pycache__/
 *.rar
 .env
 senha.txt
+senha.json
+config/senha.json
