@@ -1,8 +1,9 @@
 import json
 import os
-from firebase_admin import credentials, firestore, initialize_app
-from var import *
-from read_salve import Read_salve
+import firebase_admin
+from firebase_admin import credentials, firestore
+from src.var import *
+from src.read_salve import Read_salve
 
 
 read_salve = Read_salve()
@@ -16,7 +17,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CAMINHO_CREDENCIAL = os.path.join(BASE_DIR, "config", "senha.json")
 CAMINHO_DADOS = os.path.join(BASE_DIR, "dados_tratados.json")
 
-COLLECTION_NAME = "grupos"
+COLLECTION_NAME = grupo
 
 
 # ============================================================
@@ -24,8 +25,9 @@ COLLECTION_NAME = "grupos"
 # ============================================================
 
 def conectar_firestore():
-    cred = credentials.Certificate(CAMINHO_CREDENCIAL)
-    initialize_app(cred)
+    if not firebase_admin._apps:
+        cred = credentials.Certificate(CAMINHO_CREDENCIAL)
+        firebase_admin.initialize_app(cred)
     return firestore.client()
 
 
@@ -34,8 +36,8 @@ def conectar_firestore():
 # ============================================================
 
 
-def read_arq(folder_file):
-    read_salve.folder_file = folder_file
+def read_arq(path_file):
+    read_salve.path_file = path_file
     dados = read_salve.to_read()
 
     if not isinstance(dados, list):
@@ -53,11 +55,11 @@ def tratar_tipos(item):
     if "prazo" in item:
         item["prazo"] = int(item["prazo"])
 
-    if "realizadas" in item:
-        item["realizadas"] = int(item["realizadas"])
+    if realizadas in item:
+        item[realizadas] = int(item[realizadas])
 
-    if "arealizar" in item:
-        item["arealizar"] = int(item["arealizar"])
+    if a_realizar in item:
+        item[a_realizar] = int(item[a_realizar])
 
     return item
 
@@ -78,7 +80,7 @@ def enviar_para_firestore(db, dados):
         item = tratar_tipos(item)
 
         # ID controlado: grupo_prazo
-        doc_id = f"{item['grupo']}"
+        doc_id = f"{item[grupo]}"
         doc_ref = collection_ref.document(doc_id)
 
         batch.set(doc_ref, item)
@@ -100,21 +102,17 @@ def enviar_para_firestore(db, dados):
     print("🚀 Finalizado envio para Firestore!")
 
 
-# ============================================================
-# MAIN
-# ============================================================
+def Import_firestore(path_arq):
+    print("🔌 Conectando ao Firestore...")
+    db = conectar_firestore()
 
-# def main():
-print("🔌 Conectando ao Firestore...")
-db = conectar_firestore()
+    print("📦 Carregando dados...")
+    dados = read_arq(path_arq)
 
-print("📦 Carregando dados...")
-dados = read_arq(path_newcon_json_tratado)
+    print(f"🚀 Enviando {len(dados)} registros...")
+    enviar_para_firestore(db, dados)
 
-print(f"🚀 Enviando {len(dados)} registros...")
-enviar_para_firestore(db, dados)
-
-print("✅ Importação concluída com sucesso!")
+    print("✅ Importação concluída com sucesso!")
 
 
 # if __name__ == "__main__":

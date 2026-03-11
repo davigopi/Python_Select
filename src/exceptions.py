@@ -1,0 +1,2 @@
+class BlockExecution(Exception):
+    pass
